@@ -1,0 +1,193 @@
+{af}
+Een, twee, drie, vier, vyf, ses, sewe, agt, nege, tien, elf, twaalf, dertien, veertien, vyftien, sestien, sewentien, agtien, negentien, twintig, een-en-twintig, twee-en-twintig, twintig- en twintigdrie,
+Vier-en-twintig, vyf-en-twintig, ses-en-twintig, sewe-en-twintig, agt-en-twintig, nege-en-twintig, dertig, een-en-dertig, twee-en-dertig, drie-en-dertig, vier-en-dertig, vyf-en-dertig, ses-en-dertig,Sewe-en-dertig, agt-en-dertig,
+Nege-en-dertig, een-en-veertig, twee-en-veertig, drie-en-veertig, vier-en-veertig, vyf-en-veertig, ses-en-veertig, sewe-en-veertig, agt-en-veertig, nege-en-veertig, vyftig, vyftig, een, vyftig- en vyftigTwee, drie-en-vyftig, vier-en-vyftig, vyf-en-vyftig,
+Ses-en-vyftig, sewe-en-vyftig, agt-en-vyftig, nege-en-vyftig, sestig, een-en-sestig, twee-en-sestig, drie-en-sestig, vier-en-sestig, vyf-en-sestig, ses-en-sestig, sewe-en-sestig, agt-en-sestig, agt-en-sestig,Nege-en-sestig, sewentig, een-en-sewentig, twee-en-sewentig,
+Drie-en-sewentig, vier-en-sewentig, vyf-en-sewentig, ses-en-sewentig, sewe-en-sewentig, agt-en-sewentig, nege-en-sewentig, tagtig, een-en-tagtig, twee-en-tagtig, drie-en-tagtig, vier en tagtig, vyf-en-tagtig,Ses-en-tagtig, sewe-en-tagtig,
+Agt-en-tagtig, negentig, negentig, een en negentig, twee-en-negentig, drie-en-negentig, vier en negentig, vyf en negentig, ses en negentig, sewe-en-negentig, agt-en-negentig, nege-en-negentig
+{sq}
+Një, dy, tre, katër, pesë, gjashtë, shtatë, tetë, nëntë, dhjetë, njëmbëdhjetë, dymbëdhjetë, trembëdhjetë, katërmbëdhjetë, pesëmbëdhjetë, gjashtëmbëdhjetë, shtatëmbëdhjetë, tetëmbëdhjetë, nëntëmbëdhjetë, njëzet e një, njëzet e dy, njëzet e dy, njëzet e dy, njëzet e dy, njëzet e dy, njëzet e dy, njëzet e dy, njëzet e dy, njëzet e dy, njëzet e dy, njëzet e dy, njëzet e dy, njëzet e dy, njëzet e dy, njëzet e dy, njëzet e dy, njëzet e dy, njëzet e dy, njëzet e dy, njëzet e dy, njëzet e dy, njëzet e dy, njëzet e dy,Tre,
+Njëzet e katër, njëzet e pesë, njëzet e gjashtë, njëzet e shtatë, njëzet e tetë, njëzet e nëntë, tridhjetë, tridhjetë e një, tridhjetë e dy, tridhjetë e tre, tridhjetë e katër, tridhjetë e pesë, tridhjetë e gjashtë,Tridhjetë e shtatë, tridhjetë e tetë,
+Tridhjetë e nëntë, dy, dy e një, dyzet e dy, dyzet e tre, dyzet e katër, dyzet e gjashtë, dyzet e shtatë, dyzet e shtatë, dyzet e tetë, dyzet e nëntë, pesëdhjetë e një, pesëdhjetë e një, pesëdhjetë e një, pesëdhjetë e një, pesëdhjetë e një, pesëdhjetë e njëdy, pesëdhjetë e tre, pesëdhjetë e katër, pesëdhjetë e pesë,
+Pesëdhjetë e gjashtë, pesëdhjetë e shtatë, pesëdhjetë e tetë, pesëdhjetë e nëntë, gjashtëdhjetë, gjashtëdhjetë e një, gjashtëdhjetë e dy, gjashtëdhjetë e tre, gjashtëdhjetë e katër, gjashtëdhjetë e pesë, gjashtëdhjetë e gjashtë, gjashtëdhjetë e shtatë, gjashtëdhjetë e tetë,Gjashtëdhjetë e nëntë, shtatëdhjetë, shtatëdhjetë e një, shtatëdhjetë e dy,
+Shtatëdhjetë e tre, shtatëdhjetë e katër, shtatëdhjetë e pesë, shtatëdhjetë e gjashtë, shtatëdhjetë e shtatë, shtatëdhjetë e tetë, shtatëdhjetë e nëntë, tetëdhjetë, tetëdhjetë e një, tetëdhjetë e dy, tetëdhjetë e tre, tetëdhjetë e katër, tetëdhjetë e pesë,Tetëdhjetë e gjashtë, tetëdhjetë e shtatë,
+Tetëdhjetë e tetë, tetëdhjetë e nëntë, nëntëdhjetë, nëntëdhjetë e një, nëntëdhjetë e dy, nëntëdhjetë e tre, nëntëdhjetë e katër, nëntëdhjetë e pesë, nëntëdhjetë e gjashtë, nëntëdhjetë e shtatë, nëntëdhjetë e tetë, nëntëdhjetë e nëntë
+{am}
+አንድ, ሁለት, ሦስት, አራት, አምስት, አምስት, ሰባት, ስምንት, ስምንት, ስምንት, አሥራ ሰባት, አሥራ ሰባት, ሃያ ሁለት, ሃያ ሁለት, ሃያ ሁለት, ሃያ ሁለት ነው.ሶስት,
+ሃያ አራት, ሃያ አምስት, ሃያ ስድስት, ሃያ ስምንት ሀያ ስምንት ሰባት, ሠላሳ ሦስት ሠላሳ ሠላሳ አራት ሠላሳ አራት ሠላሳ ስድስት, ሠላሳ ስድስት,ሠላሳ ሰባት, ሠላሳ ስምንት,
+ሠላሳ ዘጠኝ, አርባ አንድ አርባ ሁለት, አርባ ሁለት, አርባ አራት, አርባ አራት, አርባ አራት, አርባ ስምንት, አርባ ስምንት, አርባ ስምንት, አርባ ስምንት, አርባ ስምንት, አርባ ስምንት, አርባ ስምንት, አርባ ስምንት, አምሳ - አምሳ - አምሳ - ሃምሳሁለት አምሳ ሦስት, አምሳ አራት, አምሳ አምስት,
+አምሳ ስድስት አምሳ-አምሳ ሰባት, ስድሳ አምስት, ስድሳ ስድስት, ስድሳ ስድስት, ስድሳ ስድስት, ስድሳ ስድስት, ስድሳ ስድሳ ሰባት, ስድሳ ስድሳ ሰባት,ስድሳ ዘጠኝ, ሰባ, ሰባ አንድ, ሰባ ሁለት,
+Seventy-three, Seventy-four, Seventy-five, Seventy-six, Seventy-seven, Seventy-eight, Seventy-nine, Eighty, Eighty-one, Eighty-two, Eighty-three, Eighty-four, Eighty-five,ሰማንያ ስድስት, ሰማንያ ሰባት,
+ሰማንያ ስምንት, ሰማንያ ዘጠኝ, ዘጠና ዘጠና አንድ, ዘጠና ሁለት, ዘጠና ሁለት, ዘጠና ስድስት, ዘጠና ዘጠኝ, ዘጠና ዘጠኝ, ዘጠና ዘጠኝ, ዘጠና ዘጠኝ, ዘጠና ዘጠኝ, ዘጠና ዘጠኝ, ዘጠና ዘጠኝ, ዘጠና ዘጠኝ, ዘጠና ዘጠኝ, ዘጠና ዘጠኝ, ዘጠና ዘጠኝ, ዘጠና ዘጠኝ, ዘጠና ዘጠኝ, ዘጠና ዘጠኝ, ዘጠና ዘጠኝ, ዘጠና ዘጠኝ, ዘጠና ዘጠኝ, ዘጠና ዘጠኝ, ዘጠና ዘጠኝ, ዘጠና ዘጠኝ, ዘጠና ዘጠኝ, ዘጠና ዘጠኝ, ዘጠና ዘጠኝ
+{ar}
+واحد ، اثنان ، ثلاثة ، أربعة ، خمسة ، ستة ، سبعة ، ثمانية ، 9 ، تسعة ، عشرة ، 11 ، اثني عشر ، ثلاثة عشر ، أربعة عشر ، خمسة عشر ، ستة عشر ، سبعة عشر ، ثمانية عشر ، تسعة عشر ، 22 ، واحد وعشرون ، اثنان وعشرين ، عشرين ، عشرين ،ثلاثة،
+أربعة وعشرون ، خمسة وعشرون ، ستة وعشرين ، سبعة وعشرين ، ثمانية وعشرون ، تسعة وعشرون ، ثلاثين ، واحد وثلاثين ، اثنان وثلاثين ، ثلاثة وثلاثين ، أربعة وثلاثين ، خمسة وثلاثون ، ستة وثلاثون ،سبعة وثلاثون ، ثمانية وثلاثون ،
+تسعة وثلاثون ، وأربعون ، واحد وأربعون ، اثنان وأربعون ، ثلاثة وأربعون ، أربعة وأربعون ، خمسة وأربعين ، ستة وأربعين ، سبعة وأربعين ، ثمانية وأربعين ، خمسة وخمسين ، واحد وخمسين ، خمسين-اثنان ، ثلاثة وخمسين ، أربعة وخمسين ، خمسة وخمسين ،
+ستة وخمسون ، سبعة وخمسون ، خمسة وخمسين ، تسعة وخمسون ، ستين ، واحد وستون ، اثنان وستون ، ثلاثة وستين ، أربعة وستون ، خمسة وستين ، ستة وستون ، سبعة وستين ، ثمانية وستين ،تسعة وستون ، سبعين ، واحد وسبعون ، اثنان وسبعون ،
+ثلاثة وسبعين ، أربعة وسبعون ، خمسة وسبعون ، ستة وسبعين ، سبعة وسبعين ، ثمانية وسبعين ، تسعة وسبعون ، ثمانين ، واحد وثمانين ، اثنان وثمانون ، ثلاثة وثمانون ، أربعة وثمانين ، خمسة وثمانين ، خمسة وثمانين ،ستة وثمانون ، سبعة وثمانين ،
+ثمانية وثمانون ، تسعة وثمانين ، تسعين ، واحد وتسعين ، اثنان وتسعين ، ثلاثة وتسعين ، أربعة وتسعين ، خمسة وتسعين ، ستة وتسعين ، سبعة وتسعين ، ثمانية وتسعين ، تسعة وتسعين
+{hy}
+Մեկ, երկու, երեք, չորս, հինգ, վեց, յոթ, ութ, ինը, տասը, տասնմեկ, տասներկու, տասներեք, տասնչորս, տասնհինգ, տասնվեց տարեկան, տասնութ, տասնութ, քսան երկու, քսան երկու, քսան երկուերեք,
+Քսան չորս, քսանհինգ, քսանմեկ, քսան յոթ, քսան ութ, քսանինը, երեսուն, երեսուն, երեսուն երկու, երեսուներեք, երեսուն չորս, երեսուն վեց, երեսունվեցԵրեսունյոթ, երեսուն ութ,
+Երեսուն ինը, քառասուն, քառասուն մեկ, քառասուներկու, քառասունչորս, քառասունչորս, քառասուն վեց, քառասուն վեց, քառասուն ութ, հիսուն ութ, հիսուն ութ, հիսուն ութերկու, հիսուն երեք, հիսունչորս, հիսունհինգ,
+Հիսուն վեց, հիսունյոթ, հիսուն ութ, հիսուն ութը, վաթսուն, վաթսունինը, վաթսուներկու, վաթսուն երեք, վաթսունով չորս, վաթսունհինգ, վաթսուն վեց, վաթսունով վեցՎաթսունինը, յոթանասուն, յոթանասուն մեկ, յոթանասուներկու,
+Յոթանասուն երեք, յոթանասունչորս, յոթանասունհինգ, յոթանասուն վեց, յոթանասունյոթ յոթանասուն վեց, յոթանասունինը, ութսուն ութսունը, ութսուներկու, ութսուներկու, ութսուն չորս, ութսունհինգ,Ութսուն վեց, ութսունյոթ,
+Ութսունութ, ութսունինը իննը, իննսունինը իննսունինը, իննսուն երկու, իննսուն երեք, իննսուն չորս, իննսունհինգ, իննսուն վեց, իննսունյոթ, իննսուն ութ, իննսունինը
+{az}
+Bir, iki, üç, dörd, beş, altı, səkkiz, 9, on, on, on beş, on üç, on üç, on beş, on beş, on səkkiz, on doqquz, iyirmi, iyirmi, iyirmi - iyirmi, iyirmi-Üç,
+İyirmi dörd, iyirmi beş, iyirmi altı, iyirmi yeddi, iyirmi səkkiz, iyirmi doqquz, otuz, otuz iki, otuz dörd, otuz dörd, otuz dörd, otuz dörd, otuz dörd,Otuz yeddi, otuz səkkiz,
+Otuz doqquz, qırx doqquz, qırx bir, qırx iki, qırx üç, qırx beş, qırx beş, qırx altı, qırx səkkiz, qırx səkkiz, qırx-doqquz, əlli, əlli, əlli,Əlli üç, əlli dörd, əlli beş,
+Əlli altı, əlli səkkiz, əlli səkkiz, altmış, altmış, altmış iki, altmış üç, altmış dörd, altmış altı, altmış altı, altmış altı, altmış səkkiz,Altmış doqquz, yetmiş, yetmiş bir, yetmiş iki,
+Yetmiş üç, yetmiş üç, yetmiş beş, yetmiş altı, yetmiş altı, yetmiş yeddi, yetmiş səkkiz, yetmiş doqquz, səksən, səksən, səksən iki, səksən-üç, səksən-dörd, səksən-dörd, səksən-dörd, səksən-dörd, səksən dörd, səksən-dörd,Səksən altı, səksən yeddi,
+Səksən səkkiz, səksən doqquz, doxsan, doxsan, doxsan iki, doxsan üç, doxsan dörd, doxsan-beş, doxsan altı, doxsan altı, doxsan-yeddi, doxsan səkkiz, doxsan-doqquz
+{eu}
+Bat, bi, hiru, lau, bost, sei, zazpi, zortzi, bederatziak, hamar, hamabi, hamahiru, hamahiru, hamahiru, hamabost, hamazazpi, hogeita bat, hogeita bi, hogeita bat, hogeita bi, hogeita bat, hogeita bi, hogeita bat, hogeita bi, hogeita bat, hogeita bi, hogeita bat, hogeita bi, hogeita bat, hogeita bi, hogeita bat, hogeita bi, hogeita bat, hogeita bi, hogeita bat, hogeita bi, hogeita bat, hogeita bihiru,
+Hogeita lau, hogeita bost, hogeita sei, hogeita zortzi, hogeita zortzi, hogeita hemeretzi, hogeita hamabost, hogeita hamabost, hogeita hamabost, hogeita hamabost, hogeita hamaseiHogeita hamazazpi, hogeita zortzi,
+Hogeita hemeretzi, berrogeita hemeretzi, berrogeita bi, berrogeita hiru, berrogeita lau, berrogeita bost, berrogeita hamaika, berrogeita bederatzi, berrogeita berrogeita berrogeita bat, berrogeita hamar-bi, berrogeita hiru, berrogeita hamabost, berrogeita bost,
+Berrogeita hamaikako berrogeita hamabost, berrogeita hamazazpi, berrogeita hemeretzi, hirurogeita hemeretzi, hirurogeita hemeretzi, hirurogeita hamabi, hirurogeita hiru, hirurogeita hamabost, hirurogeita hamasei, hirurogeita hamasei, hirurogeita zortziHirurogeita hemeretzi, hirurogeita bat, hirurogeita bi,
+Hirurogeita hamahiru, hirurogeita hamabost, hirurogeita hamabost, hirurogeita hamazazpi, hirurogeita zazpi, hirurogeita hemeretzi, laurogeita hemeretzi, laurogeita bi, laurogeita bi, laurogeita hiru, laurogeita hiru, laurogeita hiruLaurogeita sei, laurogeita zazpi,
+Laurogeita zortzi, laurogeita zortzi, laurogeita hemeretzi, laurogeita hemeretzi, laurogeita bi, laurogeita bi, laurogeita hiru, laurogeita bost, laurogeita hamasei, laurogeita hemezortzi, laurogeita hemeretzi
+{be}
+Адзін, два, тры, чатыры, пяць, шэсць, сем, восем, дзевяць, дзесяць, адзінаццаць, дванаццаць, трынаццаць, чатырнаццаць, пятнаццаць, шаснаццаць, сямнаццаць, васемнаццаць, дзевятнаццаць, дваццаць, дваццаць адзін, дваццаць два, дваццаць-тры,
+Дваццаць чатыры, дваццаць пяць, дваццаць шэсць, дваццаць сем, дваццаць восем, дваццаць дзевяць, трыццаць, трыццаць адзін, трыццаць два, трыццаць тры, трыццаць чатыры, трыццаць пяць, трыццаць шэсцьТрыццаць сем, трыццаць восем,
+Трыццаць дзевяць, сорак, сорак адзін, сорак двадва, пяцьдзесят тры, пяцьдзесят чатыры, пяцьдзесят пяць,
+Пяцьдзесят шэсць, пяцьдзесят сем, пяцьдзесят восем, пяцьдзесят дзевяць, шэсцьдзесят, шэсцьдзесят адзін, шэсцьдзесят два, шэсцьдзесят тры, шэсцьдзесят чатыры, шэсцьдзесят пяць, шэсцьдзесят шэсцьдзесят, шэсцьдзесят сем, шэсцьдзесят восем,Шэсцьдзесят дзевяць, семдзесят, семдзесят адзін, семдзесят два,
+Семдзесят тры, семдзесят чатыры, семдзесят пяць, семдзесят шэсць, семдзесят сем, семдзесят восем, семдзесят дзевяць, восемдзесят, восемдзесят адзін, восемдзесят два, восемдзесят тры, восемдзесят чатыры, восемдзесят пяць, восемдзесят пяць,Восемдзесят шэсць, восемдзесят сем,
+Восемдзесят восем, восемдзесят дзевяць, дзевяноста, дзевяноста адзін, дзевяноста два, дзевяноста тры, дзевяноста чатыры, дзевяноста пяць, дзевяноста шэсць, дзевяноста сем, дзевяноста восем, дзевяноста дзевяць
+{bn}
+এক, দুই, তিন, চার, পাঁচ, ছয়, সাত, আট, নয়, দশ, উচ্ছ্বসতিন,
+চব্বিশ, চব্বিশ, পঁচিশ, ছাব্বিশ, সাতাশ, আঠারো, উনিশটি, ত্রিশ, একত্রিশ, বত্রিশ, তেত্রিশটি, ত্রিশটি, তিরিশ, তিরিশ, ছত্রিশ, ছত্রিশ, ছত্রিশ, ছত্রিশ, ছত্রিশ, ছত্রিশ,ত্রিশটি, আটত্রিশ,
+Thirty-nine, Forty, Forty-one, Forty-two, Forty-three, Forty-four, Forty-five, Forty-six, Forty-seven, Forty-eight, Forty-nine, Fifty, Fifty-one, Fifty-দুই, পঁচান্ন, পঞ্চাশ, পঞ্চাশ, পঞ্চাশ,
+পঁচান্ন, পঁচান্ন, পঁচান্ন, পঞ্চাশ, পঁচান্ন, ষাট্টি, ষাট জন, ষাট জন, চৌষট্টি, চৌষট্টি, চৌষট্টি, ষাট-ছয়, ষাটজন, ষাট-আট, ষাট-আট,উনান্নটি, সত্তর, একাত্তর, বাহাত্তর,
+পঁচাত্তর, পঁচাত্তর, পঁচাত্তর, ছত্রিশ, পঁচাত্তর, পঁচাত্তর, পঁচাত্তর, পঁচাত্তর, পঁচাত্তর, আশি, পঁচাশি, পঁচাশি, পঁচাশি, পঁচাশি, পঁচাশি, পঁচাশি, পঁচাশি,আশি-ছয়, সাতটি,
+আশি আটটি, আশি আটটি, উনান্নটি, একানব্বই, একানব্বই, নবত্রানব্বই, নব্বই-চৌদ্দ, নব্বই-সিক্স, নব্বইান, নব্বইান, উনানব্বই, উনানব্বই উনান্নটি উনান্নটি
+{bs}
+Jedan, dva, tri, četiri, pet, šest, sedam, osam, devet, deset, jedanaest, dvanaest, trinaest, četrnaest, petnaest, šesnaest, sedamnaest, osamnaest, devetnaest, dvadeset i dvadeset i dvadeset i dvadeset i dvadeset i dvadeset i dvadeset i dvadeset i dvadeset i dvadeset i dvadeset i dvadeset i dvadeset i dvadeset i dvadeset i dvadeset i dvadeset i dvadeset i dvadeset i dvadeset i dvadeset i dvadeset i dvadeset i dvadeset i dvadeset i dvadeset i dvadeset i dvadeset i dvadeset i dvadeset i dvadeset i dvadeset i dvadeset i dvadeset i dvadeset i dvadeset i dvadeset i dvadeset i dvadeset i dvadeset i dvadeset i dvadeset i dvadeset i dvadeset i dvadeset i dvadeset i dvadeset i dvadeset)tri,
+Dvadeset i četiri, dvadeset i pet, dvadeset i šest, dvadeset i sedam, dvadeset i osam, dvadeset devet, trideset, trideset i trideset dva, trideset tri, trideset četiri, trideset pet, trideset i šest,Trideset sedam, trideset i osam,
+Trideset devet, četrdeset, četrdeset i četrdeset i dvije, četrdeset tri, četrdeset i četrdeset i pet, četrdeset i šest, četrdeset i sedam, četrdeset i osam, četrdeset i devet, pedeset, pedeset i pedesetDva, pedeset i tri, pedeset i četiri, pedeset i pet,
+Pedeset i šest, pedeset i sedam, pedeset i osam, pedeset devet, šezdeset, šezdeset i jednu šezdeset i dvije, šezdeset i tri, šezdeset i četiri, šezdeset i pet, šezdeset i šest, šezdeset i sedam, šezdeset i osam, šezdeset i sedam, šezdeset i osam,Šezdeset devet, sedamdeset, sedamdeset i jedan, sedamdeset i dva,
+Sedamdeset i tri, sedamdeset i četiri, sedamdeset i pet, sedamdeset i šest, sedamdeset i sedam, sedamdeset i osam, sedamdeset i devet, osamdeset, osamdeset i jedno, osamdeset i osamdeset i osam, osamdeset i osamdeset i osam,Osamdeset i šest, osamdeset i sedam,
+Osamdeset i osam, osamdeset devet, devedeset, devedeset i jedan, devedeset i dva, devedeset i tri, devedeset i četiri, devedeset i pet, devedeset i šest, devedeset i devedeset i devedeset-devet
+{bg}
+Едно, две, три, четири, пет, шест, седем, осем, девет, десет, единадесет, дванадесет, тринадесет, четиринадесет, петнадесет, шестнадесет, седемнадесет, осемнадесет, деветнадесет, двадесет, двадесет и един, двадесет и две, двадесет-три,
+Двадесет и четири, двадесет и пет, двадесет и шест, двадесет и седем, двадесет и осем, двадесет и девет, тридесет, тридесет и един, тридесет и две, тридесет и три, тридесет и четири, тридесет и пет, тридесет и шест,Тридесет и седем, тридесет и осем,
+Тридесет и девет, четиридесет, четиридесет и един, четиридесет и две, четиридесет и три, четиридесет и четиридесет и пет, четиридесет и шест, четиридесет и седем, четиридесет и осем, четиридесет и девет, петдесет, петдесет, петдесет-две, петдесет и три, петдесет и четири, петдесет и пет,
+Петдесет и шест, петдесет и седем, петдесет и осем, петдесет и девет, шестдесет, шестдесет и един, шестдесет и две, шестдесет и три, шестдесет и четири, шестдесет и пет, шестдесет и шест, шестдесет и седем, шестдесет и осем,Шестдесет и девет, седемдесет, седемдесет и един, седемдесет и две,
+Седемдесет и три, седемдесет и четири, седемдесет и пет, седемдесет и шест, седемдесет и седем, седемдесет и осем, седемдесет и девет, осемдесет, осемдесет и един, осемдесет и две, осемдесет и три, осемдесет и четири, осемдесет и пет,Осемдесет и шест, осемдесет и седем,
+Осемдесет и осем, осемдесет и девет, деветдесет, деветдесет и един, деветдесет и две, деветдесет и три, деветдесет и четири, деветдесет и пет, деветдесет и шест, деветдесет и седем, деветдесет и осем, деветдесет и девет
+{ca}
+Un, dos, tres, quatre, cinc, sis, sis, set, vuit, nou, deu, onze, dotze, tretze, catorze, quinze, setze, disset, divuit, dinou, vint, vint-i-un, vint-i-dos, vint-tres,
+Vint-i-quatre, vint-i-cinc, vint-i-sis, vint-i-set, vint-i-vuit, vint-i-nou, trenta, trenta-un, trenta-dos, trenta-tres, trenta-quatre, trenta-cinc, trenta-sis,Trenta-set, trenta-vuit,
+Trenta-nou, quaranta, quaranta-un, quaranta-dos, quaranta-tres, quaranta-quatre, quaranta-cinc, quaranta-sis, quaranta-set, quaranta-vuit, quaranta-nou, cinquanta, cinquanta-cinquanta, cinquanta-cinquantados, cinquanta-tres, cinquanta-quatre, cinquanta-cinc,
+Cinquanta-sis, cinquanta-set, cinquanta-vuit, cinquanta-nou, seixanta, seixanta-un, seixanta-dos, seixanta-tres, seixanta-quatre, seixanta-cinc, seixanta-sis, seixanta-set, seixanta-vuit,Seixanta-nou, setanta, setanta-un, setanta-dos,
+Setanta-tres, setanta-quatre, setanta-cinc, setanta-sis, setanta-set, setanta-vuit, setanta-nou, vuitanta, vuitanta-un, vuitanta-dos, vuitanta-tres, vuitanta-quatre, vuitanta-cinc,Vuitanta-sis, vuitanta-set,
+Vuitanta-vuit, vuitanta-nou, noranta, noranta-un, noranta-dos, noranta-tres, noranta-quatre, noranta-cinc, noranta-sis, noranta-set, noranta-vuit, noranta-nou
+{ceb}
+Usa, duha, tulo, lima, lima, pito, walo, siyam, napulo ug usa, napulo ug usa, napulo ug usa, napulo ug usa, napulo ug pito, kaluhaan ug duha, kawhaag-duha.tulo,
+Kaluhaan ug upat, kaluhaan ug lima, kaluhaan ug lima, pito, kaluhaan ug upat, katloan ug lima,Katloan ug pito, katloan ug walo,
+Katloan ug siyam, kap-atan ug kap-atan ug usa, kap-atan ug duha, kap-atan ug upat, kap-atan ug lima, kap-atan ug lima, kalim-an ug kalim-an-duha, kalim-an ug tulo, kalim-an ug upat, kalim-an ug lima,
+Fifty-six, Fifty-seven, Fifty-eight, Fifty-nine,Sixty, Sixty-one, Sixty-two, Sixty-three, Sixty-four, Sixty-five, Sixty-six, Sixty-seven, Sixty-eight,Kan-uman ug siyam, Seventy, kapitoan ug usa, kapitoan ug duha,
+Seventy-three, Seventy-four, Seventy-five, Seventy-six, Seventy-seven, Seventy-eight, Seventy-nine, Eighty, Eighty-one, Eighty-two, Eighty-three, Eighty-four, Eighty-five,Kawaloan ug unom, kawaloan ug pito,
+Kawaloan ug walo, kawaloan ug siyam, kasiyaman ug usa, kasiyaman ug upat, kasiyaman ug siyam, siyam
+{ny}
+Chimodzi, ziwiri, zinayi, zisanu, zisanu, zisanu ndi ziwiri, zisanu ndi zitatu, khumi ndi zisanu ndi chimodzi, makumi awiri, khumi ndi khumi ndi zisanu ndi chimodzi, makumi awiri ndi awiri, makumi awiri-zitatu,
+Makumi awiri ndi anayi, makumi awiri ndi zisanu, twente-zisanu ndi chimodzi, makumi awiri ndi zisanu ndi zitatu, makumi atatu ndi zisanu ndi zitatu, makumi atatu ndi zisanu, makumi atatu ndi zisanu, makumi atatu ndi zisanu, zisanu ndi chimodzi, zisanu ndi chimodzi, zisanu ndi chimodzi,Makumi atatu ndi zisanu ndi ziwiri, makumi atatu ndi zisanu ndi zitatu,
+Makumi atatu mphambu zisanu ndi zinayi, makumi anayi, makumi anayi ndi chimodzi, makumi anayi mphambu makumi anayi, makumi anayi ndi zisanu ndi chimodzi, makumi anayi ndi zisanu ndi zitatu, makumi asanu ndi atatu, makumi asanu ndi atatu-Awiri, makumi asanu ndi atatu, makumi asanu ndi anayi, makumi asanu ndi zisanu,
+50.Ndiri, makumi asanu ndi limodzi mphambu zisanu ndi chimodzi, zisanu ndi ziwiri, makumi asanu ndi zisanu ndi zitatu, makumi asanu ndi limodzi mphambu makumi asanu ndi limodzi mphambu makumi asanu ndi limodzi.Makumi asanu ndi limodzi mphambu zisanu ndi zitatu, makumi asanu ndi awiri mphambu makumi asanu ndi awiri kudza makumi asanu ndi awiri kudza awiri,
+Makumi asanu ndi awiri mphambu makumi asanu ndi awiri mphambu makumi asanu ndi awiri kudza anayi, makumi asanu ndi awiri mphambu zisanu, zisanu ndi zisanu, zisanu ndi zitatu, makumi asanu ndi awiri mphambu zisanu ndi zitatu, makumi asanu ndi atatu, makumi asanu ndi atatu, makumi asanu ndi atatu, makumi asanu ndi atatu,Makumi asanu ndi atatu mphambu zisanu ndi chimodzi, makumi asanu ndi atatu,
+Makumi asanu ndi atatu mphambu zisanu ndi zitatu
+{zh-TW}
+一，二，三，四，五，六，七，八，九，十一，十一，十二，十三，十四，十五，十六歲，十七歲，十七歲，十八歲，十九歲，二十，二十一，二十一，二十二，22三，
+二十四，二十六，二十六，二十七，二十八，二十八，三十，三十一個，三十二，三十三，三十三，三十四，三十五，三十五三十七個，三十八，
+33，四十九歲，四十二，四十三，四十四，四十四，四十五，四十六，四十七，四十八，四十八，四十九，四十，五十，五十，五十一兩個，五十三，五十四，五十五，
+五十六，五十七，五十八，五十九，六十，六十六，六十六，六十三，六十四，六十五，六十六，六十六，六十七，六十八，六十八，六十八六十九，七十，七十，七十二，
+七十三，七十八，七十六，七十七，七十八，七十八，七十九，八十八，八十八，八十八，八十三，八十三，八十四，八十五，八十五，八十八八十六，八十七，
+八十八，九十八，九十八，九十二，九十三，九十八，九十四，九十五，九十五，九十六，九十七，九十七
+{co}
+E, duie, trè, quattru, cinque, sei, sette, sette, unes anni, ungescieci, dicciannu anni, diciassette, dilettanti, diciane anni, vinti anni, daghjintendu dui, vinti, dazilizinetre,
+Twenty-four, Twenty-five, Twenty-six, Twenty-seven, Twenty-eight, Twenty-nine, Thirty, Thirty-one, Thirty-two, Thirty-three, Thirty-four, Thirty-five, Thirty-six,Trenta sette, trenta ottu,
+Trenta-nove, quaranta, quarantazia, quaranta-dui, quaranta-quattru, quarantina-cinque, quarquanta-sei, quaranta-nove, cinquanta Pronunciaduie, cinquanta trè, cinquanta quattru, cinquanta cinque,
+Cinquanta sete, Cinquanta-sette quattru ottu, cinquantazu sessanta, sessanta, sessanta due, sessanta cinque, sessanta sette, sessanta sette, sessantaSessanta-nove, settanta, settanta-una, settanta dui,
+Settanta-trè, settanta-quattru, settanta-cinque, settanta, settanta-set, settanta-ottu, settanta-nove, ottanta-trè, ottanta-four, ottanta cinque anni, ottanta cinque anni, ottanta cinque anni, ottanta cinque anni, ottanta cinque anni, ottanta cinque anni, ottanta cinque anni, ottanta cinque anni, ottanta cinque anni, ottanta cinque anni, ottanta cinque anni, ottanta cinque anni, ottanta cinque anni, ottanta cinque anni, ottanta cinque anni, ottanta-cinque, ottanta-cinque, ottanta-four, ottanta cinque anni, ottanta-four, ottanta cinque anni, ottanta cinque anni, ottanta-cinque, ottanta-cinque, ottanta-cinque,Ottanta sei, ottanta sette,
+Ottanta ottu, ottanta nove, novanta, novanta-dui, novanta-trè, novanta quattru, novanta-sei, novanta-sei, novanta-il novanta-nove
+{hr}
+Jedan, dva, tri, četiri, pet, šest, sedam, osam, devet, deset, jedanaest, dvanaest, trinaest, četrnaest, petnaest, šesnaest, sedamnaest, osamnaest, devetnaest, dvadeset, dvadeset i dva, dvadeset-tri,
+Dvadeset i četiri, dvadeset i pet, dvadeset i šest, dvadeset i sedam, dvadeset i osam, dvadeset i devet, trideset, trideset i jedna, trideset i tri, trideset i četiri, trideset i pet, trideset i šest,Trideset i sedam, trideset i osam,
+Trideset i devet, četrdeset, četrdeset i jedna, četrdeset i dva, četrdeset i tri, četrdeset i četiri, četrdeset i pet, četrdeset i šest, četrdeset i osam, četrdeset i devet, pedeset, pedeset i jedan, pedeset i pedesetdva, pedeset i tri, pedeset i četiri, pedeset i pet,
+Pedeset šest, pedeset i sedam, pedeset i osam, pedeset devet, šezdeset, šezdeset i jedan, šezdeset i dva, šezdeset i tri, šezdeset i četiri, šezdeset i pet, šezdeset i šest, šezdeset i sedam, šezdeset i osam,Šezdeset devet, sedamdeset, sedamdeset i jedna, sedamdeset i dva,
+Sedamdeset i tri, sedamdeset i četiri, sedamdeset i pet, sedamdeset i šest, sedamdeset i sedam, sedamdeset i osam, sedamdeset i devet, osamdeset, osamdeset i jedan, osamdeset i dva, osamdeset i tri, osamdeset i četiri, osamdeset i pet,Osamdeset i šest, osamdeset i sedam,
+Osamdeset i osam, osamdeset i devet, devedeset, devedeset i jedna, devedeset i dva, devedeset i tri, devedeset i četiri, devedeset i pet, devedeset i šest, devedeset i sedam, devedeset i osam, devedeset i devet
+{cs}
+Jeden, dva, tři, čtyři, čtyři, pět, šest, sedm, osm, devět, deset, jedenáct, dvanáct, třináct, čtrnáct, šestnáct, sedmnáct, osmnáct, devatenáct, dvacet jedna, dvacet dva, dvacet-dvacet-dvacet-dvacet-dvacet-dvacet-dvacet, dvacet-dvacet dva, dvacet-dvacet dva, dvacet dva, dvacet dvatři,
+Dvacet čtyři, dvacet pět, dvacet šest, dvacet sedm, dvacet osm, dvacet devět, třicet jedna, třicet dva, třicet tři, třicet čtyři, třicet pět, třicet šest, třicet šest, třicet šestTřicet sedm, třicet osm,
+Třicet devět, čtyřicet, čtyřicet jedna, čtyřicet dva, čtyřicet tři, čtyřicet čtyři, čtyřicet šest, čtyřicet sedm, čtyřicet osm, čtyřicet devět, padesát jedna, padesát, padesátdva, padesát tři, padesát čtyři, padesát pět,
+Padesát šest, padesát sedm, padesát osm, padesát devět, šedesát jedna, šedesát dva, šedesát tři, šedesát čtyři, šedesát šest, šedesát sedm, šedesát osm, šedesát osmŠedesát devět, sedmdesát, sedmdesát jedna, sedmdesát dva,
+Sedmdesát tři, sedmdesát čtyři, sedmdesát pět, sedmdesát šest, sedmdesát sedm, sedmdesát osm, sedmdesát devět, osmdesát, osmdesát jedna, osmdesát dva, osmdesát tři, osmdesát čtyři, osmdesát pět, pět, osmdesát pětOsmdesát šest, osmdesát sedm,
+Osmdesát osm, osmdesát devět, devadesát, devadesát jedna, devadesát dva, devadesát tři, devadesát čtyři, devadesát pět, devadesát šest, devadesát sedm, devadesát osm, devadesát devět devadesát devět
+{da}
+Én, to, tre, fire, fem, seks, syv, otte, ni, ti, elleve, tolv, tretten, fjorten, femten, seksten, sytten, atten, nitten, tyve, 21, 22, 21.tre,
+Fireogtyve, femogtyve, seksogtyve, syvogtyve, otteogtyve, 22, tredive, enogtredive, toogtredive, tredive-tre, tredive og tredive, 35, 35, seksogtredive,Syvogtredive, otteogtredive,
+32, 45, 42, 420, 420, 420, 45, 420, fyrre-syv, fyrreogtredive, fyrreogtyve, halvtreds, femogtredive, femogtrediveto, femogtredive, fireogtredive, femogtredive,
+Femogtredive, halvtreds-syvogtredive, otteogtredive, seksogtres, enogtres, tresogtres, tresogtres, seksogtres, seksogtres, seksogtres, tres syvogtres, otteogtyve, otte, otte, otte, 60, otte, otte, otte.Niogtres, halvfjerds, halvfjerds, tooghalvfjerds,
+Seventoghalvfjerds, halvfjerds, halvfjerds, halvfjerds, syvoghalvfjerds, otteoghalvfjerds, halvfjerds, otteogtyve, enogtyve, tooghalvfjerds, firsogtyve, firsogtyve, firsogtyve, femogfirs,Seksoghalvfjerds, syvogtyve,
+Otteogogfirs, otteogtyve, halvfems, enoghalvfjerds, halvfemsogtyve, halvfemsogtyve, halvfems, halvfems, halvfems, halvfems, halvfems, halvfemsogtyve
+{nl}
+Één, twee, drie, vier, vijf, zes, zeven, acht, negen, tien, elf, twaalf, dertien, veertien, vijftien, zestien, zeventien, achttien, negentien, twintig, eenentwintig, tweeëntwintig, tweeëntwintig, twintig, twintig,drie,
+Vierentwintig, vijfentwintig, zesentwintig, zevenentwintig, achtentwintig, negenentwintig, dertig, eenendertig, tweeëndertig, drieëndertig, vierendertig, vijfendertig, zesendertig, zesendertig,Zevenendertig, achtendertig,
+Negenendertig, veertig, twintig, tweeënveertig, drieënveertig, vierenveertig, vijfenveertig, zesenveertig, zevenenveertig, achtenveertig, negenenveertig, vijftig, vijfenvijftig, vijftig,Twee, drieënvijftig, vierenvijftig, vijfenvijftig,
+Zesenvijftig, zevenenvijftig, achtenvijftig, negenenvijftig, zestig, tienenzestig, tweeënzestig, drieënzestig, zesenzestig, vijfenzestig, zesenzestig, zevenenzestig, achtenzestig,Negenenzestig, zeventig, eenenzeventig, tweeënzeventig,
+Drieënzeventig, vierenzeventig, vijfenzeventig, zesenzeventig, zevenenzeventig, achtenzeventig, achtenzeventig, tachtig, tienentachtig, tweeëntachtig, tweeëntachtig, vierentachtig, vierentachtig, vijfentachtig, vijfentachtig,Zesentachtig, zevenentachtig,
+Achtentachtig, negenentachtig, negentig, negenennegentig, tweeënnegentig, negentig, vierennegentig, vijfennegentig, vijfennegentig, zevenennegentig, zevenennegentig, achtennegentig, negenennegentig
+{en}
+One, Two, Three, Four, Five, Six, Seven, Eight, Nine, Ten, Eleven, Twelve, Thirteen, Fourteen, Fifteen, Sixteen, Seventeen, Eighteen, Nineteen, Twenty, Twenty-one, Twenty-two, Twenty-three,
+Twenty-four, Twenty-five, Twenty-six, Twenty-seven, Twenty-eight, Twenty-nine, Thirty, Thirty-one, Thirty-two, Thirty-three, Thirty-four, Thirty-five, Thirty-six, Thirty-seven, Thirty-eight,
+Thirty-nine, Forty, Forty-one, Forty-two, Forty-three, Forty-four, Forty-five, Forty-six, Forty-seven, Forty-eight, Forty-nine, Fifty, Fifty-one, Fifty-two, Fifty-three, Fifty-four, Fifty-five,
+Fifty-six, Fifty-seven, Fifty-eight, Fifty-nine,Sixty, Sixty-one, Sixty-two, Sixty-three, Sixty-four, Sixty-five, Sixty-six, Sixty-seven, Sixty-eight, Sixty-nine, Seventy, Seventy-one, Seventy-two,
+Seventy-three, Seventy-four, Seventy-five, Seventy-six, Seventy-seven, Seventy-eight, Seventy-nine, Eighty, Eighty-one, Eighty-two, Eighty-three, Eighty-four, Eighty-five, Eighty-six, Eighty-seven,
+Eighty-eight, Eighty-nine, Ninety, Ninety-one, Ninety-two, Ninety-three, Ninety-four, Ninety-five, Ninety-six, Ninety-seven, Ninety-eight, Ninety-nine
+{eo}
+Unu, du, tri, kvar, kvin, ses, sep, ok, naŭ, dek, dek unu, dek du, dek tri, dek kvar, dek kvin, dek ses, dek sep, dek ok, dek naŭ, dudek, dudek unu, dudek du, dudek-tri,
+Dudek kvar, dudek kvin, dudek ses, dudek sep, dudek ok, dudek naŭ, tridek tridek unu, tridek du, tridek tri, tridek kvar, tridek kvin, ses,Tridek sep, tridek ok,
+Tridek naŭ, kvardek, kvardek unu, kvardek du, kvardek tri, kvardek kvar, kvardek kvin, kvardek ses, kvardek sep, kvardek ok, kvardek naŭ, kvindek, kvindek unu, kvindek-Du, kvindek tri, kvindek kvar, kvindek kvin,
+Kvindek ses, kvindek sep, kvindek ok, kvindek naŭ, sesdek, sesdek unu, sesdek du, sesdek tri, sesdek kvar, sesdek kvin, sesdek ses, sesdek sep, sesdek ok,Sesdek naŭ, sepdek sepdek unu, sepdek du,
+Sepdek tri, sepdek kvar, sepdek kvin, sepdek ses, sepdek sep, sepdek ok, sepdek naŭ, okdek, okdek unu, okdek du, okdek tri, okdek kvar, okdek kvin,Okdek ses, okdek sep,
+Okdek ok, okdek naŭ, naŭdek, naŭdek unu, naŭdek du, naŭdek tri, naŭdek kvar, naŭdek kvin, naŭdek ses, naŭdek sep, naŭdek ok, naŭdek naŭ
+{et}
+Üks, kaks, kolm, neli, viis, kuus, seitse, kaheksa, üheksa, kümme, üksteist, kaksteist, kolmteist, neliteist, viisteist, kuusteist, seitseteist, kaheksateist, üheksateist, kakskümmend, kakskümmend üks, kakskümmend kaks, kakskümmend, kakskümmend kakskolm,
+Kakskümmend neli, kakskümmend viis, kakskümmend kuus, kakskümmend seitse, kakskümmend kaheksa, kakskümmend üheksa, kolmkümmend üks, kolmkümmend kaks, kolmkümmend kolm, kolmkümmend neli, kolmkümmend viis, kolmkümmend kuusKolmkümmend seitse, kolmkümmend kaheksa,
+Kolmkümmend üheksa, nelikümmend üks, nelikümmend kaks, nelikümmend kolm, nelikümmend viis, nelikümmend viis, nelikümmend seitse, nelikümmend kaheksakümmend, nelikümmend üheksa, viiskümmend üks, viiskümmend ükskaks, viiskümmend kolm, viiskümmend neli, viiskümmend viis,
+Viiskümmend kuus, viiskümmend seitse, viiskümmend kaheksa, viiskümmend üheksa, kuuskümmend üks, kuuskümmend kaks, kuuskümmend kolm, kuuskümmend neli, kuuskümmend viis, kuuskümmend kuus, kuuskümmend seitse, kuuskümmend kaheksaKuuskümmend üheksa, seitsekümmend, seitsekümmend üks, seitsekümmend kaks,
+Seitsekümmend kolm, seitsekümmend neli, seitsekümmend viis, seitsekümmend kuus, seitsekümmend seitse, seitsekümmend kaheksa, seitsekümmend üheksa, kaheksakümmend üks, kaheksakümmend kaks, kaheksakümmend kolm, kaheksakümmend neli, kaheksakümmend neli, kaheksakümmend viisKaheksakümmend kuus, kaheksakümmend seitse,
+Kaheksakümmend kaheksa, kaheksakümmend üheksa, üheksakümmend, üheksakümmend üks, üheksakümmend kaks, üheksakümmend kolm, üheksakümmend neli, üheksakümmend viis, üheksakümmend kuus, üheksakümmend seitse, üheksakümmend, üheksakümmend kaheksakümmend üheksakümmend üheksakümmend üheksakümmend
+{ee}
+Üks, kaks, kolm, neli, viis, kuus, seitse, kaheksa, üheksa, kümme, üksteist, kaksteist, kolmteist, neliteist, viisteist, kuusteist, seitseteist, kaheksateist, üheksateist, kakskümmend, kakskümmend üks, kakskümmend kaks, kakskümmend, kakskümmend kakskolm,
+Kakskümmend neli, kakskümmend viis, kakskümmend kuus, kakskümmend seitse, kakskümmend kaheksa, kakskümmend üheksa, kolmkümmend üks, kolmkümmend kaks, kolmkümmend kolm, kolmkümmend neli, kolmkümmend viis, kolmkümmend kuusKolmkümmend seitse, kolmkümmend kaheksa,
+Kolmkümmend üheksa, nelikümmend üks, nelikümmend kaks, nelikümmend kolm, nelikümmend viis, nelikümmend viis, nelikümmend seitse, nelikümmend kaheksakümmend, nelikümmend üheksa, viiskümmend üks, viiskümmend ükskaks, viiskümmend kolm, viiskümmend neli, viiskümmend viis,
+Viiskümmend kuus, viiskümmend seitse, viiskümmend kaheksa, viiskümmend üheksa, kuuskümmend üks, kuuskümmend kaks, kuuskümmend kolm, kuuskümmend neli, kuuskümmend viis, kuuskümmend kuus, kuuskümmend seitse, kuuskümmend kaheksaKuuskümmend üheksa, seitsekümmend, seitsekümmend üks, seitsekümmend kaks,
+Seitsekümmend kolm, seitsekümmend neli, seitsekümmend viis, seitsekümmend kuus, seitsekümmend seitse, seitsekümmend kaheksa, seitsekümmend üheksa, kaheksakümmend üks, kaheksakümmend kaks, kaheksakümmend kolm, kaheksakümmend neli, kaheksakümmend neli, kaheksakümmend viisKaheksakümmend kuus, kaheksakümmend seitse,
+Kaheksakümmend kaheksa, kaheksakümmend üheksa, üheksakümmend, üheksakümmend üks, üheksakümmend kaks, üheksakümmend kolm, üheksakümmend neli, üheksakümmend viis, üheksakümmend kuus, üheksakümmend seitse, üheksakümmend, üheksakümmend kaheksakümmend üheksakümmend üheksakümmend üheksakümmend
+{fi}
+Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen, yksitoista, kaksitoista, kolmetoista, neljätoista, viisitoista, kuusitoista, seitsemäntoista, kahdeksantoista, yhdeksäntoista, kaksikymmentäyksi, kaksikymmentäkaksi, kaksikymmentäkaksikolme,
+Twenty-four, Twenty-five, Twenty-six, Twenty-seven, Twenty-eight, Twenty-nine, Thirty, Thirty-one, Thirty-two, Thirty-three, Thirty-four, Thirty-five, Thirty-six,Kolmekymmentäseitsemän, kolmekymmentäkahdeksan,
+Thirty-nine, Forty, Forty-one, Forty-two, Forty-three, Forty-four, Forty-five, Forty-six, Forty-seven, Forty-eight, Forty-nine, Fifty, Fifty-one, Fifty-Kaksi, viisikymmentä kolme, viisikymmentä neljä, viisikymmentäviisi,
+Viisikymmentäkuusi, viisikymmentäseitsemän, viisikymmentäkahdeksan, viisikymmentäyhdeksän, kuusikymmentä, kuusikymmentäyksi, kuusikymmentäkaksi, kuusikymmentäkolme, kuusikymmentäneljä, kuusikymmentäviisi, kuusikymmentäkuusi, kuusikymmentäseitsemän, kuusikymmentäkahdeksanKuusikymmentäyhdeksän, seitsemänkymmentä, seitsemänkymmentäyksi, seitsemänkymmentäkaksi,
+Seitsemänkymmentäkolme, seitsemänkymmentä neljä, seitsemänkymmentäviisi, seitsemänkymmentäkuusi, seitsemänkymmentäseitsemän, seitsemänkymmentäkahdeksan, seitsemänkymmentäyhdeksän, kahdeksankymmentä, kahdeksankymmentäyksi, kahdeksankymmentäkaksi, kahdeksankymmentäkolme, kahdeksankymmentä neljä, kahdeksankymmentäviisi, viisi, viisi, viisi, viisi, viisi, viisi, viisi, viisi, viisi, viisi, viisi, viisi, viisiKahdeksankymmentäkuusi, kahdeksankymmentäseitsemän,
+Kahdeksankymmentäkahdeksan, kahdeksankymmentäyhdeksän, yhdeksänkymmentä, yhdeksänkymmentäyhdeksän, yhdeksänkymmentäkaksi, yhdeksänkymmentäkolme, yhdeksänkymmentä neljä, yhdeksänkymmentäviisi, yhdeksänkymmentäkuusi, yhdeksänkymmentäseitsemän, yhdeksänkymmentä-neljä, yhdeksänkymmentäyhdeksän yhdeksänkymmentäyhdeksän
+{fr}
+Un, deux, trois, quatre, cinq, six, sept, huit, neuf, dix, onze, douze, treize, quatorze, quinze, seize, dix-sept, dix-huit, dix-neuf, vingt, vingt et un, vingt-deux, vingt-vingttrois,
+Vingt-quatre, vingt-cinq, vingt-six, vingt-sept, vingt-huit, vingt-neuf, trente, trente et un, trente-deux, trente-trois, trente-quatre, trente-cinq, trente-six,Trente-sept, trente-huit,
+Trente-neuf, quarante, quarante et un, quarante-deux, quarante-trois, quarante-quatre, quarante-cinq, quarante-six, quarante-sept, quarante-huit, quarante-neuf, cinquante, cinquante et un, cinquante-Deux, cinquante-trois, cinquante-quatre, cinquante-cinq,
+Cinquante-six, cinquante-sept, cinquante-huit, cinquante-neuf, soixante, soixante et un, soixante-deux, soixante-trois, soixante-quatre, soixante-cinq, soixante-six, soixante-sept, soixante-huit,Soixante-neuf, soixante-dix, soixante et onze ans, soixante-douze,
+Soixante-treize, soixante-quatorze, soixante-quinze, soixante-seize, soixante-dix-sept, soixante-dix-huit, soixante-neuf, quatre-vingt, quatre-vingt, quatre-vingt-deux, quatre-vingt-trois, quatre-vingt-quatre, quatre-cinq,Quatre-vingt-six, quatre-vingt-sept,
+Quatre-vingt-huit, quatre-vingt-neuf, quatre-vingt-dix, quatre-vingt-onze, quatre-vingt-deux, quatre-vingt-treize, quatre-vingt-dix-neuf, quatre-vingt-dix-neuf
+{fy}
+Ien, twa, trije, fiif, fiif seis, sân, njoggen, tsien, alve, alve, fyftjin, fyftjin, trije en tweintich, twaentweintich, tweintich, tweintich, tweintich, tweintich-trije,
+Fjouwerentweintich, fiifentweintich, seisentweintich, sânentweintich, fiif en tweintich, fiifentritich, ienentritich, twaëntritich, fjouwerentritich, fiifentritich,Sânentritich, acht en tritich,
+Njoggenentritich, fjirtich, twa-twa, fjirtich oant fjirtich, fiifentyf, fiifentritich, sân en fjirtich, sân en fjirtich, njoggen, fyftich, fyftich-twa, trije en fyftich, fjouwer en fyftich, fiif en fyftich,
+Seisfyftich, sânfeentweistich, achtfeentachtich, njoggenenfyftich, sechstich, sechstich, sechstich, sechstich, sechstich, sechstich, sechstich fiif sechtich, sechstich seis, sechstich, sechstich, sechstich acht en sechstich acht,Njoggenentich, santich, santich, ienentweintich, twaentweintich,
+Trije-en santich-fiifentweintich, fiifentyf, seisentyf, sânentich, acht en santich, njoggenenachtich, tachtich, ienentachtich, tachtich, trije en fjouwerentachtich, fiifentachtich, fiifentachtich, fiifentachtich, fiifentachtich, fiifentachtich, fiifentachtich, fiifentachtich, fiifentachtich, fiifentachtich, fiifentachtich, fiifentachtich, fiifentachtich, fiifentachtich, fiifentachtich, fiifentachtich, fiifentachtich, fiifentachtich, fiifentachtich, fiifentachtich, fiifentachtich, fiifentachtich, fiifentachtich, fiifentachtich, fiifentachtich, fiifentachtich, fiifentachtich, fiifentachtich, fiifentachtich, fiifentachtich, fiifentachtich, fiifentachtich, fiifentachtich, fiifentachtich, fiifentachtich, fiifentachtich, fiifentachtich, fiif en fjirtichSeisentachtich, sânentachtich,
+Acht en acht, njoggenentritich, njoggentich, ienennjoggentich, fiif en njoggentich, fiif en njoggentich, fiifentweintich, fiifentweintich, fiif en njoggentich, njoggentich, njoggentich
+{gl}
+Un, dous, tres, catro, cinco, seis, sete, oito, nove, dez, once, doce, trece, catorce, quince, dezaseis, dezasete, dezaoito, dezanove, vinte, vinte e un, vinte e dous, vinte-tres,
+Vinte e catro, vinte e cinco, vinte e seis, vinte e sete, vinte e oito, vinte e nove, trinta, trinta e un, trinta e dous, trinta e tres, trinta e catro, trinta e cinco, trinta e seis,Trinta e sete, trinta e oito,
+Trinta e nove, corenta, corenta e un, corenta e dous, corenta e tres, corenta e catro, corenta e cinco, corenta e seis, corenta e sete, corenta e oito, corenta e nove, cincuenta, cincuenta e un, cincuenta-Dous, cincuenta e tres, cincuenta e catro, cincuenta e cinco,

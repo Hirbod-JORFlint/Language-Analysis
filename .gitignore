@@ -1,0 +1,11 @@
+# Ignore files named "example.txt"
+translator.py
+
+# Ignore all files in the "temp" directory
+temp/*
+
+# Ignore all files with a .log extension
+*.log
+
+# Ignore a directory named "secret" and all its contents
+secret/

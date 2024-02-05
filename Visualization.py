@@ -20,7 +20,9 @@ def plotter(lang_set):
     Y=[l[0] for l in t2]
     #plt.plot(t,Y)
     plt.scatter(t,Y)
+    #Hide every values except 0,99
     plt.yticks([0, 99])
+    #Replace those 2 with first and last
     plt.yticks([0, 99],['First', 'Last'])
     plt.show()
 

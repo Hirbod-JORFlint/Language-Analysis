@@ -1,5 +1,4 @@
 {af}
-{af}
 Nul, Een, Twee, Drie, Vier, Vyf, Ses, Sewe, Agt, Nege, Tien, Elf, Twaalf, Dertien, Veertien, Vyftien, Sestien, Sewentien, Agtien, Negentien, Twintig,
 Een-en-twintig, twee-en-twintig, drie-en-twintig, vier-en-twintig, vyf-en-twintig, ses-en-twintig, sewe-en-twintig, agt-en-twintig, nege-en-twintig, dertig, een-en-dertig, twee-en-dertig,
 Drie-en-dertig, Vier-en-dertig, Vyf-en-dertig, Ses-en-dertig, Sewe-en-dertig, Agt-en-dertig, Nege-en-dertig, Een-en-veertig, Twee-en-veertig, Drie-en-veertig, Vier-en-veertig,

@@ -8,7 +8,7 @@ with open("Cardinals.txt") as f:
 
 lines2=[l.split(",") for l in lines]
 
-lines3=[l for l in lines2[0] if not l=='']+[l for l in lines2[1] if not l=='']+[l for l in lines2[2] if not l=='']+[l for l in lines2[3] if not l=='']+[l for l in lines2[4] if not l=='']+[l for l in lines2[5] if not l=='']
+lines3=[l for l in lines2[0] if not l=='']+[l for l in lines2[1] if not l=='']+[l for l in lines2[2] if not l=='']+[l for l in lines2[3] if not l=='']+[l for l in lines2[4] if not l=='']+[l for l in lines2[5] if not l=='']+[l for l in lines2[6] if not l=='']+[l for l in lines2[7] if not l=='']
 
 print(lines3)
 def plotter(lang_set):

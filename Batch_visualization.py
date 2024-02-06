@@ -31,7 +31,7 @@ for ky in lang_dict.keys():
         os.makedirs('plots')
     
     # Save the plot to 'plots' folder
-    plt.savefig('plots/scatter_plot_'+ky+'png')
+    plt.savefig('plots/scatter_plot_'+ky)
     plt.close()
     plt.plot(t,Y)
     plt.title('Line Plot of Numbers vs. Cardinals for '+ky)
@@ -43,5 +43,5 @@ for ky in lang_dict.keys():
         os.makedirs('plots')
     
     # Save the plot to 'plots' folder
-    plt.savefig('plots/line_plot_'+ky+'png')
+    plt.savefig('plots/line_plot_'+ky)
     plt.close()    

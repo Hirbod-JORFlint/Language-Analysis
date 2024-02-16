@@ -29,7 +29,7 @@ Articles are directly related to the noun they precede, it might be possible to 
 	13. Vokalratio: The ratio of vowels in the indefinite/definite singular form of the noun.
 	14. Ord Längd: The length of the indefinite/definite singular form of the noun.
 	
-#### Patterns hello
+#### Patterns
 
 Of all words, 76 % are assigned with 'en' article. Some of the observed patterns can be seen in the following tables:
 <img src="https://github.com/Hirbod-JORFlint/Language-Analysis/blob/8910c1146223b0c1632593dffe9219773f7d7523/Stage_2/Swedish/props/Table_1.PNG"></img>

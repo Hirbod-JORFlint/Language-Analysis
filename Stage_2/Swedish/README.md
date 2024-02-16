@@ -32,10 +32,10 @@ Articles are directly related to the noun they precede, it might be possible to 
 #### Patterns
 
 Of all words, 76 % are assigned with 'en' article. Some of the observed patterns can be seen in the following tables:
-<img src="https://github.com/Hirbod-JORFlint/Language-Analysis/blob/37354651a50452b4405371818d48e06aa711002f/Stage_2/Swedish/props/Pattern_mining_connections.jpeg"></img>
+<img src="https://github.com/Hirbod-JORFlint/Language-Analysis/blob/8910c1146223b0c1632593dffe9219773f7d7523/Stage_2/Swedish/props/Table_1.PNG"></img>
 
 
-<img src="https://github.com/Hirbod-JORFlint/Language-Analysis/blob/37354651a50452b4405371818d48e06aa711002f/Stage_2/Swedish/props/Pattern_mining_connections.jpeg"></img>
+<img src="https://github.com/Hirbod-JORFlint/Language-Analysis/blob/8910c1146223b0c1632593dffe9219773f7d7523/Stage_2/Swedish/props/Table_2.PNG"></img>
 
 
 Due to continues nature of word length and Vokalratio, they were separated into 10 distinct intervals. Number of intervals can be changed in 'Arules.ipynb'.

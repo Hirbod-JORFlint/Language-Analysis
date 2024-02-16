@@ -80,6 +80,7 @@ lift: 1.316: This is the lift of the rule. Lift measures how much more often the
 conv: 240355727.783: This is the conviction of the rule. Conviction compares the probability that the antecedent occurs without the consequent if they were dependent with the actual frequency of the antecedent without the consequent.
 
 #### TODO
+
 - Word Origin: Tracking word origins(i.e. loan words) might be helpful.
 - Number of syllables: This might be a useful factor for prediction.
 - compound words: It appears the article follows the last part of the such words, it might be worthwhile to check the structure.
@@ -87,3 +88,9 @@ conv: 240355727.783: This is the conviction of the rule. Conviction compares the
 - Causality for Articles: Investigate if there’s a causal relationship between the structure of a word and its article. This could involve statistical tests or ml models.
 - Phonetic Analysis: The phonetics of a word, such as its sounds or pronunciation, might influence the choice of article. A phonetic analysis could reveal interesting patterns.
 - Influence of Dialects: Study the influence of different Swedish dialects on article usage. Dialects often have unique linguistic features.
+
+##### Acknowledgements
+
+I would like to express my appreciation to Jenny Myrdal, who provided invaluable insights into word genders and the idea of historical context of articles, which improved the aims of this project. 
+
+

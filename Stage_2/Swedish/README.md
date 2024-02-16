@@ -32,42 +32,11 @@ Articles are directly related to the noun they precede, it might be possible to 
 #### Patterns
 
 Of all words, 76 % are assigned with 'en' article. Some of the observed patterns can be seen in the following tables:
-Table 1- one letter indicator
-\begin{tabular}{l|ll}
-\multicolumn{1}{l}{ rule } & article & proportion \\
-\hline all & en & $76.0 \%$ \\
-indefinite form of word starts with $s$ & en & $75.5 \%$ \\
-indefinite form of word starts with $y$ & en & $73.4 \%$ \\
-indefinite form of word starts with ä & en & $76.6 \%$ \\
-indefinite form of word starts with c & en & $78.9 \%$ \\
-indefinite form of word ends with $g$ & en & $89.7 \%$ \\
-indefinite form of word ends with $e$ & en & $97.9 \%$ \\
-indefinite form of word ends with $t$ & en & $83.6 \%$ \\
-indefinite form of word starts with å & ett & $26.6 \%$ \\
-indefinite form of word ends with $v$ & ett & $58.2 \%$ \\
-indefinite form of word ends with $p$ & ett & $45.2 \%$ \\
-indefinite form of word ends with $m$ & ett & $42.7 \%$
-\end{tabular}
+<img src="https://github.com/Hirbod-JORFlint/Language-Analysis/blob/37354651a50452b4405371818d48e06aa711002f/Stage_2/Swedish/props/Pattern_mining_connections.jpeg"></img>
 
-$$
-\begin{aligned}
-&\text { Table 2- two letter indicator }\\
-&\begin{array}{l|ll}
-\text { rule } & \text { article } & \text { proportion } \\
-\hline \text { indefinite form of word starts with fo } & \text { en } & 75.0 \% \\
-\text { indefinite form of word starts with pi } & \text { en } & 77.7 \% \\
-\text { indefinite form of word starts with od } & \text { en } & 87.5 \% \\
-\text { indefinite form of word starts with os } & \text { en } & 87.7 \% \\
-\text { indefinite form of word ends with sa } & \text { en } & 100 \% \\
-\text { indefinite form of word ends with sm } & \text { en } & 99.8 \% \\
-\text { indefinite form of word ends with } \mathrm{ka} & \text { en } & 99.6 \% \\
-\text { indefinite form of word starts with el } & \text { ett } & 26.6 \% \\
-\text { indefinite form of word starts with hu } & \text { ett } & 28.0 \% \\
-\text { indefinite form of word ends with um } & \text { ett } & 97.8 \% \\
-\text { indefinite form of word ends with äd } & \text { ett } & 89.2 \%
-\end{array}
-\end{aligned}
-$$
+
+<img src="https://github.com/Hirbod-JORFlint/Language-Analysis/blob/37354651a50452b4405371818d48e06aa711002f/Stage_2/Swedish/props/Pattern_mining_connections.jpeg"></img>
+
 
 Due to continues nature of word length and Vokalratio, they were separated into 10 distinct intervals. Number of intervals can be changed in 'Arules.ipynb'.
 All extracted rules are stored in 'rules.txt'. Further association can be generated through 'Arules.ipynb'. As an example:

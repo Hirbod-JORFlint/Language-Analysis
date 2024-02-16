@@ -14,20 +14,20 @@ A long(er!) goal of this project is not just about discovering patterns. It’s 
 ### Stats
 statistical patterns in gender assignment of nouns in Swedish can be quite complex and are influenced by several factors(e.g. origins, frequency of usage, ...). 
 Articles are directly related to the noun they precede, it might be possible to derive them from features of nouns.A brief explanation of what each column might represent:
-	1.Substantiv: The noun itself.
-	2.Singular obestämd: The indefinite singular form of the noun.
-	3.Singular obestämd genitiv: The genitive case of the indefinite singular form of the noun.
-	4.Singular bestämd: The definite singular form of the noun.
-	5.Singular bestämd genitiv: The genitive case of the definite singular form of the noun.
-	6.Plural obestämd: The indefinite plural form of the noun.
-	7.Plural obestämd genitiv: The genitive case of the indefinite plural form of the noun.
-	8.Plural bestämd: The definite plural form of the noun.
-	9.Plural bestämd genitiv: The genitive case of the definite plural form of the noun.
-	10.Articles: The article used with the noun (“en” or “ett”).
-	11. Första/Initial Två/Tre Bokstäver: The first letter or first two/three letters of the indefinite/definite singular form of the noun. 
-	12. Sista/Slutlig Två/Tre Bokstäver: The last letter or last two/three letters of the indefinite/definite singular form of the noun. 
-	13. Vokalratio: The ratio of vowels in the indefinite/definite singular form of the noun.
-	14. Ord Längd: The length of the indefinite/definite singular form of the noun.
+1. Substantiv: The noun itself.
+2. Singular obestämd: The indefinite singular form of the noun.
+3. Singular obestämd genitiv: The genitive case of the indefinite singular form of the noun.
+4. Singular bestämd: The definite singular form of the noun.
+5. Singular bestämd genitiv: The genitive case of the definite singular form of the noun.
+6. Plural obestämd: The indefinite plural form of the noun.
+7. Plural obestämd genitiv: The genitive case of the indefinite plural form of the noun.
+8. Plural bestämd: The definite plural form of the noun.
+9. Plural bestämd genitiv: The genitive case of the definite plural form of the noun.
+10. Articles: The article used with the noun (“en” or “ett”).
+11. Första/Initial Två/Tre Bokstäver: The first letter or first two/three letters of the indefinite/definite singular form of the noun. 
+12. Sista/Slutlig Två/Tre Bokstäver: The last letter or last two/three letters of the indefinite/definite singular form of the noun. 
+13. Vokalratio: The ratio of vowels in the indefinite/definite singular form of the noun.
+14. Ord Längd: The length of the indefinite/definite singular form of the noun.
 	
 #### Patterns
 
@@ -40,13 +40,13 @@ Of all words, 76 % are assigned with 'en' article. Some of the observed patterns
 
 Due to continues nature of word length and Vokalratio, they were separated into 10 distinct intervals. Number of intervals can be changed in 'Arules.ipynb'.
 All extracted rules are stored in 'rules.txt'. Further association can be generated through 'Arules.ipynb'. As an example:
-{Obestämd Slutlig Två Bokstäver=ka, Obestämd Vokalratio=4} -> {Article=en}
-{Obestämd Slutlig Två Bokstäver=ka, Obestämd Vokalratio=4}: This is the antecedent or the “if” part of the rule. It states that if the last two letters of the indefinite form of a word are “ka” and the ratio of vowels in the indefinite form is from group 4.
-{Article=en}: This is the consequent or the “then” part of the rule. It states that then the article of the word is “en”.
-conf: 1.000: This is the confidence of the rule. A confidence of 1.000 means that 100% of the time when the antecedent is true, the consequent is also true. In other words, every time the last two letters of the indefinite form of a word are “ka” and the ratio of vowels in the indefinite form is 4, the article of the word is “en”.
-supp: 0.004: This is the support of the rule. It indicates how frequently the antecedent and consequent occur together in the dataset. A support of 0.004 means that 0.4% of all words in the dataset have “ka” as the last two letters in their indefinite form, a vowel ratio of 4 in the indefinite form, and use “en” as their article.
-lift: 1.316: This is the lift of the rule. Lift measures how much more often the antecedent and consequent occur together than we would expect if they were statistically independent. A lift greater than 1, like 1.316, suggests that the antecedent and consequent are positively associated.
-conv: 240355727.783: This is the conviction of the rule. Conviction compares the probability that the antecedent occurs without the consequent if they were dependent with the actual frequency of the antecedent without the consequent.
+1. {Obestämd Slutlig Två Bokstäver=ka, Obestämd Vokalratio=4} -> {Article=en}
+2. {Obestämd Slutlig Två Bokstäver=ka, Obestämd Vokalratio=4}: This is the antecedent or the “if” part of the rule. It states that if the last two letters of the indefinite form of a word are “ka” and the ratio of vowels in the indefinite form is from group 4.
+3. {Article=en}: This is the consequent or the “then” part of the rule. It states that then the article of the word is “en”.
+4. conf: 1.000: This is the confidence of the rule. A confidence of 1.000 means that 100% of the time when the antecedent is true, the consequent is also true. In other words, every time the last two letters of the indefinite form of a word are “ka” and the ratio of vowels in the indefinite form is 4, the article of the word is “en”.
+5. supp: 0.004: This is the support of the rule. It indicates how frequently the antecedent and consequent occur together in the dataset. A support of 0.004 means that 0.4% of all words in the dataset have “ka” as the last two letters in their indefinite form, a vowel ratio of 4 in the indefinite form, and use “en” as their article.
+6. lift: 1.316: This is the lift of the rule. Lift measures how much more often the antecedent and consequent occur together than we would expect if they were statistically independent. A lift greater than 1, like 1.316, suggests that the antecedent and consequent are positively associated.
+7. conv: 240355727.783: This is the conviction of the rule. Conviction compares the probability that the antecedent occurs without the consequent if they were dependent with the actual frequency of the antecedent without the consequent.
 
 #### TODO
 

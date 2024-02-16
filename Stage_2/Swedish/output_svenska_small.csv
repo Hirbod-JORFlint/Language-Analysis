@@ -1,0 +1,936 @@
+Substantiv,bojning,Singular obestämd,Singular obestämd genitiv,Singular bestämd,Singular bestämd genitiv,Plural obestämd,Plural obestämd genitiv,Plural bestämd,Plural bestämd genitiv,Articles,Obestämd Initial Två Bokstäver,Bestämd Initial Två Bokstäver,Obestämd Initial Tre Bokstäver,Bestämd Initial Tre Bokstäver,Obestämd Slutlig Två Bokstäver,Bestämd Slutlig Två Bokstäver,Obestämd Slutlig Tre Bokstäver,Bestämd Slutlig Tre Bokstäver,Obestämd Vokalratio,Bestämd Vokalratio,Obestämd Ord Längd,Bestämd Ord Längd
+instans,~en ~er ,instans,instans,instansen,instansens,instanser,instansers,instanserna,instansernas,en,in,in,ins,ins,ns,en,ans,sen,0.2857142857142857,0.3333333333333333,7,9
+logi,~n el. ~et; pl. ~er ,logi (ett logi),logis (ett logis),login (logiet),logins (logiets),logier,logiers,logierna,logiernas,en,lo,lo,log,log,gi,et,ogi,iet,0.3333333333333333,0.35714285714285715,15,14
+sjukdom,~en ~ar ,sjukdom,sjukdoms,sjukdomen,sjukdomens,sjukdomar,sjukdomars,sjukdomarna,sjukdomarnas,en,sj,sj,sju,sju,om,en,dom,men,0.2857142857142857,0.3333333333333333,7,9
+fallbeskrivning,~en ~ar ,fallbeskrivning,fallbeskrivnings,fallbeskrivningen,fallbeskrivningens,fallbeskrivningar,fallbeskrivningars,fallbeskrivningarna,fallbeskrivningarnas,en,fa,fa,fal,fal,ng,en,ing,gen,0.26666666666666666,0.29411764705882354,15,17
+dis,~et ,dis,dis,diset,disets,NOP,NOP,NOP,NOP,ett,di,di,dis,dis,is,et,dis,set,0.3333333333333333,0.4,3,5
+dis,~en ~er ,dis,dis,disen,disens,diser,disers,diserna,disernas,en,di,di,dis,dis,is,en,dis,sen,0.3333333333333333,0.4,3,5
+partikelverb,~et; pl. ~ ,partikelverb,partikelverbs,partikelverbet,partikelverbets,partikelverb,partikelverbs,partikelverben,partikelverbens,ett,pa,pa,par,par,rb,et,erb,bet,0.3333333333333333,0.35714285714285715,12,14
+program,~met; pl. ~,program,programs,programmet,programmets,program,programs,programmen,programmens,ett,pr,pr,pro,pro,am,et,ram,met,0.2857142857142857,0.3,7,10
+förstor·ing,~en ~ar ,förstoring,förstorings,förstoringen,förstoringens,förstoringar,förstoringars,förstoringarna,förstoringarnas,en,fö,fö,för,för,ng,en,ing,gen,0.3,0.3333333333333333,10,12
+lakej,~en ~er ,lakej,lakejs,lakejen,lakejens,lakejer,lakejers,lakejerna,lakejernas,en,la,la,lak,lak,ej,en,kej,jen,0.4,0.42857142857142855,5,7
+motstånd,~et; pl. ~ ,motstånd,motstånds,motståndet,motståndets,motstånd,motstånds,motstånden,motståndens,ett,mo,mo,mot,mot,nd,et,ånd,det,0.25,0.3,8,10
+undervisning,~en ~ar ,undervisning,undervisnings,undervisningen,undervisningens,undervisningar,undervisningars,undervisningarna,undervisningarnas,en,un,un,und,und,ng,en,ing,gen,0.3333333333333333,0.35714285714285715,12,14
+stavningsregel,~n ?regler ,stavningsregel,stavningsregels,stavningsregeln,stavningsregelns,stavningsregler,stavningsreglers,stavningsreglerna,stavningsreglernas,en,st,st,sta,sta,el,ln,gel,eln,0.2857142857142857,0.26666666666666666,14,15
+trygghet,~en ~er ,trygghet,trygghets,tryggheten,trygghetens,tryggheter,tryggheters,tryggheterna,tryggheternas,en,tr,tr,try,try,et,en,het,ten,0.25,0.3,8,10
+kontext,~en ~er ,kontext,kontexts,kontexten,kontextens,kontexter,kontexters,kontexterna,kontexternas,en,ko,ko,kon,kon,xt,en,ext,ten,0.2857142857142857,0.3333333333333333,7,9
+glad,~et; pl. ~ ,glad,glads,gladet,gladets,glad,glads,gladen,gladens,ett,gl,gl,gla,gla,ad,et,lad,det,0.25,0.3333333333333333,4,6
+skyddsling,~en ~ar ,skyddsling,skyddslings,skyddslingen,skyddslingens,skyddslingar,skyddslingars,skyddslingarna,skyddslingarnas,en,sk,sk,sky,sky,ng,en,ing,gen,0.2,0.25,10,12
+demens,~en ~er ,demens,demens,demensen,demensens,demenser,demensers,demenserna,demensernas,en,de,de,dem,dem,ns,en,ens,sen,0.3333333333333333,0.375,6,8
+vår,~en ~ar ,vår,vårs,våren,vårens,vårar,vårars,vårarna,vårarnas,en,vå,vå,vår,vår,år,en,vår,ren,0.3333333333333333,0.4,3,5
+medelpunkt,~en ~er ,medelpunkt,medelpunkts,medelpunkten,medelpunktens,medelpunkter,medelpunkters,medelpunkterna,medelpunkternas,en,me,me,med,med,kt,en,nkt,ten,0.3,0.3333333333333333,10,12
+akronym,~en ~er ,akronym,akronyms,akronymen,akronymens,akronymer,akronymers,akronymerna,akronymernas,en,ak,ak,akr,akr,ym,en,nym,men,0.42857142857142855,0.4444444444444444,7,9
+konkurrens,~en ~er ,konkurrens,konkurrens,konkurrensen,konkurrensens,konkurrenser,konkurrensers,konkurrenserna,konkurrensernas,en,ko,ko,kon,kon,ns,en,ens,sen,0.3,0.3333333333333333,10,12
+avgift,~en ~er ,avgift,avgifts,avgiften,avgiftens,avgifter,avgifters,avgifterna,avgifternas,en,av,av,avg,avg,ft,en,ift,ten,0.3333333333333333,0.375,6,8
+mottagare,~n; pl. ~,mottagare,mottagares,mottagaren,mottagarens,mottagare,mottagares,mottagarna,mottagarnas,en,mo,mo,mot,mot,re,en,are,ren,0.4444444444444444,0.4,9,10
+skillnad,~en ~er ,skillnad,skillnads,skillnaden,skillnadens,skillnader,skillnaders,skillnaderna,skillnadernas,en,sk,sk,ski,ski,ad,en,nad,den,0.25,0.3,8,10
+ställe,~t ~n ,ställe,ställes,stället,ställets,ställen,ställens,ställena,ställenas,ett,st,st,stä,stä,le,et,lle,let,0.3333333333333333,0.2857142857142857,6,7
+område,~t ~n ,område,områdes,området,områdets,områden,områdens,områdena,områdenas,ett,om,om,omr,omr,de,et,åde,det,0.5,0.42857142857142855,6,7
+spång,~en; pl. ~ar el. spänger ,spång,spångs,spången,spångens,spångar (spänger),spångars (spängers),spångarna (spängerna),spångarnas (spängernas),en,sp,sp,spå,spå,ng,en,ång,gen,0.2,0.2857142857142857,5,7
+senvår,~en ~ar ,senvår,senvårs,senvåren,senvårens,senvårar,senvårars,senvårarna,senvårarnas,en,se,se,sen,sen,år,en,vår,ren,0.3333333333333333,0.375,6,8
+förslag,~et; pl. ~ ,förslag,förslags,förslaget,förslagets,förslag,förslags,förslagen,förslagens,ett,fö,fö,för,för,ag,et,lag,get,0.2857142857142857,0.3333333333333333,7,9
+förslag,~et; pl. ~ ,förslag,förslags,förslaget,förslagets,förslag,förslags,förslagen,förslagens,ett,fö,fö,för,för,ag,et,lag,get,0.2857142857142857,0.3333333333333333,7,9
+verksamhet,~en ~er ,verksamhet,verksamhets,verksamheten,verksamhetens,verksamheter,verksamheters,verksamheterna,verksamheternas,en,ve,ve,ver,ver,et,en,het,ten,0.3,0.3333333333333333,10,12
+partner,~n; pl. ~ hellre än ~s ,partner,partners,partnern,partnerns,partner (partners),partners,partnerna,partnernas,en,pa,pa,par,par,er,rn,ner,ern,0.2857142857142857,0.25,7,8
+stöv,~et ,stöv,stövs,stövet,stövets,NOP,NOP,NOP,NOP,ett,st,st,stö,stö,öv,et,töv,vet,0.25,0.3333333333333333,4,6
+dotter,~n döttrar ,dotter,dotters,dottern,dotterns,döttrar,döttrars,döttrarna,döttrarnas,en,do,do,dot,dot,er,rn,ter,ern,0.3333333333333333,0.2857142857142857,6,7
+kameravinkel,~n ?vinklar ,kameravinkel,kameravinkels,kameravinkeln,kameravinkelns,kameravinklar,kameravinklars,kameravinklarna,kameravinklarnas,en,ka,ka,kam,kam,el,ln,kel,eln,0.4166666666666667,0.38461538461538464,12,13
+helvete,~t ~n ,helvete,helvetes,helvetet,helvetets,helveten,helvetens,helvetena,helvetenas,ett,he,he,hel,hel,te,et,ete,tet,0.42857142857142855,0.375,7,8
+saml·ingspunkt,~en ~er ,samlingspunkt,samlingspunkts,samlingspunkten,samlingspunktens,samlingspunkter,samlingspunkters,samlingspunkterna,samlingspunkternas,en,sa,sa,sam,sam,kt,en,nkt,ten,0.23076923076923078,0.26666666666666666,13,15
+resultat,~et; pl. ~ ,resultat,resultats,resultatet,resultatets,resultat,resultats,resultaten,resultatens,ett,re,re,res,res,at,et,tat,tet,0.375,0.4,8,10
+axel,~n axlar ,axel,axels,axeln,axelns,axlar,axlars,axlarna,axlarnas,en,ax,ax,axe,axe,el,ln,xel,eln,0.5,0.4,4,5
+portofrihet,~en ,portofrihet,portofrihets,portofriheten,portofrihetens,NOP,NOP,NOP,NOP,en,po,po,por,por,et,en,het,ten,0.36363636363636365,0.38461538461538464,11,13
+byggnad,~en ~er ,byggnad,byggnads,byggnaden,byggnadens,byggnader,byggnaders,byggnaderna,byggnadernas,en,by,by,byg,byg,ad,en,nad,den,0.2857142857142857,0.3333333333333333,7,9
+hot,~et; pl. ~ ,hot,hots,hotet,hotets,hot,hots,hoten,hotens,ett,ho,ho,hot,hot,ot,et,hot,tet,0.3333333333333333,0.4,3,5
+subrett,~en ~er ,subrett,subretts,subretten,subrettens,subretter,subretters,subretterna,subretternas,en,su,su,sub,sub,tt,en,ett,ten,0.2857142857142857,0.3333333333333333,7,9
+present,~en ~er ,present,presents,presenten,presentens,presenter,presenters,presenterna,presenternas,en,pr,pr,pre,pre,nt,en,ent,ten,0.2857142857142857,0.3333333333333333,7,9
+stadsdel,~en ~ar ,stadsdel,stadsdels,stadsdelen,stadsdelens,stadsdelar,stadsdelars,stadsdelarna,stadsdelarnas,en,st,st,sta,sta,el,en,del,len,0.25,0.3,8,10
+sveda,~n ,sveda,svedas,svedan,svedans,NOP,NOP,NOP,NOP,en,sv,sv,sve,sve,da,an,eda,dan,0.4,0.3333333333333333,5,6
+form,~en ~ar ,form,forms,formen,formens,formar,formars,formarna,formarnas,en,fo,fo,for,for,rm,en,orm,men,0.25,0.3333333333333333,4,6
+form,~en ~er ,form,forms,formen,formens,former,formers,formerna,formernas,en,fo,fo,for,for,rm,en,orm,men,0.25,0.3333333333333333,4,6
+stas,~en ~er ,stas,stas,stasen,stasens,staser,stasers,staserna,stasernas,en,st,st,sta,sta,as,en,tas,sen,0.25,0.3333333333333333,4,6
+uppgift,~en ~er ,uppgift,uppgifts,uppgiften,uppgiftens,uppgifter,uppgifters,uppgifterna,uppgifternas,en,up,up,upp,upp,ft,en,ift,ten,0.2857142857142857,0.3333333333333333,7,9
+lärare,~n; pl. ~,lärare,lärares,läraren,lärarens,lärare,lärares,lärarna,lärarnas,en,lä,lä,lär,lär,re,en,are,ren,0.5,0.42857142857142855,6,7
+syskon,~et; pl. ~ ,syskon,syskons,syskonet,syskonets,syskon,syskons,syskonen,syskonens,ett,sy,sy,sys,sys,on,et,kon,net,0.3333333333333333,0.375,6,8
+ontologi,~n ,ontologi,ontologis,ontologin,ontologins,NOP,NOP,NOP,NOP,en,on,on,ont,ont,gi,in,ogi,gin,0.5,0.4444444444444444,8,9
+make,~n makar ,make,makes,maken,makens,makar,makars,makarna,makarnas,en,ma,ma,mak,mak,ke,en,ake,ken,0.5,0.4,4,5
+seminarium,seminariet seminarier ,seminarium,seminariums,seminariet,seminariets,seminarier,seminariers,seminarierna,seminariernas,ett,se,se,sem,sem,um,et,ium,iet,0.5,0.5,10,10
+språkgrupp,~en ~er ,språkgrupp,språkgrupps,språkgruppen,språkgruppens,språkgrupper,språkgruppers,språkgrupperna,språkgruppernas,en,sp,sp,spr,spr,pp,en,upp,pen,0.2,0.25,10,12
+verkstad,~en el. vard. ?stan; pl. ?städer ,verkstad,verkstads,verkstaden (verkstan),verkstadens (verkstans),verkstäder,verkstäders,verkstäderna,verkstädernas,en,ve,ve,ver,ver,ad,an,tad,tan,0.25,0.23809523809523808,8,21
+stavelse,~n ~r ,stavelse,stavelses,stavelsen,stavelsens,stavelser,stavelsers,stavelserna,stavelsernas,en,st,st,sta,sta,se,en,lse,sen,0.375,0.3333333333333333,8,9
+fylla,~n fyllor ,fylla,fyllas,fyllan,fyllans,fyllor,fyllors,fyllorna,fyllornas,en,fy,fy,fyl,fyl,la,an,lla,lan,0.4,0.3333333333333333,5,6
+sliper,~n sliprar ,sliper,slipers,slipern,sliperns,sliprar,sliprars,sliprarna,sliprarnas,en,sl,sl,sli,sli,er,rn,per,ern,0.3333333333333333,0.2857142857142857,6,7
+kjol,~en ~ar ,kjol,kjols,kjolen,kjolens,kjolar,kjolars,kjolarna,kjolarnas,en,kj,kj,kjo,kjo,ol,en,jol,len,0.25,0.3333333333333333,4,6
+psykologi,~n ,psykologi,psykologis,psykologin,psykologins,NOP,NOP,NOP,NOP,en,ps,ps,psy,psy,gi,in,ogi,gin,0.4444444444444444,0.4,9,10
+generat·ion,~en ~er ,generation,generations,generationen,generationens,generationer,generationers,generationerna,generationernas,en,ge,ge,gen,gen,on,en,ion,nen,0.5,0.5,10,12
+acklamat·ion,~en ~er ,acklamation,acklamations,acklamationen,acklamationens,acklamationer,acklamationers,acklamationerna,acklamationernas,en,ac,ac,ack,ack,on,en,ion,nen,0.45454545454545453,0.46153846153846156,11,13
+preposit·ion,~en ~er ,preposition,prepositions,prepositionen,prepositionens,prepositioner,prepositioners,prepositionerna,prepositionernas,en,pr,pr,pre,pre,on,en,ion,nen,0.45454545454545453,0.46153846153846156,11,13
+tid,~en ~er ,tid,tids,tiden,tidens,tider,tiders,tiderna,tidernas,en,ti,ti,tid,tid,id,en,tid,den,0.3333333333333333,0.4,3,5
+kompis,~en ~ar ,kompis,kompis,kompisen,kompisens,kompisar,kompisars,kompisarna,kompisarnas,en,ko,ko,kom,kom,is,en,pis,sen,0.3333333333333333,0.375,6,8
+system,~et; pl. ~ ,system,systems,systemet,systemets,system,systems,systemen,systemens,ett,sy,sy,sys,sys,em,et,tem,met,0.3333333333333333,0.375,6,8
+skrivstil,~en ~ar ,skrivstil,skrivstils,skrivstilen,skrivstilens,skrivstilar,skrivstilars,skrivstilarna,skrivstilarnas,en,sk,sk,skr,skr,il,en,til,len,0.2222222222222222,0.2727272727272727,9,11
+halvår,~et; pl. ~ ,halvår,halvårs,halvåret,halvårets,halvår,halvårs,halvåren,halvårens,ett,ha,ha,hal,hal,år,et,vår,ret,0.3333333333333333,0.375,6,8
+kärlek,~en ~ar ,kärlek,kärleks,kärleken,kärlekens,kärlekar,kärlekars,kärlekarna,kärlekarnas,en,kä,kä,kär,kär,ek,en,lek,ken,0.3333333333333333,0.375,6,8
+karta,~n kartor ,karta,kartas,kartan,kartans,kartor,kartors,kartorna,kartornas,en,ka,ka,kar,kar,ta,an,rta,tan,0.4,0.3333333333333333,5,6
+litteratur,~en ~er ,litteratur,litteraturs,litteraturen,litteraturens,litteraturer,litteraturers,litteraturerna,litteraturernas,en,li,li,lit,lit,ur,en,tur,ren,0.4,0.4166666666666667,10,12
+häst,~en ~ar ,häst,hästs,hästen,hästens,hästar,hästars,hästarna,hästarnas,en,hä,hä,häs,häs,st,en,äst,ten,0.25,0.3333333333333333,4,6
+känsla,~n känslor ,känsla,känslas,känslan,känslans,känslor,känslors,känslorna,känslornas,en,kä,kä,kän,kän,la,an,sla,lan,0.3333333333333333,0.2857142857142857,6,7
+månad,~en ~er ,månad,månads,månaden,månadens,månader,månaders,månaderna,månadernas,en,må,må,mån,mån,ad,en,nad,den,0.4,0.42857142857142855,5,7
+mora,~n moror ,mora,moras,moran,morans,moror,morors,mororna,morornas,en,mo,mo,mor,mor,ra,an,ora,ran,0.5,0.4,4,5
+ändelse,~n ~r ,ändelse,ändelses,ändelsen,ändelsens,ändelser,ändelsers,ändelserna,ändelsernas,en,än,än,änd,änd,se,en,lse,sen,0.42857142857142855,0.375,7,8
+underlag,~et; pl. ~ ,underlag,underlags,underlaget,underlagets,underlag,underlags,underlagen,underlagens,ett,un,un,und,und,ag,et,lag,get,0.375,0.4,8,10
+scenario,~t; pl. scenarier el. ~n ,scenario,scenarios,scenariot,scenariots,scenarier (scenarion),scenariers (scenarions),scenarierna (scenariona),scenariernas (scenarionas),ett,sc,sc,sce,sce,io,ot,rio,iot,0.5,0.4444444444444444,8,9
+samarbete,~t ~n ,samarbete,samarbetes,samarbetet,samarbetets,samarbeten,samarbetens,samarbetena,samarbetenas,ett,sa,sa,sam,sam,te,et,ete,tet,0.4444444444444444,0.4,9,10
+segment,~et; pl. ~ ,segment,segments,segmentet,segmentets,segment,segments,segmenten,segmentens,ett,se,se,seg,seg,nt,et,ent,tet,0.2857142857142857,0.3333333333333333,7,9
+padel,~n ,padel,padels,padeln,padelns,NOP,NOP,NOP,NOP,en,pa,pa,pad,pad,el,ln,del,eln,0.4,0.3333333333333333,5,6
+indikativ,~en ~er ,indikativ,indikativs,indikativen,indikativens,indikativer,indikativers,indikativerna,indikativernas,en,in,in,ind,ind,iv,en,tiv,ven,0.4444444444444444,0.45454545454545453,9,11
+stockholmska,~n ?holmskor ,stockholmska,stockholmskas,stockholmskan,stockholmskans,stockholmskor,stockholmskors,stockholmskorna,stockholmskornas,en,st,st,sto,sto,ka,an,ska,kan,0.25,0.23076923076923078,12,13
+åtgärd,~en ~er ,åtgärd,åtgärds,åtgärden,åtgärdens,åtgärder,åtgärders,åtgärderna,åtgärdernas,en,åt,åt,åtg,åtg,rd,en,ärd,den,0.3333333333333333,0.375,6,8
+kognit·ion,~en ,kognition,kognitions,kognitionen,kognitionens,NOP,NOP,NOP,NOP,en,ko,ko,kog,kog,on,en,ion,nen,0.4444444444444444,0.45454545454545453,9,11
+ansvar,~et; pl. ~ ,ansvar,ansvars,ansvaret,ansvarets,ansvar,ansvars,ansvaren,ansvarens,ett,an,an,ans,ans,ar,et,var,ret,0.3333333333333333,0.375,6,8
+alternativ,~et; pl. ~ ,alternativ,alternativs,alternativet,alternativets,alternativ,alternativs,alternativen,alternativens,ett,al,al,alt,alt,iv,et,tiv,vet,0.4,0.4166666666666667,10,12
+djur,~et; pl. ~ ,djur,djurs,djuret,djurets,djur,djurs,djuren,djurens,ett,dj,dj,dju,dju,ur,et,jur,ret,0.25,0.3333333333333333,4,6
+projekt,~et; pl. ~ ,projekt,projekts,projektet,projektets,projekt,projekts,projekten,projektens,ett,pr,pr,pro,pro,kt,et,ekt,tet,0.2857142857142857,0.3333333333333333,7,9
+dricka,~n drickor ,dricka,drickas,drickan,drickans,drickor,drickors,drickorna,drickornas,en,dr,dr,dri,dri,ka,an,cka,kan,0.3333333333333333,0.2857142857142857,6,7
+dricka,~t ,dricka,drickas,drickat,drickats,NOP,NOP,NOP,NOP,ett,dr,dr,dri,dri,ka,at,cka,kat,0.3333333333333333,0.2857142857142857,6,7
+kalender,~n kalendrar ,kalender,kalenders,kalendern,kalenderns,kalendrar,kalendrars,kalendrarna,kalendrarnas,en,ka,ka,kal,kal,er,rn,der,ern,0.375,0.3333333333333333,8,9
+bula,~n bulor ,bula,bulas,bulan,bulans,bulor,bulors,bulorna,bulornas,en,bu,bu,bul,bul,la,an,ula,lan,0.5,0.4,4,5
+hand,~en händer ,hand,hands,handen,handens,händer,händers,händerna,händernas,en,ha,ha,han,han,nd,en,and,den,0.25,0.3333333333333333,4,6
+hav,~et; pl. ~ ,hav,havs,havet,havets,hav,havs,haven,havens,ett,ha,ha,hav,hav,av,et,hav,vet,0.3333333333333333,0.4,3,5
+museum,museet museer ,museum,museums,museet,museets,museer,museers,museerna,museernas,ett,mu,mu,mus,mus,um,et,eum,eet,0.5,0.5,6,6
+initial,~en ~er ,initial,initials,initialen,initialens,initialer,initialers,initialerna,initialernas,en,in,in,ini,ini,al,en,ial,len,0.5714285714285714,0.5555555555555556,7,9
+förändr·ing,~en ~ar ,förändring,förändrings,förändringen,förändringens,förändringar,förändringars,förändringarna,förändringarnas,en,fö,fö,för,för,ng,en,ing,gen,0.3,0.3333333333333333,10,12
+syll,~en ~ar ,syll,sylls,syllen,syllens,syllar,syllars,syllarna,syllarnas,en,sy,sy,syl,syl,ll,en,yll,len,0.25,0.3333333333333333,4,6
+referent,~en ~er ,referent,referents,referenten,referentens,referenter,referenters,referenterna,referenternas,en,re,re,ref,ref,nt,en,ent,ten,0.375,0.4,8,10
+förordn·ing,~en ~ar ,förordning,förordnings,förordningen,förordningens,förordningar,förordningars,förordningarna,förordningarnas,en,fö,fö,för,för,ng,en,ing,gen,0.3,0.3333333333333333,10,12
+dyslexi,~n ,dyslexi,dyslexis,dyslexin,dyslexins,NOP,NOP,NOP,NOP,en,dy,dy,dys,dys,xi,in,exi,xin,0.42857142857142855,0.375,7,8
+app,~en ~ar ,app,apps,appen,appens,appar,appars,apparna,apparnas,en,ap,ap,app,app,pp,en,app,pen,0.3333333333333333,0.4,3,5
+ingrepp,~et; pl. ~ ,ingrepp,ingrepps,ingreppet,ingreppets,ingrepp,ingrepps,ingreppen,ingreppens,ett,in,in,ing,ing,pp,et,epp,pet,0.2857142857142857,0.3333333333333333,7,9
+streamning,~en ~ar ,streamning (en streaming),streamnings (en streamings),streamningen (streamingen),streamningens (streamingens),streamningar (streamingar),streamningars (streamingars),streamningarna (streamingarna),streamningarnas (streamingarnas),en,st,st,str,str,ng,en,ing,gen,0.28,0.3076923076923077,25,26
+lärare,~n; pl. ~,lärare,lärares,läraren,lärarens,lärare,lärares,lärarna,lärarnas,en,lä,lä,lär,lär,re,en,are,ren,0.5,0.42857142857142855,6,7
+uttalsordbok,~en ?ordböcker ,uttalsordbok,uttalsordboks,uttalsordboken,uttalsordbokens,uttalsordböcker,uttalsordböckers,uttalsordböckerna,uttalsordböckernas,en,ut,ut,utt,utt,ok,en,bok,ken,0.3333333333333333,0.35714285714285715,12,14
+alvar,~et ,alvar,alvars,alvaret,alvarets,NOP,NOP,NOP,NOP,ett,al,al,alv,alv,ar,et,var,ret,0.4,0.42857142857142855,5,7
+fakultet,~en ~er ,fakultet,fakultets,fakulteten,fakultetens,fakulteter,fakulteters,fakulteterna,fakulteternas,en,fa,fa,fak,fak,et,en,tet,ten,0.375,0.4,8,10
+syntes,~en ~er ,syntes,syntes,syntesen,syntesens,synteser,syntesers,synteserna,syntesernas,en,sy,sy,syn,syn,es,en,tes,sen,0.3333333333333333,0.375,6,8
+färja,~n färjor ,färja,färjas,färjan,färjans,färjor,färjors,färjorna,färjornas,en,fä,fä,fär,fär,ja,an,rja,jan,0.4,0.3333333333333333,5,6
+sida,~n sidor ,sida,sidas,sidan,sidans,sidor,sidors,sidorna,sidornas,en,si,si,sid,sid,da,an,ida,dan,0.5,0.4,4,5
+slang,~en ~ar ,slang,slangs,slangen,slangens,slangar,slangars,slangarna,slangarnas,en,sl,sl,sla,sla,ng,en,ang,gen,0.2,0.2857142857142857,5,7
+slang,~en ,slang,slangs,slangen,slangens,NOP,NOP,NOP,NOP,en,sl,sl,sla,sla,ng,en,ang,gen,0.2,0.2857142857142857,5,7
+logga,~n loggor ,logga,loggas,loggan,loggans,loggor,loggors,loggorna,loggornas,en,lo,lo,log,log,ga,an,gga,gan,0.4,0.3333333333333333,5,6
+hemsökelse,~n ~r ,hemsökelse,hemsökelses,hemsökelsen,hemsökelsens,hemsökelser,hemsökelsers,hemsökelserna,hemsökelsernas,en,he,he,hem,hem,se,en,lse,sen,0.4,0.36363636363636365,10,11
+stadsbo,~n ~r ,stadsbo,stadsbos,stadsbon,stadsbons,stadsbor,stadsbors,stadsborna,stadsbornas,en,st,st,sta,sta,bo,on,sbo,bon,0.2857142857142857,0.25,7,8
+skur,~en ~ar ,skur,skurs,skuren,skurens,skurar,skurars,skurarna,skurarnas,en,sk,sk,sku,sku,ur,en,kur,ren,0.25,0.3333333333333333,4,6
+prevent·ion,~en ,prevention,preventions,preventionen,preventionens,NOP,NOP,NOP,NOP,en,pr,pr,pre,pre,on,en,ion,nen,0.4,0.4166666666666667,10,12
+obsklass,~en ~er ,obsklass,obsklass,obsklassen,obsklassens,obsklasser,obsklassers,obsklasserna,obsklassernas,en,ob,ob,obs,obs,ss,en,ass,sen,0.25,0.3,8,10
+radio,~n ,radio,radios,radion,radions,NOP,NOP,NOP,NOP,en,ra,ra,rad,rad,io,on,dio,ion,0.6,0.5,5,6
+radio,~n; i pl. används vanl. ~apparater ,radio,radios,radion,radions,NOP,NOP,NOP,NOP,en,ra,ra,rad,rad,io,on,dio,ion,0.6,0.5,5,6
+anställning,~en ~ar ,anställning,anställnings,anställningen,anställningens,anställningar,anställningars,anställningarna,anställningarnas,en,an,an,ans,ans,ng,en,ing,gen,0.2727272727272727,0.3076923076923077,11,13
+masterexamen,best. ~; pl. ?examina ,masterexamen,masterexamens,masterexamen,masterexamens,masterexamina,masterexaminas,masterexamina,masterexaminas,en,ma,ma,mas,mas,en,en,men,men,0.4166666666666667,0.4166666666666667,12,12
+organisat·ion,~en ~er ,organisation,organisations,organisationen,organisationens,organisationer,organisationers,organisationerna,organisationernas,en,or,or,org,org,on,en,ion,nen,0.5,0.5,12,14
+förkortningslista,~n ?listor ,förkortningslista,förkortningslistas,förkortningslistan,förkortningslistans,förkortningslistor,förkortningslistors,förkortningslistorna,förkortningslistornas,en,fö,fö,för,för,ta,an,sta,tan,0.29411764705882354,0.2777777777777778,17,18
+attack,~en ~er ,attack,attacks,attacken,attackens,attacker,attackers,attackerna,attackernas,en,at,at,att,att,ck,en,ack,ken,0.3333333333333333,0.375,6,8
+moment,~et; pl. ~ ,moment,moments,momentet,momentets,moment,moments,momenten,momentens,ett,mo,mo,mom,mom,nt,et,ent,tet,0.3333333333333333,0.375,6,8
+ursprung,~et; pl. ~ ,ursprung,ursprungs,ursprunget,ursprungets,ursprung,ursprungs,ursprungen,ursprungens,ett,ur,ur,urs,urs,ng,et,ung,get,0.25,0.3,8,10
+proposit·ion,~en ~er ,proposition,propositions,propositionen,propositionens,propositioner,propositioners,propositionerna,propositionernas,en,pr,pr,pro,pro,on,en,ion,nen,0.45454545454545453,0.46153846153846156,11,13
+konnotat·ion,~en ~er ,konnotation,konnotations,konnotationen,konnotationens,konnotationer,konnotationers,konnotationerna,konnotationernas,en,ko,ko,kon,kon,on,en,ion,nen,0.45454545454545453,0.46153846153846156,11,13
+kropp,~en ~ar ,kropp,kropps,kroppen,kroppens,kroppar,kroppars,kropparna,kropparnas,en,kr,kr,kro,kro,pp,en,opp,pen,0.2,0.2857142857142857,5,7
+känsla,~n känslor ,känsla,känslas,känslan,känslans,känslor,känslors,känslorna,känslornas,en,kä,kä,kän,kän,la,an,sla,lan,0.3333333333333333,0.2857142857142857,6,7
+möte,~t ~n ,möte,mötes,mötet,mötets,möten,mötens,mötena,mötenas,ett,mö,mö,möt,möt,te,et,öte,tet,0.5,0.4,4,5
+upplägg,~et; pl. ~ ,upplägg,uppläggs,upplägget,uppläggets,upplägg,uppläggs,uppläggen,uppläggens,ett,up,up,upp,upp,gg,et,ägg,get,0.2857142857142857,0.3333333333333333,7,9
+hed,~en ~ar ,hed,heds,heden,hedens,hedar,hedars,hedarna,hedarnas,en,he,he,hed,hed,ed,en,hed,den,0.3333333333333333,0.4,3,5
+klass,~en ~er ,klass,klass,klassen,klassens,klasser,klassers,klasserna,klassernas,en,kl,kl,kla,kla,ss,en,ass,sen,0.2,0.2857142857142857,5,7
+vän,~nen ~ner ,vän,väns,vännen,vännens,vänner,vänners,vännerna,vännernas,en,vä,vä,vän,vän,än,en,vän,nen,0.3333333333333333,0.3333333333333333,3,6
+död,~en ~ar ,död,döds,döden,dödens,dödar,dödars,dödarna,dödarnas,en,dö,dö,död,död,öd,en,död,den,0.3333333333333333,0.4,3,5
+aspekt,~en ~er ,aspekt,aspekts,aspekten,aspektens,aspekter,aspekters,aspekterna,aspekternas,en,as,as,asp,asp,kt,en,ekt,ten,0.3333333333333333,0.375,6,8
+grabb,~en ~ar ,grabb,grabbs,grabben,grabbens,grabbar,grabbars,grabbarna,grabbarnas,en,gr,gr,gra,gra,bb,en,abb,ben,0.2,0.2857142857142857,5,7
+skärning,~en ~ar ,skärning,skärnings,skärningen,skärningens,skärningar,skärningars,skärningarna,skärningarnas,en,sk,sk,skä,skä,ng,en,ing,gen,0.25,0.3,8,10
+huvudstad,~en el. vard. ?stan; pl. ?städer ,huvudstad,huvudstads,huvudstaden (huvudstan),huvudstadens (huvudstans),huvudstäder,huvudstäders,huvudstäderna,huvudstädernas,en,hu,hu,huv,huv,ad,an,tad,tan,0.3333333333333333,0.30434782608695654,9,23
+huvuddel,~en ~ar ,huvuddel,huvuddels,huvuddelen,huvuddelens,huvuddelar,huvuddelars,huvuddelarna,huvuddelarnas,en,hu,hu,huv,huv,el,en,del,len,0.375,0.4,8,10
+förtal,~et; pl. ~ ,förtal,förtals,förtalet,förtalets,förtal,förtals,förtalen,förtalens,ett,fö,fö,för,för,al,et,tal,let,0.3333333333333333,0.375,6,8
+konfigurat·ion,~en ~er ,konfiguration,konfigurations,konfigurationen,konfigurationens,konfigurationer,konfigurationers,konfigurationerna,konfigurationernas,en,ko,ko,kon,kon,on,en,ion,nen,0.46153846153846156,0.4666666666666667,13,15
+regel,~n regler ,regel,regels,regeln,regelns,regler,reglers,reglerna,reglernas,en,re,re,reg,reg,el,ln,gel,eln,0.4,0.3333333333333333,5,6
+regel,~n reglar ,regel,regels,regeln,regelns,reglar,reglars,reglarna,reglarnas,en,re,re,reg,reg,el,ln,gel,eln,0.4,0.3333333333333333,5,6
+ansats,~en ~er ,ansats,ansats,ansatsen,ansatsens,ansatser,ansatsers,ansatserna,ansatsernas,en,an,an,ans,ans,ts,en,ats,sen,0.3333333333333333,0.375,6,8
+matos,~et ,matos,matos,matoset,matosets,NOP,NOP,NOP,NOP,ett,ma,ma,mat,mat,os,et,tos,set,0.4,0.42857142857142855,5,7
+arv,~et; pl. ~ ,arv,arvs,arvet,arvets,arv,arvs,arven,arvens,ett,ar,ar,arv,arv,rv,et,arv,vet,0.3333333333333333,0.4,3,5
+arv,~en ,arv,arvs,arven,arvens,NOP,NOP,NOP,NOP,en,ar,ar,arv,arv,rv,en,arv,ven,0.3333333333333333,0.4,3,5
+pdf,pdf:en pdf:er ,pdf,pdf:s,pdf:en,pdf:ens,pdf:er,pdf:ers,pdf:erna,pdf:ernas,en,pd,pd,pdf,pdf,df,en,pdf,:en,0.0,0.16666666666666666,3,6
+trop,~en ~er ,trop,trops,tropen,tropens,troper,tropers,troperna,tropernas,en,tr,tr,tro,tro,op,en,rop,pen,0.25,0.3333333333333333,4,6
+realisat·ion,~en ~er ,realisation,realisations,realisationen,realisationens,realisationer,realisationers,realisationerna,realisationernas,en,re,re,rea,rea,on,en,ion,nen,0.5454545454545454,0.5384615384615384,11,13
+sjö,~n ~ar ,sjö,sjös,sjön,sjöns,sjöar,sjöars,sjöarna,sjöarnas,en,sj,sj,sjö,sjö,jö,ön,sjö,jön,0.3333333333333333,0.25,3,4
+artikel,~n artiklar ,artikel,artikels,artikeln,artikelns,artiklar,artiklars,artiklarna,artiklarnas,en,ar,ar,art,art,el,ln,kel,eln,0.42857142857142855,0.375,7,8
+ramsa,~n ramsor ,ramsa,ramsas,ramsan,ramsans,ramsor,ramsors,ramsorna,ramsornas,en,ra,ra,ram,ram,sa,an,msa,san,0.4,0.3333333333333333,5,6
+clou,~n ,clou,clous,cloun,clouns,NOP,NOP,NOP,NOP,en,cl,cl,clo,clo,ou,un,lou,oun,0.5,0.4,4,5
+fason,~en ~er ,fason,fasons,fasonen,fasonens,fasoner,fasoners,fasonerna,fasonernas,en,fa,fa,fas,fas,on,en,son,nen,0.4,0.42857142857142855,5,7
+bornyr,~en ,bornyr,bornyrs,bornyren,bornyrens,NOP,NOP,NOP,NOP,en,bo,bo,bor,bor,yr,en,nyr,ren,0.3333333333333333,0.375,6,8
+vara,~n varor ,vara,varas,varan,varans,varor,varors,varorna,varornas,en,va,va,var,var,ra,an,ara,ran,0.5,0.4,4,5
+vara,~de ~t ,vara,varas,varat,varats,NOP,NOP,NOP,NOP,ett,va,va,var,var,ra,at,ara,rat,0.5,0.4,4,5
+patient,~en ~er ,patient,patients,patienten,patientens,patienter,patienters,patienterna,patienternas,en,pa,pa,pat,pat,nt,en,ent,ten,0.42857142857142855,0.4444444444444444,7,9
+beteende,~t ~n ,beteende,beteendes,beteendet,beteendets,beteenden,beteendens,beteendena,beteendenas,ett,be,be,bet,bet,de,et,nde,det,0.5,0.4444444444444444,8,9
+bror,brodern bröder ,bror (en broder),brors (en broders),brodern,broderns,bröder,bröders,bröderna,brödernas,en,br,br,bro,bro,er,rn,der,ern,0.25,0.2857142857142857,16,7
+hagiografi,~n ~er ,hagiografi,hagiografis,hagiografin,hagiografins,hagiografier,hagiografiers,hagiografierna,hagiografiernas,en,ha,ha,hag,hag,fi,in,afi,fin,0.5,0.45454545454545453,10,11
+kvantitet,~en ~er ,kvantitet,kvantitets,kvantiteten,kvantitetens,kvantiteter,kvantiteters,kvantiteterna,kvantiteternas,en,kv,kv,kva,kva,et,en,tet,ten,0.3333333333333333,0.36363636363636365,9,11
+koordinator,~n ~er [?o´r?] ,koordinator,koordinators,koordinatorn,koordinatorns,koordinatorer,koordinatorers,koordinatorerna,koordinatorernas,en,ko,ko,koo,koo,or,rn,tor,orn,0.45454545454545453,0.4166666666666667,11,12
+springa,~n springor ,springa,springas,springan,springans,springor,springors,springorna,springornas,en,sp,sp,spr,spr,ga,an,nga,gan,0.2857142857142857,0.25,7,8
+spåna,~n spånor ,spåna,spånas,spånan,spånans,spånor,spånors,spånorna,spånornas,en,sp,sp,spå,spå,na,an,åna,nan,0.4,0.3333333333333333,5,6
+botten,bottnen el. ~; pl. bottnar ,botten,bottens,bottnen (botten),bottnens (bottens),bottnar,bottnars,bottnarna,bottnarnas,en,bo,bo,bot,bot,en,en,ten,ten,0.3333333333333333,0.25,6,16
+reger·ing,~en ~ar ,regering,regerings,regeringen,regeringens,regeringar,regeringars,regeringarna,regeringarnas,en,re,re,reg,reg,ng,en,ing,gen,0.375,0.4,8,10
+föda,~n ,föda,födas,födan,födans,NOP,NOP,NOP,NOP,en,fö,fö,föd,föd,da,an,öda,dan,0.5,0.4,4,5
+inställning,~en ~ar ,inställning,inställnings,inställningen,inställningens,inställningar,inställningars,inställningarna,inställningarnas,en,in,in,ins,ins,ng,en,ing,gen,0.2727272727272727,0.3076923076923077,11,13
+historia,historien historier ,historia,historias,historien,historiens,historier,historiers,historierna,historiernas,en,hi,hi,his,his,ia,en,ria,ien,0.5,0.4444444444444444,8,9
+styrmedel,?medlet; pl. ~,styrmedel,styrmedels,styrmedlet,styrmedlets,styrmedel,styrmedels,styrmedlen,styrmedlens,ett,st,st,sty,sty,el,et,del,let,0.3333333333333333,0.3,9,10
+subba,~n subbor ,subba,subbas,subban,subbans,subbor,subbors,subborna,subbornas,en,su,su,sub,sub,ba,an,bba,ban,0.4,0.3333333333333333,5,6
+kod,~en ~er ,kod,kods,koden,kodens,koder,koders,koderna,kodernas,en,ko,ko,kod,kod,od,en,kod,den,0.3333333333333333,0.4,3,5
+premiärnervositet,~en ,premiärnervositet,premiärnervositets,premiärnervositeten,premiärnervositetens,NOP,NOP,NOP,NOP,en,pr,pr,pre,pre,et,en,tet,ten,0.4117647058823529,0.42105263157894735,17,19
+mullvad,~en ~ar ,mullvad,mullvads,mullvaden,mullvadens,mullvadar,mullvadars,mullvadarna,mullvadarnas,en,mu,mu,mul,mul,ad,en,vad,den,0.2857142857142857,0.3333333333333333,7,9
+tema,~t ~n ,tema,temas,temat,temats,teman,temans,temana,temanas,ett,te,te,tem,tem,ma,at,ema,mat,0.5,0.4,4,5
+förordnande,~t ~n ,förordnande,förordnandes,förordnandet,förordnandets,förordnanden,förordnandens,förordnandena,förordnandenas,ett,fö,fö,för,för,de,et,nde,det,0.36363636363636365,0.3333333333333333,11,12
+stolle,~n stollar ,stolle,stolles,stollen,stollens,stollar,stollars,stollarna,stollarnas,en,st,st,sto,sto,le,en,lle,len,0.3333333333333333,0.2857142857142857,6,7
+poesi,~n ~er ,poesi,poesis,poesin,poesins,poesier,poesiers,poesierna,poesiernas,en,po,po,poe,poe,si,in,esi,sin,0.6,0.5,5,6
+varande,~t ,varande,varandes,varandet,varandets,NOP,NOP,NOP,NOP,ett,va,va,var,var,de,et,nde,det,0.42857142857142855,0.375,7,8
+svärdotter,~n ?döttrar ,svärdotter,svärdotters,svärdottern,svärdotterns,svärdöttrar,svärdöttrars,svärdöttrarna,svärdöttrarnas,en,sv,sv,svä,svä,er,rn,ter,ern,0.3,0.2727272727272727,10,11
+engelska,~n engelskor ,engelska,engelskas,engelskan,engelskans,engelskor,engelskors,engelskorna,engelskornas,en,en,en,eng,eng,ka,an,ska,kan,0.375,0.3333333333333333,8,9
+avstavning,~en ~ar ,avstavning,avstavnings,avstavningen,avstavningens,avstavningar,avstavningars,avstavningarna,avstavningarnas,en,av,av,avs,avs,ng,en,ing,gen,0.3,0.3333333333333333,10,12
+bytta,~n byttor ,bytta,byttas,byttan,byttans,byttor,byttors,byttorna,byttornas,en,by,by,byt,byt,ta,an,tta,tan,0.4,0.3333333333333333,5,6
+id,~en ~ar ,id,ids,iden,idens,idar,idars,idarna,idarnas,en,id,id,id,ide,id,en,id,den,0.5,0.5,2,4
+id,~en ,id,ids,iden,idens,NOP,NOP,NOP,NOP,en,id,id,id,ide,id,en,id,den,0.5,0.5,2,4
+id,id:t el. id:n; pl. id:n ,id,NOP,NOP,NOP,NOP,NOP,NOP,NOP,en,id,NO,id,NOP,id,OP,id,NOP,0.5,0.3333333333333333,2,3
+id,ID:t el. ID:n; pl. ID:n ,id (ett ID),id:s (ett ID:s),id:t (id:n; ID:t; ID:n),id:ts (id:ns; ID:ts; ID:ns),id:n (ID:n),id:ns (ID:ns),id:na (ID:na),id:nas (ID:nas),ett,id,id,id ,id:,ID,:n, ID,D:n,0.2727272727272727,0.17391304347826086,11,23
+tölp,~en ~ar ,tölp,tölps,tölpen,tölpens,tölpar,tölpars,tölparna,tölparnas,en,tö,tö,töl,töl,lp,en,ölp,pen,0.25,0.3333333333333333,4,6
+assister·ing,~en ~ar ,assistering,assisterings,assisteringen,assisteringens,assisteringar,assisteringars,assisteringarna,assisteringarnas,en,as,as,ass,ass,ng,en,ing,gen,0.36363636363636365,0.38461538461538464,11,13
+smällare,~n; pl. ~,smällare,smällares,smällaren,smällarens,smällare,smällares,smällarna,smällarnas,en,sm,sm,smä,smä,re,en,are,ren,0.375,0.3333333333333333,8,9
+ursprung,~et; pl. ~ ,ursprung,ursprungs,ursprunget,ursprungets,ursprung,ursprungs,ursprungen,ursprungens,ett,ur,ur,urs,urs,ng,et,ung,get,0.25,0.3,8,10
+dialog,~en ~er ,dialog,dialogs,dialogen,dialogens,dialoger,dialogers,dialogerna,dialogernas,en,di,di,dia,dia,og,en,log,gen,0.5,0.5,6,8
+levnadsöde,~t ~n ,levnadsöde,levnadsödes,levnadsödet,levnadsödets,levnadsöden,levnadsödens,levnadsödena,levnadsödenas,ett,le,le,lev,lev,de,et,öde,det,0.4,0.36363636363636365,10,11
+komplikat·ion,~en ~er ,komplikation,komplikations,komplikationen,komplikationens,komplikationer,komplikationers,komplikationerna,komplikationernas,en,ko,ko,kom,kom,on,en,ion,nen,0.4166666666666667,0.42857142857142855,12,14
+silo,~n ~r ,silo,silos,silon,silons,silor,silors,silorna,silornas,en,si,si,sil,sil,lo,on,ilo,lon,0.5,0.4,4,5
+interakt·ion,~en ~er ,interaktion,interaktions,interaktionen,interaktionens,interaktioner,interaktioners,interaktionerna,interaktionernas,en,in,in,int,int,on,en,ion,nen,0.45454545454545453,0.46153846153846156,11,13
+samband,~et; pl. ~ ,samband,sambands,sambandet,sambandets,samband,sambands,sambanden,sambandens,ett,sa,sa,sam,sam,nd,et,and,det,0.2857142857142857,0.3333333333333333,7,9
+tom,~en ~er ,tom,toms,tomen,tomens,tomer,tomers,tomerna,tomernas,en,to,to,tom,tom,om,en,tom,men,0.3333333333333333,0.4,3,5
+ko,~n ~r ,ko,kos,kon,kons,kor,kors,korna,kornas,en,ko,ko,ko,kon,ko,on,ko,kon,0.5,0.3333333333333333,2,3
+kongruensböjning,~en ~ar ,kongruensböjning,kongruensböjnings,kongruensböjningen,kongruensböjningens,kongruensböjningar,kongruensböjningars,kongruensböjningarna,kongruensböjningarnas,en,ko,ko,kon,kon,ng,en,ing,gen,0.3125,0.3333333333333333,16,18
+entitet,~en ~er ,entitet,entitets,entiteten,entitetens,entiteter,entiteters,entiteterna,entiteternas,en,en,en,ent,ent,et,en,tet,ten,0.42857142857142855,0.4444444444444444,7,9
+komma,~t ~n ,komma,kommas,kommat,kommats,komman,kommans,kommana,kommanas,ett,ko,ko,kom,kom,ma,at,mma,mat,0.4,0.3333333333333333,5,6
+konsert,~en ~er ,konsert,konserts,konserten,konsertens,konserter,konserters,konserterna,konserternas,en,ko,ko,kon,kon,rt,en,ert,ten,0.2857142857142857,0.3333333333333333,7,9
+kar,~et; pl. ~ ,kar,kars,karet,karets,kar,kars,karen,karens,ett,ka,ka,kar,kar,ar,et,kar,ret,0.3333333333333333,0.4,3,5
+styrmekanism,~en ~er ,styrmekanism,styrmekanisms,styrmekanismen,styrmekanismens,styrmekanismer,styrmekanismers,styrmekanismerna,styrmekanismernas,en,st,st,sty,sty,sm,en,ism,men,0.3333333333333333,0.35714285714285715,12,14
+stöld,~en ~er ,stöld,stölds,stölden,stöldens,stölder,stölders,stölderna,stöldernas,en,st,st,stö,stö,ld,en,öld,den,0.2,0.2857142857142857,5,7
+armatur,~en ~er ,armatur,armaturs,armaturen,armaturens,armaturer,armaturers,armaturerna,armaturernas,en,ar,ar,arm,arm,ur,en,tur,ren,0.42857142857142855,0.4444444444444444,7,9
+stätta,~n stättor ,stätta,stättas,stättan,stättans,stättor,stättors,stättorna,stättornas,en,st,st,stä,stä,ta,an,tta,tan,0.3333333333333333,0.2857142857142857,6,7
+lampa,~n lampor ,lampa,lampas,lampan,lampans,lampor,lampors,lamporna,lampornas,en,la,la,lam,lam,pa,an,mpa,pan,0.4,0.3333333333333333,5,6
+karat,~en; pl. ~ ,karat,karats,karaten,karatens,karat,karats,karaten,karatens,en,ka,ka,kar,kar,at,en,rat,ten,0.4,0.42857142857142855,5,7
+atmosfär,~en ~er ,atmosfär,atmosfärs,atmosfären,atmosfärens,atmosfärer,atmosfärers,atmosfärerna,atmosfärernas,en,at,at,atm,atm,är,en,fär,ren,0.375,0.4,8,10
+arbetsblad,~et; pl. ~ ,arbetsblad,arbetsblads,arbetsbladet,arbetsbladets,arbetsblad,arbetsblads,arbetsbladen,arbetsbladens,ett,ar,ar,arb,arb,ad,et,lad,det,0.3,0.3333333333333333,10,12
+optant,~en ~er ,optant,optants,optanten,optantens,optanter,optanters,optanterna,optanternas,en,op,op,opt,opt,nt,en,ant,ten,0.3333333333333333,0.375,6,8
+tituler·ing,~en ~ar ,titulering,titulerings,tituleringen,tituleringens,tituleringar,tituleringars,tituleringarna,tituleringarnas,en,ti,ti,tit,tit,ng,en,ing,gen,0.4,0.4166666666666667,10,12
+anspråk,~et; pl. ~ ,anspråk,anspråks,anspråket,anspråkets,anspråk,anspråks,anspråken,anspråkens,ett,an,an,ans,ans,åk,et,råk,ket,0.2857142857142857,0.3333333333333333,7,9
+tes,~en ~er ,tes,tes,tesen,tesens,teser,tesers,teserna,tesernas,en,te,te,tes,tes,es,en,tes,sen,0.3333333333333333,0.4,3,5
+vatten,vattnet; pl. ~,vatten,vattens,vattnet,vattnets,vatten,vattens,vattnen,vattnens,ett,va,va,vat,vat,en,et,ten,net,0.3333333333333333,0.2857142857142857,6,7
+skrivregel,~n ?regler ,skrivregel,skrivregels,skrivregeln,skrivregelns,skrivregler,skrivreglers,skrivreglerna,skrivreglernas,en,sk,sk,skr,skr,el,ln,gel,eln,0.3,0.2727272727272727,10,11
+fredsengagemang,~et ,fredsengagemang,fredsengagemangs,fredsengagemanget,fredsengagemangets,NOP,NOP,NOP,NOP,ett,fr,fr,fre,fre,ng,et,ang,get,0.3333333333333333,0.35294117647058826,15,17
+parvel,~n parvlar ,parvel,parvels,parveln,parvelns,parvlar,parvlars,parvlarna,parvlarnas,en,pa,pa,par,par,el,ln,vel,eln,0.3333333333333333,0.2857142857142857,6,7
+sjuksköterska,~n ?sköterskor ,sjuksköterska,sjuksköterskas,sjuksköterskan,sjuksköterskans,sjuksköterskor,sjuksköterskors,sjuksköterskorna,sjuksköterskornas,en,sj,sj,sju,sju,ka,an,ska,kan,0.3076923076923077,0.2857142857142857,13,14
+anläggning,~en ~ar ,anläggning,anläggnings,anläggningen,anläggningens,anläggningar,anläggningars,anläggningarna,anläggningarnas,en,an,an,anl,anl,ng,en,ing,gen,0.3,0.3333333333333333,10,12
+controller,~n controllrar ,controller,controllers,controllern,controllerns,controllrar,controllrars,controllrarna,controllrarnas,en,co,co,con,con,er,rn,ler,ern,0.3,0.2727272727272727,10,11
+slogan,~en; pl. ~er hellre än ~s ,slogan,slogans,sloganen,sloganens,sloganer (slogans),sloganers (slogans),sloganerna,sloganernas,en,sl,sl,slo,slo,an,en,gan,nen,0.3333333333333333,0.375,6,8
+fyra,~de ~t ,fyra,fyras,fyran,fyrans,fyror,fyrors,fyrorna,fyrornas,en,fy,fy,fyr,fyr,ra,an,yra,ran,0.5,0.4,4,5
+fåfänga,~n ,fåfänga,fåfängas,fåfängan,fåfängans,NOP,NOP,NOP,NOP,en,få,få,fåf,fåf,ga,an,nga,gan,0.42857142857142855,0.375,7,8
+korrektur,~et; pl. ~ ,korrektur,korrekturs,korrekturet,korrekturets,korrektur,korrekturs,korrekturen,korrekturens,ett,ko,ko,kor,kor,ur,et,tur,ret,0.3333333333333333,0.36363636363636365,9,11
+forum,~et; pl. ~ hellre än fora,forum,forums,forumet,forumets,forum (fora),forums (foras),forumen (fora),forumens (foras),ett,fo,fo,for,for,um,et,rum,met,0.4,0.42857142857142855,5,7
+avtal,~et; pl. ~ ,avtal,avtals,avtalet,avtalets,avtal,avtals,avtalen,avtalens,ett,av,av,avt,avt,al,et,tal,let,0.4,0.42857142857142855,5,7
+svar,~et; pl. ~ ,svar,svars,svaret,svarets,svar,svars,svaren,svarens,ett,sv,sv,sva,sva,ar,et,var,ret,0.25,0.3333333333333333,4,6
+kaluv,~en ,kaluv,kaluvs,kaluven,kaluvens,NOP,NOP,NOP,NOP,en,ka,ka,kal,kal,uv,en,luv,ven,0.4,0.42857142857142855,5,7
+sav,~en ,sav,savs,saven,savens,NOP,NOP,NOP,NOP,en,sa,sa,sav,sav,av,en,sav,ven,0.3333333333333333,0.4,3,5
+avlägsenhet,~en ,avlägsenhet,avlägsenhets,avlägsenheten,avlägsenhetens,NOP,NOP,NOP,NOP,en,av,av,avl,avl,et,en,het,ten,0.36363636363636365,0.38461538461538464,11,13
+styrka,~n styrkor ,styrka,styrkas,styrkan,styrkans,styrkor,styrkors,styrkorna,styrkornas,en,st,st,sty,sty,ka,an,rka,kan,0.3333333333333333,0.2857142857142857,6,7
+revis·ion,~en ~er ,revision,revisions,revisionen,revisionens,revisioner,revisioners,revisionerna,revisionernas,en,re,re,rev,rev,on,en,ion,nen,0.5,0.5,8,10
+ria,~n rior ,ria,rias,rian,rians,rior,riors,riorna,riornas,en,ri,ri,ria,ria,ia,an,ria,ian,0.6666666666666666,0.5,3,4
+reassuradör,~en ~er ,reassuradör,reassuradörs,reassuradören,reassuradörens,reassuradörer,reassuradörers,reassuradörerna,reassuradörernas,en,re,re,rea,rea,ör,en,dör,ren,0.45454545454545453,0.46153846153846156,11,13
+klimat,~et; pl. ~ ,klimat,klimats,klimatet,klimatets,klimat,klimats,klimaten,klimatens,ett,kl,kl,kli,kli,at,et,mat,tet,0.3333333333333333,0.375,6,8
+utslagsplats,~en ~er ,utslagsplats,utslagsplats,utslagsplatsen,utslagsplatsens,utslagsplatser,utslagsplatsers,utslagsplatserna,utslagsplatsernas,en,ut,ut,uts,uts,ts,en,ats,sen,0.25,0.2857142857142857,12,14
+kunskap,~en ~er ,kunskap,kunskaps,kunskapen,kunskapens,kunskaper,kunskapers,kunskaperna,kunskapernas,en,ku,ku,kun,kun,ap,en,kap,pen,0.2857142857142857,0.3333333333333333,7,9
+kluster,klustret; pl. ~,kluster,klusters,klustret,klustrets,kluster,klusters,klustren,klustrens,ett,kl,kl,klu,klu,er,et,ter,ret,0.2857142857142857,0.25,7,8
+måndag,~en el. vard. ?dan; pl. ~ar ,måndag,måndags,måndagen (måndan),måndagens (måndans),måndagar,måndagars,måndagarna,måndagarnas,en,må,må,mån,mån,ag,an,dag,dan,0.3333333333333333,0.29411764705882354,6,17
+betäckning,~en ~ar ,betäckning,betäcknings,betäckningen,betäckningens,betäckningar,betäckningars,betäckningarna,betäckningarnas,en,be,be,bet,bet,ng,en,ing,gen,0.3,0.3333333333333333,10,12
+försvar,~et; pl. ~ ,försvar,försvars,försvaret,försvarets,försvar,försvars,försvaren,försvarens,ett,fö,fö,för,för,ar,et,var,ret,0.2857142857142857,0.3333333333333333,7,9
+myndighet,~en ~er ,myndighet,myndighets,myndigheten,myndighetens,myndigheter,myndigheters,myndigheterna,myndigheternas,en,my,my,myn,myn,et,en,het,ten,0.3333333333333333,0.36363636363636365,9,11
+snuva,~n snuvor ,snuva,snuvas,snuvan,snuvans,snuvor,snuvors,snuvorna,snuvornas,en,sn,sn,snu,snu,va,an,uva,van,0.4,0.3333333333333333,5,6
+w,w:et; pl. w:n el. w,w,w:s,w:et,w:ets,w:n (w),w:ns (w:s),w:na,w:nas,ett,w,w:,w,w:e,w,et,w,:et,0.0,0.25,1,4
+avbrott,~et; pl. ~ ,avbrott,avbrotts,avbrottet,avbrottets,avbrott,avbrotts,avbrotten,avbrottens,ett,av,av,avb,avb,tt,et,ott,tet,0.2857142857142857,0.3333333333333333,7,9
+ensamhet,~en ~er ,ensamhet,ensamhets,ensamheten,ensamhetens,ensamheter,ensamheters,ensamheterna,ensamheternas,en,en,en,ens,ens,et,en,het,ten,0.375,0.4,8,10
+ansats,~en ~er ,ansats,ansats,ansatsen,ansatsens,ansatser,ansatsers,ansatserna,ansatsernas,en,an,an,ans,ans,ts,en,ats,sen,0.3333333333333333,0.375,6,8
+remiss,~en ~er ,remiss,remiss,remissen,remissens,remisser,remissers,remisserna,remissernas,en,re,re,rem,rem,ss,en,iss,sen,0.3333333333333333,0.375,6,8
+snäsa,~n snäsor ,snäsa,snäsas,snäsan,snäsans,snäsor,snäsors,snäsorna,snäsornas,en,sn,sn,snä,snä,sa,an,äsa,san,0.4,0.3333333333333333,5,6
+inventarium,inventariet inventarier ,inventarium,inventariums,inventariet,inventariets,inventarier,inventariers,inventarierna,inventariernas,ett,in,in,inv,inv,um,et,ium,iet,0.45454545454545453,0.45454545454545453,11,11
+firma,~n firmor ,firma,firmas,firman,firmans,firmor,firmors,firmorna,firmornas,en,fi,fi,fir,fir,ma,an,rma,man,0.4,0.3333333333333333,5,6
+bibliotek,~et; pl. ~ ,bibliotek,biblioteks,biblioteket,bibliotekets,bibliotek,biblioteks,biblioteken,bibliotekens,ett,bi,bi,bib,bib,ek,et,tek,ket,0.4444444444444444,0.45454545454545453,9,11
+substitut,~et; pl. ~ ,substitut,substituts,substitutet,substitutets,substitut,substituts,substituten,substitutens,ett,su,su,sub,sub,ut,et,tut,tet,0.3333333333333333,0.36363636363636365,9,11
+plats,~en ~er ,plats,plats,platsen,platsens,platser,platsers,platserna,platsernas,en,pl,pl,pla,pla,ts,en,ats,sen,0.2,0.2857142857142857,5,7
+nesa,~n nesor ,nesa,nesas,nesan,nesans,nesor,nesors,nesorna,nesornas,en,ne,ne,nes,nes,sa,an,esa,san,0.5,0.4,4,5
+slem,~met ,slem,slems,slemmet,slemmets,NOP,NOP,NOP,NOP,ett,sl,sl,sle,sle,em,et,lem,met,0.25,0.2857142857142857,4,7
+exil,~en ~er ,exil,exils,exilen,exilens,exiler,exilers,exilerna,exilernas,en,ex,ex,exi,exi,il,en,xil,len,0.5,0.5,4,6
+disposit·ion,~en ~er ,disposition,dispositions,dispositionen,dispositionens,dispositioner,dispositioners,dispositionerna,dispositionernas,en,di,di,dis,dis,on,en,ion,nen,0.45454545454545453,0.46153846153846156,11,13
+reformat·ion,~en ~er ,reformation,reformations,reformationen,reformationens,reformationer,reformationers,reformationerna,reformationernas,en,re,re,ref,ref,on,en,ion,nen,0.45454545454545453,0.46153846153846156,11,13
+utnyttjande,~t ~n ,utnyttjande,utnyttjandes,utnyttjandet,utnyttjandets,utnyttjanden,utnyttjandens,utnyttjandena,utnyttjandenas,ett,ut,ut,utn,utn,de,et,nde,det,0.36363636363636365,0.3333333333333333,11,12
+kulvert,~en ~ar ,kulvert,kulverts,kulverten,kulvertens,kulvertar,kulvertars,kulvertarna,kulvertarnas,en,ku,ku,kul,kul,rt,en,ert,ten,0.2857142857142857,0.3333333333333333,7,9
+liv,~et; pl. ~ ,liv,livs,livet,livets,liv,livs,liven,livens,ett,li,li,liv,liv,iv,et,liv,vet,0.3333333333333333,0.4,3,5
+övning,~en ~ar ,övning,övnings,övningen,övningens,övningar,övningars,övningarna,övningarnas,en,öv,öv,övn,övn,ng,en,ing,gen,0.3333333333333333,0.375,6,8
+underlighet,~en ~er ,underlighet,underlighets,underligheten,underlighetens,underligheter,underligheters,underligheterna,underligheternas,en,un,un,und,und,et,en,het,ten,0.36363636363636365,0.38461538461538464,11,13
+son,~en söner ,son,sons,sonen,sonens,söner,söners,sönerna,sönernas,en,so,so,son,son,on,en,son,nen,0.3333333333333333,0.4,3,5
+sekundärlitteratur,~en ,sekundärlitteratur,sekundärlitteraturs,sekundärlitteraturen,sekundärlitteraturens,NOP,NOP,NOP,NOP,en,se,se,sek,sek,ur,en,tur,ren,0.3888888888888889,0.4,18,20
+tidpunkt,~en ~er ,tidpunkt,tidpunkts,tidpunkten,tidpunktens,tidpunkter,tidpunkters,tidpunkterna,tidpunkternas,en,ti,ti,tid,tid,kt,en,nkt,ten,0.25,0.3,8,10
+or,~et; pl. ~ ,or,ors,oret,orets,or,ors,oren,orens,ett,or,or,or,ore,or,et,or,ret,0.5,0.5,2,4
+tillstånd,~et; pl. ~ ,tillstånd,tillstånds,tillståndet,tillståndets,tillstånd,tillstånds,tillstånden,tillståndens,ett,ti,ti,til,til,nd,et,ånd,det,0.2222222222222222,0.2727272727272727,9,11
+anvisning,~en ~ar ,anvisning,anvisnings,anvisningen,anvisningens,anvisningar,anvisningars,anvisningarna,anvisningarnas,en,an,an,anv,anv,ng,en,ing,gen,0.3333333333333333,0.36363636363636365,9,11
+adverb,~et; pl. ~ ,adverb,adverbs,adverbet,adverbets,adverb,adverbs,adverben,adverbens,ett,ad,ad,adv,adv,rb,et,erb,bet,0.3333333333333333,0.375,6,8
+bil,~en ~ar ,bil,bils,bilen,bilens,bilar,bilars,bilarna,bilarnas,en,bi,bi,bil,bil,il,en,bil,len,0.3333333333333333,0.4,3,5
+skov,~et; pl. ~ ,skov,skovs,skovet,skovets,skov,skovs,skoven,skovens,ett,sk,sk,sko,sko,ov,et,kov,vet,0.25,0.3333333333333333,4,6
+faktor,~n ~er [?o´r?] ,faktor,faktors,faktorn,faktorns,faktorer,faktorers,faktorerna,faktorernas,en,fa,fa,fak,fak,or,rn,tor,orn,0.3333333333333333,0.2857142857142857,6,7
+suffix,~et; pl. ~ ,suffix,suffix,suffixet,suffixets,suffix,suffix,suffixen,suffixens,ett,su,su,suf,suf,ix,et,fix,xet,0.3333333333333333,0.375,6,8
+folder,~n foldrar ,folder,folders,foldern,folderns,foldrar,foldrars,foldrarna,foldrarnas,en,fo,fo,fol,fol,er,rn,der,ern,0.3333333333333333,0.2857142857142857,6,7
+dagsläge,~t ,dagsläge,dagsläges,dagsläget,dagslägets,NOP,NOP,NOP,NOP,ett,da,da,dag,dag,ge,et,äge,get,0.375,0.3333333333333333,8,9
+ungdom,~en ~ar ,ungdom,ungdoms,ungdomen,ungdomens,ungdomar,ungdomars,ungdomarna,ungdomarnas,en,un,un,ung,ung,om,en,dom,men,0.3333333333333333,0.375,6,8
+flykt,~en ~er ,flykt,flykts,flykten,flyktens,flykter,flykters,flykterna,flykternas,en,fl,fl,fly,fly,kt,en,ykt,ten,0.2,0.2857142857142857,5,7
+flykt,~en ,flykt,flykts,flykten,flyktens,NOP,NOP,NOP,NOP,en,fl,fl,fly,fly,kt,en,ykt,ten,0.2,0.2857142857142857,5,7
+sociolekt,~en ~er ,sociolekt,sociolekts,sociolekten,sociolektens,sociolekter,sociolekters,sociolekterna,sociolekternas,en,so,so,soc,soc,kt,en,ekt,ten,0.4444444444444444,0.45454545454545453,9,11
+glosbok,~en ?böcker ,glosbok,glosboks,glosboken,glosbokens,glosböcker,glosböckers,glosböckerna,glosböckernas,en,gl,gl,glo,glo,ok,en,bok,ken,0.2857142857142857,0.3333333333333333,7,9
+bemötande,~t ~n ,bemötande,bemötandes,bemötandet,bemötandets,bemötanden,bemötandens,bemötandena,bemötandenas,ett,be,be,bem,bem,de,et,nde,det,0.4444444444444444,0.4,9,10
+trend,~en ~er ,trend,trends,trenden,trendens,trender,trenders,trenderna,trendernas,en,tr,tr,tre,tre,nd,en,end,den,0.2,0.2857142857142857,5,7
+attribut,~et; pl. ~ ,attribut,attributs,attributet,attributets,attribut,attributs,attributen,attributens,ett,at,at,att,att,ut,et,but,tet,0.375,0.4,8,10
+inlägg,~et; pl. ~ ,inlägg,inläggs,inlägget,inläggets,inlägg,inläggs,inläggen,inläggens,ett,in,in,inl,inl,gg,et,ägg,get,0.3333333333333333,0.375,6,8
+nyord,~et; pl. ~ ,nyord,nyords,nyordet,nyordets,nyord,nyords,nyorden,nyordens,ett,ny,ny,nyo,nyo,rd,et,ord,det,0.4,0.42857142857142855,5,7
+skall,~et; pl. ~ ,skall,skalls,skallet,skallets,skall,skalls,skallen,skallens,ett,sk,sk,ska,ska,ll,et,all,let,0.2,0.2857142857142857,5,7
+substantiv,~et; pl. ~ ,substantiv,substantivs,substantivet,substantivets,substantiv,substantivs,substantiven,substantivens,ett,su,su,sub,sub,iv,et,tiv,vet,0.3,0.3333333333333333,10,12
+dator,~n ~er [?o´r?] ,dator,dators,datorn,datorns,datorer,datorers,datorerna,datorernas,en,da,da,dat,dat,or,rn,tor,orn,0.4,0.3333333333333333,5,6
+protokoll,~et; pl. ~ ,protokoll,protokolls,protokollet,protokollets,protokoll,protokolls,protokollen,protokollens,ett,pr,pr,pro,pro,ll,et,oll,let,0.3333333333333333,0.36363636363636365,9,11
+fråga,~n frågor ,fråga,frågas,frågan,frågans,frågor,frågors,frågorna,frågornas,en,fr,fr,frå,frå,ga,an,åga,gan,0.4,0.3333333333333333,5,6
+subsumt·ion,~en ~er ,subsumtion,subsumtions,subsumtionen,subsumtionens,subsumtioner,subsumtioners,subsumtionerna,subsumtionernas,en,su,su,sub,sub,on,en,ion,nen,0.4,0.4166666666666667,10,12
+påsvante,~n ?vantar ,påsvante,påsvantes,påsvanten,påsvantens,påsvantar,påsvantars,påsvantarna,påsvantarnas,en,på,på,pås,pås,te,en,nte,ten,0.375,0.3333333333333333,8,9
+ishockey,~n ,ishockey,ishockeys,ishockeyn,ishockeyns,NOP,NOP,NOP,NOP,en,is,is,ish,ish,ey,yn,key,eyn,0.5,0.4444444444444444,8,9
+men·ing,~en ~ar ,mening,menings,meningen,meningens,meningar,meningars,meningarna,meningarnas,en,me,me,men,men,ng,en,ing,gen,0.3333333333333333,0.375,6,8
+à-pris,~et ~er ,à-pris,à-pris,à-priset,à-prisets,à-priser,à-prisers,à-priserna,à-prisernas,ett,à-,à-,à-p,à-p,is,et,ris,set,0.16666666666666666,0.25,6,8
+grenklyka,~n ?klykor ,grenklyka,grenklykas,grenklykan,grenklykans,grenklykor,grenklykors,grenklykorna,grenklykornas,en,gr,gr,gre,gre,ka,an,yka,kan,0.3333333333333333,0.3,9,10
+genre,~n ~r [?a?´rer] ,genre,genres,genren,genrens,genrer,genrers,genrerna,genrernas,en,ge,ge,gen,gen,re,en,nre,ren,0.4,0.3333333333333333,5,6
+agenda,~n agendor ,agenda,agendas,agendan,agendans,agendor,agendors,agendorna,agendornas,en,ag,ag,age,age,da,an,nda,dan,0.5,0.42857142857142855,6,7
+q,q:et; pl. q:n el. q,q,q:s,q:et,q:ets,q:n (q),q:ns (q:s),q:na,q:nas,ett,q,q:,q,q:e,q,et,q,:et,0.0,0.25,1,4
+registrator,~n ~er [?o´r?] ,registrator,registrators,registratorn,registratorns,registratorer,registratorers,registratorerna,registratorernas,en,re,re,reg,reg,or,rn,tor,orn,0.36363636363636365,0.3333333333333333,11,12
+tillvaro,~n ,tillvaro,tillvaros,tillvaron,tillvarons,NOP,NOP,NOP,NOP,en,ti,ti,til,til,ro,on,aro,ron,0.375,0.3333333333333333,8,9
+certifikat,~et; pl. ~ ,certifikat,certifikats,certifikatet,certifikatets,certifikat,certifikats,certifikaten,certifikatens,ett,ce,ce,cer,cer,at,et,kat,tet,0.4,0.4166666666666667,10,12
+dag,~en el. vard. dan; pl. ~ar el. vard. dar ,dag,dags,dagen (dan),dagens (dans),dagar (dar),dagars (dars),dagarna,dagarnas,en,da,da,dag,dag,ag,an,dag,dan,0.3333333333333333,0.2727272727272727,3,11
+incident,~en ~er ,incident,incidents,incidenten,incidentens,incidenter,incidenters,incidenterna,incidenternas,en,in,in,inc,inc,nt,en,ent,ten,0.375,0.4,8,10
+historik,~en ~er ,historik,historiks,historiken,historikens,historiker,historikers,historikerna,historikernas,en,hi,hi,his,his,ik,en,rik,ken,0.375,0.4,8,10
+lekamen,best. ~ ,lekamen,lekamens,lekamen,lekamens,NOP,NOP,NOP,NOP,en,le,le,lek,lek,en,en,men,men,0.42857142857142855,0.42857142857142855,7,7
+dialekt,~en ~er ,dialekt,dialekts,dialekten,dialektens,dialekter,dialekters,dialekterna,dialekternas,en,di,di,dia,dia,kt,en,ekt,ten,0.42857142857142855,0.4444444444444444,7,9
+a,a:et; pl. a:n el. a,a,a:s,a:et,a:ets,a:n (a),a:ns (a:s),a:na,a:nas,ett,a,a:,a,a:e,a,et,a,:et,1.0,0.5,1,4
+verk,~et; pl. ~ ,verk,verks,verket,verkets,verk,verks,verken,verkens,ett,ve,ve,ver,ver,rk,et,erk,ket,0.25,0.3333333333333333,4,6
+ombud,~et; pl. ~ ,ombud,ombuds,ombudet,ombudets,ombud,ombuds,ombuden,ombudens,ett,om,om,omb,omb,ud,et,bud,det,0.4,0.42857142857142855,5,7
+svärord,~et; pl. ~ ,svärord,svärords,svärordet,svärordets,svärord,svärords,svärorden,svärordens,ett,sv,sv,svä,svä,rd,et,ord,det,0.2857142857142857,0.3333333333333333,7,9
+andel,~en ~ar ,andel,andels,andelen,andelens,andelar,andelars,andelarna,andelarnas,en,an,an,and,and,el,en,del,len,0.4,0.42857142857142855,5,7
+stamdjur,~et; pl. ~ ,stamdjur,stamdjurs,stamdjuret,stamdjurets,stamdjur,stamdjurs,stamdjuren,stamdjurens,ett,st,st,sta,sta,ur,et,jur,ret,0.25,0.3,8,10
+hus,~et; pl. ~ ,hus,hus,huset,husets,hus,hus,husen,husens,ett,hu,hu,hus,hus,us,et,hus,set,0.3333333333333333,0.4,3,5
+hemställan,best. ~ ,hemställan,hemställans,hemställan,hemställans,NOP,NOP,NOP,NOP,en,he,he,hem,hem,an,an,lan,lan,0.3,0.3,10,10
+solitär,~en ~er ,solitär,solitärs,solitären,solitärens,solitärer,solitärers,solitärerna,solitärernas,en,so,so,sol,sol,är,en,tär,ren,0.42857142857142855,0.4444444444444444,7,9
+dön,~et; pl. ~ ,dön,döns,dönet,dönets,dön,döns,dönen,dönens,ett,dö,dö,dön,dön,ön,et,dön,net,0.3333333333333333,0.4,3,5
+sekel,seklet; pl. sekler el. ~,sekel,sekels,seklet,seklets,sekler (sekel),seklers (sekels),seklerna (seklen),seklernas (seklens),ett,se,se,sek,sek,el,et,kel,let,0.4,0.3333333333333333,5,6
+lathund,~en ~ar ,lathund,lathunds,lathunden,lathundens,lathundar,lathundars,lathundarna,lathundarnas,en,la,la,lat,lat,nd,en,und,den,0.2857142857142857,0.3333333333333333,7,9
+bröt,~en ~ar ,bröt,bröts,bröten,brötens,brötar,brötars,brötarna,brötarnas,en,br,br,brö,brö,öt,en,röt,ten,0.25,0.3333333333333333,4,6
+stadga,~n ,stadga,stadgas,stadgan,stadgans,NOP,NOP,NOP,NOP,en,st,st,sta,sta,ga,an,dga,gan,0.3333333333333333,0.2857142857142857,6,7
+stadga,~n stadgor ,stadga,stadgas,stadgan,stadgans,stadgor,stadgors,stadgorna,stadgornas,en,st,st,sta,sta,ga,an,dga,gan,0.3333333333333333,0.2857142857142857,6,7
+själv,~et ,själv,självs,självet,självets,NOP,NOP,NOP,NOP,ett,sj,sj,sjä,sjä,lv,et,älv,vet,0.2,0.2857142857142857,5,7
+semester,~n semestrar ,semester,semesters,semestern,semesterns,semestrar,semestrars,semestrarna,semestrarnas,en,se,se,sem,sem,er,rn,ter,ern,0.375,0.3333333333333333,8,9
+sko,~n ~r ,sko,skos,skon,skons,skor,skors,skorna,skornas,en,sk,sk,sko,sko,ko,on,sko,kon,0.3333333333333333,0.25,3,4
+strateg,~en ~er ,strateg,strategs,strategen,strategens,strateger,strategers,strategerna,strategernas,en,st,st,str,str,eg,en,teg,gen,0.2857142857142857,0.3333333333333333,7,9
+kompetens,~en ~er ,kompetens,kompetens,kompetensen,kompetensens,kompetenser,kompetensers,kompetenserna,kompetensernas,en,ko,ko,kom,kom,ns,en,ens,sen,0.3333333333333333,0.36363636363636365,9,11
+skola,~n skolor ,skola,skolas,skolan,skolans,skolor,skolors,skolorna,skolornas,en,sk,sk,sko,sko,la,an,ola,lan,0.4,0.3333333333333333,5,6
+konjunkt·ion,~en ~er ,konjunktion,konjunktions,konjunktionen,konjunktionens,konjunktioner,konjunktioners,konjunktionerna,konjunktionernas,en,ko,ko,kon,kon,on,en,ion,nen,0.36363636363636365,0.38461538461538464,11,13
+motiv,~et; pl. ~ ,motiv,motivs,motivet,motivets,motiv,motivs,motiven,motivens,ett,mo,mo,mot,mot,iv,et,tiv,vet,0.4,0.42857142857142855,5,7
+glad,~et; pl. ~ ,glad,glads,gladet,gladets,glad,glads,gladen,gladens,ett,gl,gl,gla,gla,ad,et,lad,det,0.25,0.3333333333333333,4,6
+strand,~en stränder ,strand,strands,stranden,strandens,stränder,stränders,stränderna,strändernas,en,st,st,str,str,nd,en,and,den,0.16666666666666666,0.25,6,8
+skript,~et; pl. ~ ,skript (ett script),skripts (ett scripts),skriptet (scriptet),skriptets (scriptets),skript (script),skripts (scripts),skripten (scripten),skriptens (scriptens),ett,sk,sk,skr,skr,pt,et,ipt,tet,0.15789473684210525,0.21052631578947367,19,19
+omslag,~et; pl. ~ ,omslag,omslags,omslaget,omslagets,omslag,omslags,omslagen,omslagens,ett,om,om,oms,oms,ag,et,lag,get,0.3333333333333333,0.375,6,8
+tilta,~n tiltor ,tilta,tiltas,tiltan,tiltans,tiltor,tiltors,tiltorna,tiltornas,en,ti,ti,til,til,ta,an,lta,tan,0.4,0.3333333333333333,5,6
+sosse,~n sossar ,sosse,sosses,sossen,sossens,sossar,sossars,sossarna,sossarnas,en,so,so,sos,sos,se,en,sse,sen,0.4,0.3333333333333333,5,6
+förklar·ing,~en ~ar ,förklaring,förklarings,förklaringen,förklaringens,förklaringar,förklaringars,förklaringarna,förklaringarnas,en,fö,fö,för,för,ng,en,ing,gen,0.3,0.3333333333333333,10,12
+fe,~n ~er ,fe,fes,fen,fens,feer,feers,feerna,feernas,en,fe,fe,fe,fen,fe,en,fe,fen,0.5,0.3333333333333333,2,3
+rättvisa,~n ?visor ,rättvisa,rättvisas,rättvisan,rättvisans,rättvisor,rättvisors,rättvisorna,rättvisornas,en,rä,rä,rät,rät,sa,an,isa,san,0.375,0.3333333333333333,8,9
+samtid,~en ~er ,samtid,samtids,samtiden,samtidens,samtider,samtiders,samtiderna,samtidernas,en,sa,sa,sam,sam,id,en,tid,den,0.3333333333333333,0.375,6,8
+normal,~en ~er ,normal,normals,normalen,normalens,normaler,normalers,normalerna,normalernas,en,no,no,nor,nor,al,en,mal,len,0.3333333333333333,0.375,6,8
+kort,~et; pl. ~ ,kort,korts,kortet,kortets,kort,korts,korten,kortens,ett,ko,ko,kor,kor,rt,et,ort,tet,0.25,0.3333333333333333,4,6
+tjänst,~en ~er ,tjänst,tjänsts,tjänsten,tjänstens,tjänster,tjänsters,tjänsterna,tjänsternas,en,tj,tj,tjä,tjä,st,en,nst,ten,0.16666666666666666,0.25,6,8
+tamtam,~en ~er ,tamtam,tamtams,tamtamen,tamtamens,tamtamer,tamtamers,tamtamerna,tamtamernas,en,ta,ta,tam,tam,am,en,tam,men,0.3333333333333333,0.375,6,8
+tamtam,~et ,tamtam,tamtams,tamtamet,tamtamets,NOP,NOP,NOP,NOP,ett,ta,ta,tam,tam,am,et,tam,met,0.3333333333333333,0.375,6,8
+ortografi,~n ~er ,ortografi,ortografis,ortografin,ortografins,ortografier,ortografiers,ortografierna,ortografiernas,en,or,or,ort,ort,fi,in,afi,fin,0.4444444444444444,0.4,9,10
+boende,~t ~n ,boende,boendes,boendet,boendets,boenden,boendens,boendena,boendenas,ett,bo,bo,boe,boe,de,et,nde,det,0.5,0.42857142857142855,6,7
+rättstavningsprogram,~met; pl. ~,rättstavningsprogram,rättstavningsprograms,rättstavningsprogrammet,rättstavningsprogrammets,rättstavningsprogram,rättstavningsprograms,rättstavningsprogrammen,rättstavningsprogrammens,ett,rä,rä,rät,rät,am,et,ram,met,0.25,0.2608695652173913,20,23
+oväder,ovädret; pl. ~,oväder,oväders,ovädret,ovädrets,oväder,oväders,ovädren,ovädrens,ett,ov,ov,ovä,ovä,er,et,der,ret,0.5,0.42857142857142855,6,7
+elev,~en ~er ,elev,elevs,eleven,elevens,elever,elevers,eleverna,elevernas,en,el,el,ele,ele,ev,en,lev,ven,0.5,0.5,4,6
+ed,~en ~er ,ed,eds,eden,edens,eder,eders,ederna,edernas,en,ed,ed,ed,ede,ed,en,ed,den,0.5,0.5,2,4
+ed,~et; pl. ~ ,ed,eds,edet,edets,ed,eds,eden,edens,ett,ed,ed,ed,ede,ed,et,ed,det,0.5,0.5,2,4
+syfte,~t ~n ,syfte,syftes,syftet,syftets,syften,syftens,syftena,syftenas,ett,sy,sy,syf,syf,te,et,fte,tet,0.4,0.3333333333333333,5,6
+gemenskap,~en ~er ,gemenskap,gemenskaps,gemenskapen,gemenskapens,gemenskaper,gemenskapers,gemenskaperna,gemenskapernas,en,ge,ge,gem,gem,ap,en,kap,pen,0.3333333333333333,0.36363636363636365,9,11
+hindersprövning,~en ~ar ,hindersprövning,hindersprövnings,hindersprövningen,hindersprövningens,hindersprövningar,hindersprövningars,hindersprövningarna,hindersprövningarnas,en,hi,hi,hin,hin,ng,en,ing,gen,0.26666666666666666,0.29411764705882354,15,17
+ordbok,~en ?böcker ,ordbok,ordboks,ordboken,ordbokens,ordböcker,ordböckers,ordböckerna,ordböckernas,en,or,or,ord,ord,ok,en,bok,ken,0.3333333333333333,0.375,6,8
+substrat,~et; pl. ~ ,substrat,substrats,substratet,substratets,substrat,substrats,substraten,substratens,ett,su,su,sub,sub,at,et,rat,tet,0.25,0.3,8,10
+adjektiv,~et; pl. ~ ,adjektiv,adjektivs,adjektivet,adjektivets,adjektiv,adjektivs,adjektiven,adjektivens,ett,ad,ad,adj,adj,iv,et,tiv,vet,0.375,0.4,8,10
+etologi,~n ,etologi,etologis,etologin,etologins,NOP,NOP,NOP,NOP,en,et,et,eto,eto,gi,in,ogi,gin,0.5714285714285714,0.5,7,8
+boost,~en ~ar ,boost,boosts,boosten,boostens,boostar,boostars,boostarna,boostarnas,en,bo,bo,boo,boo,st,en,ost,ten,0.4,0.42857142857142855,5,7
+år,~et; pl. ~ ,år,års,året,årets,år,års,åren,årens,ett,år,år,år,åre,år,et,år,ret,0.5,0.5,2,4
+soffa,~n soffor ,soffa,soffas,soffan,soffans,soffor,soffors,sofforna,soffornas,en,so,so,sof,sof,fa,an,ffa,fan,0.4,0.3333333333333333,5,6
+predikstol,~en ~ar ,predikstol,predikstols,predikstolen,predikstolens,predikstolar,predikstolars,predikstolarna,predikstolarnas,en,pr,pr,pre,pre,ol,en,tol,len,0.3,0.3333333333333333,10,12
+ordlista,~n ?listor ,ordlista,ordlistas,ordlistan,ordlistans,ordlistor,ordlistors,ordlistorna,ordlistornas,en,or,or,ord,ord,ta,an,sta,tan,0.375,0.3333333333333333,8,9
+miss·ion,~en ~er ,mission,missions,missionen,missionens,missioner,missioners,missionerna,missionernas,en,mi,mi,mis,mis,on,en,ion,nen,0.42857142857142855,0.4444444444444444,7,9
+ordklass,~en ~er ,ordklass,ordklass,ordklassen,ordklassens,ordklasser,ordklassers,ordklasserna,ordklassernas,en,or,or,ord,ord,ss,en,ass,sen,0.25,0.3,8,10
+vedervilja,~n ,vedervilja,vederviljas,vederviljan,vederviljans,NOP,NOP,NOP,NOP,en,ve,ve,ved,ved,ja,an,lja,jan,0.4,0.36363636363636365,10,11
+kliv,~et; pl. ~ ,kliv,klivs,klivet,klivets,kliv,klivs,kliven,klivens,ett,kl,kl,kli,kli,iv,et,liv,vet,0.25,0.3333333333333333,4,6
+livsmedel,?medlet; pl. ~,livsmedel,livsmedels,livsmedlet,livsmedlets,livsmedel,livsmedels,livsmedlen,livsmedlens,ett,li,li,liv,liv,el,et,del,let,0.3333333333333333,0.3,9,10
+censor,~n ~er [?o´r?] ,censor,censors,censorn,censorns,censorer,censorers,censorerna,censorernas,en,ce,ce,cen,cen,or,rn,sor,orn,0.3333333333333333,0.2857142857142857,6,7
+primadonna,~n primadonnor ,primadonna,primadonnas,primadonnan,primadonnans,primadonnor,primadonnors,primadonnorna,primadonnornas,en,pr,pr,pri,pri,na,an,nna,nan,0.4,0.36363636363636365,10,11
+tum,~men; pl. ~,tum,tums,tummen,tummens,tum,tums,tummen,tummens,en,tu,tu,tum,tum,um,en,tum,men,0.3333333333333333,0.3333333333333333,3,6
+kost,~en ,kost,kosts,kosten,kostens,NOP,NOP,NOP,NOP,en,ko,ko,kos,kos,st,en,ost,ten,0.25,0.3333333333333333,4,6
+kollektiv,~et; pl. ~ ,kollektiv,kollektivs,kollektivet,kollektivets,kollektiv,kollektivs,kollektiven,kollektivens,ett,ko,ko,kol,kol,iv,et,tiv,vet,0.3333333333333333,0.36363636363636365,9,11
+kollektiv,~et ~er ,kollektiv,kollektivs,kollektivet,kollektivets,kollektiver,kollektivers,kollektiverna,kollektivernas,ett,ko,ko,kol,kol,iv,et,tiv,vet,0.3333333333333333,0.36363636363636365,9,11
+samsyn,~en ,samsyn,samsyns,samsynen,samsynens,NOP,NOP,NOP,NOP,en,sa,sa,sam,sam,yn,en,syn,nen,0.3333333333333333,0.375,6,8
+rubank,~en ~ar ,rubank,rubanks,rubanken,rubankens,rubankar,rubankars,rubankarna,rubankarnas,en,ru,ru,rub,rub,nk,en,ank,ken,0.3333333333333333,0.375,6,8
+verbböjning,~en ~ar ,verbböjning,verbböjnings,verbböjningen,verbböjningens,verbböjningar,verbböjningars,verbböjningarna,verbböjningarnas,en,ve,ve,ver,ver,ng,en,ing,gen,0.2727272727272727,0.3076923076923077,11,13
+basalt,~en ,basalt,basalts,basalten,basaltens,NOP,NOP,NOP,NOP,en,ba,ba,bas,bas,lt,en,alt,ten,0.3333333333333333,0.375,6,8
+semem,~et; pl. ~ ,semem,semems,sememet,sememets,semem,semems,sememen,sememens,ett,se,se,sem,sem,em,et,mem,met,0.4,0.42857142857142855,5,7
+subjunkt·ion,~en ~er ,subjunktion,subjunktions,subjunktionen,subjunktionens,subjunktioner,subjunktioners,subjunktionerna,subjunktionernas,en,su,su,sub,sub,on,en,ion,nen,0.36363636363636365,0.38461538461538464,11,13
+exempel,exemplet; pl. ~,exempel,exempels,exemplet,exemplets,exempel,exempels,exemplen,exemplens,ett,ex,ex,exe,exe,el,et,pel,let,0.42857142857142855,0.375,7,8
+post,~en ~er ,post,posts,posten,postens,poster,posters,posterna,posternas,en,po,po,pos,pos,st,en,ost,ten,0.25,0.3333333333333333,4,6
+tjäle,~n ,tjäle,tjäles,tjälen,tjälens,NOP,NOP,NOP,NOP,en,tj,tj,tjä,tjä,le,en,äle,len,0.4,0.3333333333333333,5,6
+obstrukt·ion,~en ~er ,obstruktion,obstruktions,obstruktionen,obstruktionens,obstruktioner,obstruktioners,obstruktionerna,obstruktionernas,en,ob,ob,obs,obs,on,en,ion,nen,0.36363636363636365,0.38461538461538464,11,13
+bor,~et ,bor,bors,boret,borets,NOP,NOP,NOP,NOP,ett,bo,bo,bor,bor,or,et,bor,ret,0.3333333333333333,0.4,3,5
+problem,~et; pl. ~ ,problem,problems,problemet,problemets,problem,problems,problemen,problemens,ett,pr,pr,pro,pro,em,et,lem,met,0.2857142857142857,0.3333333333333333,7,9
+sökande,~n; pl. ~,sökande,sökandes,sökanden,sökandens,sökande,sökandes,sökandena,sökandenas,en,sö,sö,sök,sök,de,en,nde,den,0.42857142857142855,0.375,7,8
+humankapital,~et; pl. ~ ,humankapital,humankapitals,humankapitalet,humankapitalets,humankapital,humankapitals,humankapitalen,humankapitalens,ett,hu,hu,hum,hum,al,et,tal,let,0.4166666666666667,0.42857142857142855,12,14
+snuva,~n snuvor ,snuva,snuvas,snuvan,snuvans,snuvor,snuvors,snuvorna,snuvornas,en,sn,sn,snu,snu,va,an,uva,van,0.4,0.3333333333333333,5,6
+tanke,~n tankar ,tanke,tankes,tanken,tankens,tankar,tankars,tankarna,tankarnas,en,ta,ta,tan,tan,ke,en,nke,ken,0.4,0.3333333333333333,5,6
+sejour,~en ~er ,sejour,sejours,sejouren,sejourens,sejourer,sejourers,sejourerna,sejourernas,en,se,se,sej,sej,ur,en,our,ren,0.5,0.5,6,8
+telefonnummer,?numret; pl. ~,telefonnummer,telefonnummers,telefonnumret,telefonnumrets,telefonnummer,telefonnummers,telefonnumren,telefonnumrens,ett,te,te,tel,tel,er,et,mer,ret,0.38461538461538464,0.38461538461538464,13,13
+anda,~n ,anda,andas,andan,andans,andanom,NOP,NOP,NOP,en,an,an,and,and,da,an,nda,dan,0.5,0.4,4,5
+sagatid,~en ,sagatid,sagatids,sagatiden,sagatidens,NOP,NOP,NOP,NOP,en,sa,sa,sag,sag,id,en,tid,den,0.42857142857142855,0.4444444444444444,7,9
+kondit·ion,~en ~er ,kondition,konditions,konditionen,konditionens,konditioner,konditioners,konditionerna,konditionernas,en,ko,ko,kon,kon,on,en,ion,nen,0.4444444444444444,0.45454545454545453,9,11
+boll,~en ~ar ,boll,bolls,bollen,bollens,bollar,bollars,bollarna,bollarnas,en,bo,bo,bol,bol,ll,en,oll,len,0.25,0.3333333333333333,4,6
+lista,~n listor ,lista,listas,listan,listans,listor,listors,listorna,listornas,en,li,li,lis,lis,ta,an,sta,tan,0.4,0.3333333333333333,5,6
+men·ing,~en ~ar ,mening,menings,meningen,meningens,meningar,meningars,meningarna,meningarnas,en,me,me,men,men,ng,en,ing,gen,0.3333333333333333,0.375,6,8
+koll,~en ,koll,kolls,kollen,kollens,NOP,NOP,NOP,NOP,en,ko,ko,kol,kol,ll,en,oll,len,0.25,0.3333333333333333,4,6
+task,~en ~ar ,task,tasks,tasken,taskens,taskar,taskars,taskarna,taskarnas,en,ta,ta,tas,tas,sk,en,ask,ken,0.25,0.3333333333333333,4,6
+självbestämmande,~t ,självbestämmande,självbestämmandes,självbestämmandet,självbestämmandets,NOP,NOP,NOP,NOP,ett,sj,sj,sjä,sjä,de,et,nde,det,0.3125,0.29411764705882354,16,17
+domän,~en ~er ,domän,domäns,domänen,domänens,domäner,domäners,domänerna,domänernas,en,do,do,dom,dom,än,en,män,nen,0.4,0.42857142857142855,5,7
+heder,~n ,heder,heders,hedern,hederns,NOP,NOP,NOP,NOP,en,he,he,hed,hed,er,rn,der,ern,0.4,0.3333333333333333,5,6
+guldgruva,~n ?gruvor ,guldgruva,guldgruvas,guldgruvan,guldgruvans,guldgruvor,guldgruvors,guldgruvorna,guldgruvornas,en,gu,gu,gul,gul,va,an,uva,van,0.3333333333333333,0.3,9,10
+samtal,~et; pl. ~ ,samtal,samtals,samtalet,samtalets,samtal,samtals,samtalen,samtalens,ett,sa,sa,sam,sam,al,et,tal,let,0.3333333333333333,0.375,6,8
+sök,~et; pl. ~ ,sök,söks,söket,sökets,sök,söks,söken,sökens,ett,sö,sö,sök,sök,ök,et,sök,ket,0.3333333333333333,0.4,3,5
+idioti,~n ~er ,idioti,idiotis,idiotin,idiotins,idiotier,idiotiers,idiotierna,idiotiernas,en,id,id,idi,idi,ti,in,oti,tin,0.6666666666666666,0.5714285714285714,6,7
+piedestal,~en ~er ,piedestal,piedestals,piedestalen,piedestalens,piedestaler,piedestalers,piedestalerna,piedestalernas,en,pi,pi,pie,pie,al,en,tal,len,0.4444444444444444,0.45454545454545453,9,11
+plural,~en ~er ,plural,plurals,pluralen,pluralens,pluraler,pluralers,pluralerna,pluralernas,en,pl,pl,plu,plu,al,en,ral,len,0.3333333333333333,0.375,6,8
+suicid,~et; pl. ~ ,suicid,suicids,suicidet,suicidets,suicid,suicids,suiciden,suicidens,ett,su,su,sui,sui,id,et,cid,det,0.5,0.5,6,8
+strävan,best. ~; i pl. används strävanden ,strävan,strävans,strävan,strävans,strävanden,strävandens,strävandena,strävandenas,en,st,st,str,str,an,an,van,van,0.2857142857142857,0.2857142857142857,7,7
+svarande,~n; pl. ~,svarande,svarandes,svaranden,svarandens,svarande,svarandes,svarandena,svarandenas,en,sv,sv,sva,sva,de,en,nde,den,0.375,0.3333333333333333,8,9
+jour,~en ~er ,jour,jours,jouren,jourens,jourer,jourers,jourerna,jourernas,en,jo,jo,jou,jou,ur,en,our,ren,0.5,0.5,4,6
+musik,~en ,musik,musiks,musiken,musikens,NOP,NOP,NOP,NOP,en,mu,mu,mus,mus,ik,en,sik,ken,0.4,0.42857142857142855,5,7
+stöd,~et; pl. ~ ,stöd,stöds,stödet,stödets,stöd,stöds,stöden,stödens,ett,st,st,stö,stö,öd,et,töd,det,0.25,0.3333333333333333,4,6
+donator,~n ~er [?o´r?] ,donator,donators,donatorn,donatorns,donatorer,donatorers,donatorerna,donatorernas,en,do,do,don,don,or,rn,tor,orn,0.42857142857142855,0.375,7,8
+sladdertacka,~n ?tackor ,sladdertacka,sladdertackas,sladdertackan,sladdertackans,sladdertackor,sladdertackors,sladdertackorna,sladdertackornas,en,sl,sl,sla,sla,ka,an,cka,kan,0.3333333333333333,0.3076923076923077,12,13
+grupp,~en ~er ,grupp,grupps,gruppen,gruppens,grupper,gruppers,grupperna,gruppernas,en,gr,gr,gru,gru,pp,en,upp,pen,0.2,0.2857142857142857,5,7
+dag,~en el. vard. dan; pl. ~ar el. vard. dar ,dag,dags,dagen (dan),dagens (dans),dagar (dar),dagars (dars),dagarna,dagarnas,en,da,da,dag,dag,ag,an,dag,dan,0.3333333333333333,0.2727272727272727,3,11
+trauma,~t ~n ,trauma,traumas,traumat,traumats,trauman,traumans,traumana,traumanas,ett,tr,tr,tra,tra,ma,at,uma,mat,0.5,0.42857142857142855,6,7
+skälla,~n skällor ,skälla,skällas,skällan,skällans,skällor,skällors,skällorna,skällornas,en,sk,sk,skä,skä,la,an,lla,lan,0.3333333333333333,0.2857142857142857,6,7
+förklar·ing,~en ~ar ,förklaring,förklarings,förklaringen,förklaringens,förklaringar,förklaringars,förklaringarna,förklaringarnas,en,fö,fö,för,för,ng,en,ing,gen,0.3,0.3333333333333333,10,12
+konkret,~et ~er ,konkret,konkrets,konkretet,konkretets,konkreter,konkreters,konkreterna,konkreternas,ett,ko,ko,kon,kon,et,et,ret,tet,0.2857142857142857,0.3333333333333333,7,9
+möjlighet,~en ~er ,möjlighet,möjlighets,möjligheten,möjlighetens,möjligheter,möjligheters,möjligheterna,möjligheternas,en,mö,mö,möj,möj,et,en,het,ten,0.3333333333333333,0.36363636363636365,9,11
+barn,~et; pl. ~ ,barn,barns,barnet,barnets,barn,barns,barnen,barnens,ett,ba,ba,bar,bar,rn,et,arn,net,0.25,0.3333333333333333,4,6
+evaluer·ing,~en ~ar ,evaluering,evaluerings,evalueringen,evalueringens,evalueringar,evalueringars,evalueringarna,evalueringarnas,en,ev,ev,eva,eva,ng,en,ing,gen,0.5,0.5,10,12
+material,~et; pl. ~ ,material,materials,materialet,materialets,material,materials,materialen,materialens,ett,ma,ma,mat,mat,al,et,ial,let,0.5,0.5,8,10
+fras,~en ~er ,fras,fras,frasen,frasens,fraser,frasers,fraserna,frasernas,en,fr,fr,fra,fra,as,en,ras,sen,0.25,0.3333333333333333,4,6
+fras,~et ,fras,fras,fraset,frasets,NOP,NOP,NOP,NOP,ett,fr,fr,fra,fra,as,et,ras,set,0.25,0.3333333333333333,4,6
+överförmynderi,~et ,överförmynderi,överförmynderis,överförmynderiet,överförmynderiets,NOP,NOP,NOP,NOP,ett,öv,öv,öve,öve,ri,et,eri,iet,0.42857142857142855,0.4375,14,16
+schampo,~t ~n ,schampo,schampos,schampot,schampots,schampon,schampons,schampona,schamponas,ett,sc,sc,sch,sch,po,ot,mpo,pot,0.2857142857142857,0.25,7,8
+solidaritet,~en ~er ,solidaritet,solidaritets,solidariteten,solidaritetens,solidariteter,solidariteters,solidariteterna,solidariteternas,en,so,so,sol,sol,et,en,tet,ten,0.45454545454545453,0.46153846153846156,11,13
+städ,~et; pl. ~ ,städ,städs,städet,städets,städ,städs,städen,städens,ett,st,st,stä,stä,äd,et,täd,det,0.25,0.3333333333333333,4,6
+borg,~en ~ar ,borg,borgs,borgen,borgens,borgar,borgars,borgarna,borgarnas,en,bo,bo,bor,bor,rg,en,org,gen,0.25,0.3333333333333333,4,6
+synonym,~en ~er ,synonym,synonyms,synonymen,synonymens,synonymer,synonymers,synonymerna,synonymernas,en,sy,sy,syn,syn,ym,en,nym,men,0.42857142857142855,0.4444444444444444,7,9
+empiri,~n ,empiri,empiris,empirin,empirins,NOP,NOP,NOP,NOP,en,em,em,emp,emp,ri,in,iri,rin,0.5,0.42857142857142855,6,7
+folk,~et; pl. ~ ,folk,folks,folket,folkets,folk,folks,folken,folkens,ett,fo,fo,fol,fol,lk,et,olk,ket,0.25,0.3333333333333333,4,6
+avatar,~en ~er ,avatar,avatars,avataren,avatarens,avatarer,avatarers,avatarerna,avatarernas,en,av,av,ava,ava,ar,en,tar,ren,0.5,0.5,6,8
+kärna,~n kärnor ,kärna,kärnas,kärnan,kärnans,kärnor,kärnors,kärnorna,kärnornas,en,kä,kä,kär,kär,na,an,rna,nan,0.4,0.3333333333333333,5,6
+bastu,~n ~r ,bastu,bastus,bastun,bastuns,bastur,basturs,basturna,basturnas,en,ba,ba,bas,bas,tu,un,stu,tun,0.4,0.3333333333333333,5,6
+tro,~n ,tro,tros,tron,trons,NOP,NOP,NOP,NOP,en,tr,tr,tro,tro,ro,on,tro,ron,0.3333333333333333,0.25,3,4
+lokat·ion,~en ~er ,lokation,lokations,lokationen,lokationens,lokationer,lokationers,lokationerna,lokationernas,en,lo,lo,lok,lok,on,en,ion,nen,0.5,0.5,8,10
+miljö,~n ~er ,miljö,miljös,miljön,miljöns,miljöer,miljöers,miljöerna,miljöernas,en,mi,mi,mil,mil,jö,ön,ljö,jön,0.4,0.3333333333333333,5,6
+park,~en ~er ,park,parks,parken,parkens,parker,parkers,parkerna,parkernas,en,pa,pa,par,par,rk,en,ark,ken,0.25,0.3333333333333333,4,6
+situat·ion,~en ~er ,situation,situations,situationen,situationens,situationer,situationers,situationerna,situationernas,en,si,si,sit,sit,on,en,ion,nen,0.5555555555555556,0.5454545454545454,9,11
+konkret,~et ~er ,konkret,konkrets,konkretet,konkretets,konkreter,konkreters,konkreterna,konkreternas,ett,ko,ko,kon,kon,et,et,ret,tet,0.2857142857142857,0.3333333333333333,7,9
+påse,~n påsar ,påse,påses,påsen,påsens,påsar,påsars,påsarna,påsarnas,en,på,på,pås,pås,se,en,åse,sen,0.5,0.4,4,5
+slentrian,~en ,slentrian,slentrians,slentrianen,slentrianens,NOP,NOP,NOP,NOP,en,sl,sl,sle,sle,an,en,ian,nen,0.3333333333333333,0.36363636363636365,9,11
+värdegrund,~en ~er ,värdegrund,värdegrunds,värdegrunden,värdegrundens,värdegrunder,värdegrunders,värdegrunderna,värdegrundernas,en,vä,vä,vär,vär,nd,en,und,den,0.3,0.3333333333333333,10,12
+svenska,~n svenskor ,svenska,svenskas,svenskan,svenskans,svenskor,svenskors,svenskorna,svenskornas,en,sv,sv,sve,sve,ka,an,ska,kan,0.2857142857142857,0.25,7,8
+budget,~en ~ar ,budget,budgets,budgeten,budgetens,budgetar,budgetars,budgetarna,budgetarnas,en,bu,bu,bud,bud,et,en,get,ten,0.3333333333333333,0.375,6,8
+omfattning,~en ~ar ,omfattning,omfattnings,omfattningen,omfattningens,omfattningar,omfattningars,omfattningarna,omfattningarnas,en,om,om,omf,omf,ng,en,ing,gen,0.3,0.3333333333333333,10,12
+resurs,~en ~er ,resurs,resurs,resursen,resursens,resurser,resursers,resurserna,resursernas,en,re,re,res,res,rs,en,urs,sen,0.3333333333333333,0.375,6,8
+land,~et länder ,land,lands,landet,landets,länder,länders,länderna,ländernas,ett,la,la,lan,lan,nd,et,and,det,0.25,0.3333333333333333,4,6
+land,~et; pl. ~ ,land,lands,landet,landets,land,lands,landen,landens,ett,la,la,lan,lan,nd,et,and,det,0.25,0.3333333333333333,4,6
+land,~et ,land,lands,landet,landets,NOP,NOP,NOP,NOP,ett,la,la,lan,lan,nd,et,and,det,0.25,0.3333333333333333,4,6
+fördrag,~et; pl. ~ ,fördrag,fördrags,fördraget,fördragets,fördrag,fördrags,fördragen,fördragens,ett,fö,fö,för,för,ag,et,rag,get,0.2857142857142857,0.3333333333333333,7,9
+buffert,~en ~ar ,buffert,bufferts,bufferten,buffertens,buffertar,buffertars,buffertarna,buffertarnas,en,bu,bu,buf,buf,rt,en,ert,ten,0.2857142857142857,0.3333333333333333,7,9
+grannlåt,~en ,grannlåt,grannlåts,grannlåten,grannlåtens,NOP,NOP,NOP,NOP,en,gr,gr,gra,gra,åt,en,låt,ten,0.25,0.3,8,10
+distribut·ion,~en ~er ,distribution,distributions,distributionen,distributionens,distributioner,distributioners,distributionerna,distributionernas,en,di,di,dis,dis,on,en,ion,nen,0.4166666666666667,0.42857142857142855,12,14
+sälle,~n sällar ,sälle,sälles,sällen,sällens,sällar,sällars,sällarna,sällarnas,en,sä,sä,säl,säl,le,en,lle,len,0.4,0.3333333333333333,5,6
+dispens,~en ~er ,dispens,dispens,dispensen,dispensens,dispenser,dispensers,dispenserna,dispensernas,en,di,di,dis,dis,ns,en,ens,sen,0.2857142857142857,0.3333333333333333,7,9
+väska,~n väskor ,väska,väskas,väskan,väskans,väskor,väskors,väskorna,väskornas,en,vä,vä,väs,väs,ka,an,ska,kan,0.4,0.3333333333333333,5,6
+saga,~n sagor ,saga,sagas,sagan,sagans,sagor,sagors,sagorna,sagornas,en,sa,sa,sag,sag,ga,an,aga,gan,0.5,0.4,4,5
+ordbok,~en ?böcker ,ordbok,ordboks,ordboken,ordbokens,ordböcker,ordböckers,ordböckerna,ordböckernas,en,or,or,ord,ord,ok,en,bok,ken,0.3333333333333333,0.375,6,8
+prosa,~n prosor ,prosa,prosas,prosan,prosans,prosor,prosors,prosorna,prosornas,en,pr,pr,pro,pro,sa,an,osa,san,0.4,0.3333333333333333,5,6
+milo,~t ~n ,milo,milos,milot,milots,milon,milons,milona,milonas,ett,mi,mi,mil,mil,lo,ot,ilo,lot,0.5,0.4,4,5
+hälsa,~n ,hälsa,hälsas,hälsan,hälsans,NOP,NOP,NOP,NOP,en,hä,hä,häl,häl,sa,an,lsa,san,0.4,0.3333333333333333,5,6
+princip,~en ~er ,princip,princips,principen,principens,principer,principers,principerna,principernas,en,pr,pr,pri,pri,ip,en,cip,pen,0.2857142857142857,0.3333333333333333,7,9
+motsatsord,~et; pl. ~ ,motsatsord,motsatsords,motsatsordet,motsatsordets,motsatsord,motsatsords,motsatsorden,motsatsordens,ett,mo,mo,mot,mot,rd,et,ord,det,0.3,0.3333333333333333,10,12
+agg,~et ,agg,aggs,agget,aggets,NOP,NOP,NOP,NOP,ett,ag,ag,agg,agg,gg,et,agg,get,0.3333333333333333,0.4,3,5
+klient,~en ~er ,klient,klients,klienten,klientens,klienter,klienters,klienterna,klienternas,en,kl,kl,kli,kli,nt,en,ent,ten,0.3333333333333333,0.375,6,8
+kultur,~en ~er ,kultur,kulturs,kulturen,kulturens,kulturer,kulturers,kulturerna,kulturernas,en,ku,ku,kul,kul,ur,en,tur,ren,0.3333333333333333,0.375,6,8
+problem,~et; pl. ~ ,problem,problems,problemet,problemets,problem,problems,problemen,problemens,ett,pr,pr,pro,pro,em,et,lem,met,0.2857142857142857,0.3333333333333333,7,9
+slog,~en ~ar ,slog,slogs,slogen,slogens,slogar,slogars,slogarna,slogarnas,en,sl,sl,slo,slo,og,en,log,gen,0.25,0.3333333333333333,4,6
+process,~en ~er ,process,process,processen,processens,processer,processers,processerna,processernas,en,pr,pr,pro,pro,ss,en,ess,sen,0.2857142857142857,0.3333333333333333,7,9
+chef,~en ~er ,chef,chefs,chefen,chefens,chefer,chefers,cheferna,chefernas,en,ch,ch,che,che,ef,en,hef,fen,0.25,0.3333333333333333,4,6
+parcell,~en ~er ,parcell,parcells,parcellen,parcellens,parceller,parcellers,parcellerna,parcellernas,en,pa,pa,par,par,ll,en,ell,len,0.2857142857142857,0.3333333333333333,7,9
+silver,silvret; pl. ~,silver,silvers,silvret,silvrets,silver,silvers,silvren,silvrens,ett,si,si,sil,sil,er,et,ver,ret,0.3333333333333333,0.2857142857142857,6,7
+ämne,~t ~n ,ämne,ämnes,ämnet,ämnets,ämnen,ämnens,ämnena,ämnenas,ett,äm,äm,ämn,ämn,ne,et,mne,net,0.5,0.4,4,5
+slump,~en ~ar ,slump,slumps,slumpen,slumpens,slumpar,slumpars,slumparna,slumparnas,en,sl,sl,slu,slu,mp,en,ump,pen,0.2,0.2857142857142857,5,7
+sensor,~n ~er [?o´r?] ,sensor,sensors,sensorn,sensorns,sensorer,sensorers,sensorerna,sensorernas,en,se,se,sen,sen,or,rn,sor,orn,0.3333333333333333,0.2857142857142857,6,7
+kemikalie,~n ~r ,kemikalie,kemikalies,kemikalien,kemikaliens,kemikalier,kemikaliers,kemikalierna,kemikaliernas,en,ke,ke,kem,kem,ie,en,lie,ien,0.5555555555555556,0.5,9,10
+sinter,~n ,sinter,sinters,sintern,sinterns,NOP,NOP,NOP,NOP,en,si,si,sin,sin,er,rn,ter,ern,0.3333333333333333,0.2857142857142857,6,7
+remis,~en ~er ,remis,remis,remisen,remisens,remiser,remisers,remiserna,remisernas,en,re,re,rem,rem,is,en,mis,sen,0.4,0.42857142857142855,5,7
+verbform,~en ~er ,verbform,verbforms,verbformen,verbformens,verbformer,verbformers,verbformerna,verbformernas,en,ve,ve,ver,ver,rm,en,orm,men,0.25,0.3,8,10
+leve,~t ~n ,leve,leves,levet,levets,leven,levens,levena,levenas,ett,le,le,lev,lev,ve,et,eve,vet,0.5,0.4,4,5
+vis·ion,~en ~er ,vision,visions,visionen,visionens,visioner,visioners,visionerna,visionernas,en,vi,vi,vis,vis,on,en,ion,nen,0.5,0.5,6,8
+autentiser·ing,~en ,autentisering,autentiserings,autentiseringen,autentiseringens,NOP,NOP,NOP,NOP,en,au,au,aut,aut,ng,en,ing,gen,0.46153846153846156,0.4666666666666667,13,15
+törn,~en ~ar ,törn,törns,törnen,törnens,törnar,törnars,törnarna,törnarnas,en,tö,tö,tör,tör,rn,en,örn,nen,0.25,0.3333333333333333,4,6
+man,~nen; pl. män,man,mans,mannen,mannens,män,mäns,männen,männens,en,ma,ma,man,man,an,en,man,nen,0.3333333333333333,0.3333333333333333,3,6
+man,~nen; pl. ~ el. ~nar ,man,mans,mannen,mannens,man (mannar),mans (mannars),mannarna,mannarnas,en,ma,ma,man,man,an,en,man,nen,0.3333333333333333,0.3333333333333333,3,6
+låt,~en ~ar ,låt,låts,låten,låtens,låtar,låtars,låtarna,låtarnas,en,lå,lå,låt,låt,åt,en,låt,ten,0.3333333333333333,0.4,3,5
+policy,~n ~er ,policy,policys,policyn,policyns,policyer,policyers,policyerna,policyernas,en,po,po,pol,pol,cy,yn,icy,cyn,0.5,0.42857142857142855,6,7
+leende,~t ~n ,leende,leendes,leendet,leendets,leenden,leendens,leendena,leendenas,ett,le,le,lee,lee,de,et,nde,det,0.5,0.42857142857142855,6,7
+alternativ,~et; pl. ~ ,alternativ,alternativs,alternativet,alternativets,alternativ,alternativs,alternativen,alternativens,ett,al,al,alt,alt,iv,et,tiv,vet,0.4,0.4166666666666667,10,12
+kurs,~en ~er ,kurs,kurs,kursen,kursens,kurser,kursers,kurserna,kursernas,en,ku,ku,kur,kur,rs,en,urs,sen,0.25,0.3333333333333333,4,6
+modd,~en ,modd,modds,modden,moddens,NOP,NOP,NOP,NOP,en,mo,mo,mod,mod,dd,en,odd,den,0.25,0.3333333333333333,4,6
+påståendesats,~en ~er ,påståendesats,påståendesats,påståendesatsen,påståendesatsens,påståendesatser,påståendesatsers,påståendesatserna,påståendesatsernas,en,på,på,pås,pås,ts,en,ats,sen,0.38461538461538464,0.4,13,15
+jämställdhet,~en ,jämställdhet,jämställdhets,jämställdheten,jämställdhetens,NOP,NOP,NOP,NOP,en,jä,jä,jäm,jäm,et,en,het,ten,0.25,0.2857142857142857,12,14
+såt,~en ~ar ,såt,såts,såten,såtens,såtar,såtars,såtarna,såtarnas,en,så,så,såt,såt,åt,en,såt,ten,0.3333333333333333,0.4,3,5
+stad,~en el. vard. stan; pl. städer ,stad,stads,staden (stan),stadens (stans),städer,städers,städerna,städernas,en,st,st,sta,sta,ad,an,tad,tan,0.25,0.23076923076923078,4,13
+stad,~en ~er ,stad,stads,staden,stadens,stader,staders,staderna,stadernas,en,st,st,sta,sta,ad,en,tad,den,0.25,0.3333333333333333,4,6
+cour,~en ~er ,cour,cours,couren,courens,courer,courers,courerna,courernas,en,co,co,cou,cou,ur,en,our,ren,0.5,0.5,4,6
+öl,~et el. ~en; pl. ~ ibl. ~er ,öl (en öl),öls (en öls),ölet (ölen),ölets (ölens),öl (öler),öls (ölers),ölen (ölerna),ölens (ölernas),ett,öl,öl,öl ,öle,öl,en, öl,len,0.3,0.36363636363636365,10,11
+ur,~en ~ar ,ur,urs,uret,urets,ur,urs,uren,urens,ett,ur,ur,ur,ure,ur,et,ur,ret,0.5,0.5,2,4
+dissident,~en ~er ,dissident,dissidents,dissidenten,dissidentens,dissidenter,dissidenters,dissidenterna,dissidenternas,en,di,di,dis,dis,nt,en,ent,ten,0.3333333333333333,0.36363636363636365,9,11
+äska,~n äskor ,äska,äskas,äskan,äskans,äskor,äskors,äskorna,äskornas,en,äs,äs,äsk,äsk,ka,an,ska,kan,0.5,0.4,4,5
+x,x:et; pl. x,x,x:s,x:et,x:ets,x,x:s,x:en,x:ens,ett,x,x:,x,x:e,x,et,x,:et,0.0,0.25,1,4
+medlidande,~t ,medlidande,medlidandes,medlidandet,medlidandets,NOP,NOP,NOP,NOP,ett,me,me,med,med,de,et,nde,det,0.4,0.36363636363636365,10,11
+lön,~en ~er ,lön,löns,lönen,lönens,löner,löners,lönerna,lönernas,en,lö,lö,lön,lön,ön,en,lön,nen,0.3333333333333333,0.4,3,5
+barn,~et; pl. ~ ,barn,barns,barnet,barnets,barn,barns,barnen,barnens,ett,ba,ba,bar,bar,rn,et,arn,net,0.25,0.3333333333333333,4,6
+dokument,~et; pl. ~ ,dokument,dokuments,dokumentet,dokumentets,dokument,dokuments,dokumenten,dokumentens,ett,do,do,dok,dok,nt,et,ent,tet,0.375,0.4,8,10
+mod,~et ,mod,mods,modet,modets,NOP,NOP,NOP,NOP,ett,mo,mo,mod,mod,od,et,mod,det,0.3333333333333333,0.4,3,5
+offerer·ing,~en ,offerering,offererings,offereringen,offereringens,NOP,NOP,NOP,NOP,en,of,of,off,off,ng,en,ing,gen,0.4,0.4166666666666667,10,12
+stavning,~en ~ar ,stavning,stavnings,stavningen,stavningens,stavningar,stavningars,stavningarna,stavningarnas,en,st,st,sta,sta,ng,en,ing,gen,0.25,0.3,8,10
+bräsma,~n bräsmor ,bräsma,bräsmas,bräsman,bräsmans,bräsmor,bräsmors,bräsmorna,bräsmornas,en,br,br,brä,brä,ma,an,sma,man,0.3333333333333333,0.2857142857142857,6,7
+bias,~en ~er ,bias,bias,biasen,biasens,biaser,biasers,biaserna,biasernas,en,bi,bi,bia,bia,as,en,ias,sen,0.5,0.5,4,6
+mål,~et; pl. ~ ,mål,måls,målet,målets,mål,måls,målen,målens,ett,må,må,mål,mål,ål,et,mål,let,0.3333333333333333,0.4,3,5
+utfall,~et; pl. ~ ,utfall,utfalls,utfallet,utfallets,utfall,utfalls,utfallen,utfallens,ett,ut,ut,utf,utf,ll,et,all,let,0.3333333333333333,0.375,6,8
+mantra,~t ~n ,mantra,mantras,mantrat,mantrats,mantran,mantrans,mantrana,mantranas,ett,ma,ma,man,man,ra,at,tra,rat,0.3333333333333333,0.2857142857142857,6,7
+autonomi,~n ~er ,autonomi,autonomis,autonomin,autonomins,autonomier,autonomiers,autonomierna,autonomiernas,en,au,au,aut,aut,mi,in,omi,min,0.625,0.5555555555555556,8,9
+nat·ionsbyggande,~t ,nationsbyggande,nationsbyggandes,nationsbyggandet,nationsbyggandets,NOP,NOP,NOP,NOP,ett,na,na,nat,nat,de,et,nde,det,0.4,0.375,15,16
+sammanhang,~et; pl. ~ ,sammanhang,sammanhangs,sammanhanget,sammanhangets,sammanhang,sammanhangs,sammanhangen,sammanhangens,ett,sa,sa,sam,sam,ng,et,ang,get,0.3,0.3333333333333333,10,12
+skeende,~t ~n ,skeende,skeendes,skeendet,skeendets,skeenden,skeendens,skeendena,skeendenas,ett,sk,sk,ske,ske,de,et,nde,det,0.42857142857142855,0.375,7,8
+tand,~en tänder ,tand,tands,tanden,tandens,tänder,tänders,tänderna,tändernas,en,ta,ta,tan,tan,nd,en,and,den,0.25,0.3333333333333333,4,6
+video,~n ~r ,video,videos,videon,videons,videor,videors,videorna,videornas,en,vi,vi,vid,vid,eo,on,deo,eon,0.6,0.5,5,6
+feminism,~en ~er ,feminism,feminisms,feminismen,feminismens,feminismer,feminismers,feminismerna,feminismernas,en,fe,fe,fem,fem,sm,en,ism,men,0.375,0.4,8,10
+restitut·ion,~en ~er ,restitution,restitutions,restitutionen,restitutionens,restitutioner,restitutioners,restitutionerna,restitutionernas,en,re,re,res,res,on,en,ion,nen,0.45454545454545453,0.46153846153846156,11,13
+kanton,~en ~er ,kanton,kantons,kantonen,kantonens,kantoner,kantoners,kantonerna,kantonernas,en,ka,ka,kan,kan,on,en,ton,nen,0.3333333333333333,0.375,6,8
+rimning,~en ,rimning,rimnings,rimningen,rimningens,NOP,NOP,NOP,NOP,en,ri,ri,rim,rim,ng,en,ing,gen,0.2857142857142857,0.3333333333333333,7,9
+bekräftelse,~n ~r ,bekräftelse,bekräftelses,bekräftelsen,bekräftelsens,bekräftelser,bekräftelsers,bekräftelserna,bekräftelsernas,en,be,be,bek,bek,se,en,lse,sen,0.36363636363636365,0.3333333333333333,11,12
+sångbok,~en ?böcker ,sångbok,sångboks,sångboken,sångbokens,sångböcker,sångböckers,sångböckerna,sångböckernas,en,så,så,sån,sån,ok,en,bok,ken,0.2857142857142857,0.3333333333333333,7,9
+oligopol,~et; pl. ~ ,oligopol,oligopols,oligopolet,oligopolets,oligopol,oligopols,oligopolen,oligopolens,ett,ol,ol,oli,oli,ol,et,pol,let,0.5,0.5,8,10
+paroll,~en ~er ,paroll,parolls,parollen,parollens,paroller,parollers,parollerna,parollernas,en,pa,pa,par,par,ll,en,oll,len,0.3333333333333333,0.375,6,8
+svenskkunskap,~en ~er ,svenskkunskap,svenskkunskaps,svenskkunskapen,svenskkunskapens,svenskkunskaper,svenskkunskapers,svenskkunskaperna,svenskkunskapernas,en,sv,sv,sve,sve,ap,en,kap,pen,0.23076923076923078,0.26666666666666666,13,15
+fönster,fönstret; pl. ~,fönster,fönsters,fönstret,fönstrets,fönster,fönsters,fönstren,fönstrens,ett,fö,fö,fön,fön,er,et,ter,ret,0.2857142857142857,0.25,7,8
+verktyg,~et; pl. ~ ,verktyg,verktygs,verktyget,verktygets,verktyg,verktygs,verktygen,verktygens,ett,ve,ve,ver,ver,yg,et,tyg,get,0.2857142857142857,0.3333333333333333,7,9
+blaj,~et ,blaj,blajs,blajet,blajets,NOP,NOP,NOP,NOP,ett,bl,bl,bla,bla,aj,et,laj,jet,0.25,0.3333333333333333,4,6
+definit·ion,~en ~er ,definition,definitions,definitionen,definitionens,definitioner,definitioners,definitionerna,definitionernas,en,de,de,def,def,on,en,ion,nen,0.5,0.5,10,12
+community,~n; pl. communities ,community,communitys,communityn,communityns,communities,communities,NOP,NOP,en,co,co,com,com,ty,yn,ity,tyn,0.4444444444444444,0.4,9,10
+mjukning,~en ,mjukning,mjuknings,mjukningen,mjukningens,NOP,NOP,NOP,NOP,en,mj,mj,mju,mju,ng,en,ing,gen,0.25,0.3,8,10
+mjukn·ing,~en ,mjukning,mjuknings,mjukningen,mjukningens,NOP,NOP,NOP,NOP,en,mj,mj,mju,mju,ng,en,ing,gen,0.25,0.3,8,10
+mulatt,~en ~er ,mulatt,mulatts,mulatten,mulattens,mulatter,mulatters,mulatterna,mulatternas,en,mu,mu,mul,mul,tt,en,att,ten,0.3333333333333333,0.375,6,8
+censur,~en ,censur,censurs,censuren,censurens,NOP,NOP,NOP,NOP,en,ce,ce,cen,cen,ur,en,sur,ren,0.3333333333333333,0.375,6,8
+stat,~en ~er ,stat,stats,staten,statens,stater,staters,staterna,staternas,en,st,st,sta,sta,at,en,tat,ten,0.25,0.3333333333333333,4,6
+l,l:et; pl. l,l,l:s,l:et,l:ets,l,l:s,l:en,l:ens,ett,l,l:,l,l:e,l,et,l,:et,0.0,0.25,1,4
+skäl,~et; pl. ~ ,skäl,skäls,skälet,skälets,skäl,skäls,skälen,skälens,ett,sk,sk,skä,skä,äl,et,käl,let,0.25,0.3333333333333333,4,6
+aktör,~en ~er ,aktör,aktörs,aktören,aktörens,aktörer,aktörers,aktörerna,aktörernas,en,ak,ak,akt,akt,ör,en,tör,ren,0.4,0.42857142857142855,5,7
+paprika,~n paprikor ,paprika,paprikas,paprikan,paprikans,paprikor,paprikors,paprikorna,paprikornas,en,pa,pa,pap,pap,ka,an,ika,kan,0.42857142857142855,0.375,7,8
+omstart,~en ~er ,omstart,omstarts,omstarten,omstartens,omstarter,omstarters,omstarterna,omstarternas,en,om,om,oms,oms,rt,en,art,ten,0.2857142857142857,0.3333333333333333,7,9
+syntax,~en ~er ,syntax,syntax,syntaxen,syntaxens,syntaxer,syntaxers,syntaxerna,syntaxernas,en,sy,sy,syn,syn,ax,en,tax,xen,0.3333333333333333,0.375,6,8
+betryck,~et ,betryck,betrycks,betrycket,betryckets,NOP,NOP,NOP,NOP,ett,be,be,bet,bet,ck,et,yck,ket,0.2857142857142857,0.3333333333333333,7,9
+sarg,~en; pl. ~er hellre än ~ar ,sarg,sargs,sargen,sargens,sarger (sargar),sargers (sargars),sargerna (sargarna),sargernas (sargarnas),en,sa,sa,sar,sar,rg,en,arg,gen,0.25,0.3333333333333333,4,6
+skolt,~en ~er ,skolt,skolts,skolten,skoltens,skolter,skolters,skolterna,skolternas,en,sk,sk,sko,sko,lt,en,olt,ten,0.2,0.2857142857142857,5,7
+original,~et; pl. ~ ,original,originals,originalet,originalets,original,originals,originalen,originalens,ett,or,or,ori,ori,al,et,nal,let,0.5,0.5,8,10
+nomenklatur,~en ~er ,nomenklatur,nomenklaturs,nomenklaturen,nomenklaturens,nomenklaturer,nomenklaturers,nomenklaturerna,nomenklaturernas,en,no,no,nom,nom,ur,en,tur,ren,0.36363636363636365,0.38461538461538464,11,13
+soffa,~n soffor ,soffa,soffas,soffan,soffans,soffor,soffors,sofforna,soffornas,en,so,so,sof,sof,fa,an,ffa,fan,0.4,0.3333333333333333,5,6
+nedkomst,~en ~er ,nedkomst,nedkomsts,nedkomsten,nedkomstens,nedkomster,nedkomsters,nedkomsterna,nedkomsternas,en,ne,ne,ned,ned,st,en,mst,ten,0.25,0.3,8,10
+byfåne,~n ?fånar ,byfåne,byfånes,byfånen,byfånens,byfånar,byfånars,byfånarna,byfånarnas,en,by,by,byf,byf,ne,en,åne,nen,0.5,0.42857142857142855,6,7
+kort,~et; pl. ~ ,kort,korts,kortet,kortets,kort,korts,korten,kortens,ett,ko,ko,kor,kor,rt,et,ort,tet,0.25,0.3333333333333333,4,6
+skriftspråk,~et; pl. ~ ,skriftspråk,skriftspråks,skriftspråket,skriftspråkets,skriftspråk,skriftspråks,skriftspråken,skriftspråkens,ett,sk,sk,skr,skr,åk,et,råk,ket,0.18181818181818182,0.23076923076923078,11,13
+prolog,~en ~er ,prolog,prologs,prologen,prologens,prologer,prologers,prologerna,prologernas,en,pr,pr,pro,pro,og,en,log,gen,0.3333333333333333,0.375,6,8
+abstrakt,~et ~er ,abstrakt,abstrakts,abstraktet,abstraktets,abstrakter,abstrakters,abstrakterna,abstrakternas,ett,ab,ab,abs,abs,kt,et,akt,tet,0.25,0.3,8,10
+abstrakt,~en ~er ,abstrakt,abstrakts,abstrakten,abstraktens,abstrakter,abstrakters,abstrakterna,abstrakternas,en,ab,ab,abs,abs,kt,en,akt,ten,0.25,0.3,8,10
+abstrakt,~et el. ~en; pl. ~ el. ~er ,abstrakt (en abstrakt),abstrakts (en abstrakts),abstraktet (abstrakten),abstraktets (abstraktens),abstrakt (abstrakter),abstrakts (abstrakters),abstrakten (abstrakterna),abstraktens (abstrakternas),ett,ab,ab,abs,abs,kt,en,akt,ten,0.22727272727272727,0.2608695652173913,22,23
+korsord,~et; pl. ~ ,korsord,korsords,korsordet,korsordets,korsord,korsords,korsorden,korsordens,ett,ko,ko,kor,kor,rd,et,ord,det,0.2857142857142857,0.3333333333333333,7,9
+pedagogik,~en ~er ,pedagogik,pedagogiks,pedagogiken,pedagogikens,pedagogiker,pedagogikers,pedagogikerna,pedagogikernas,en,pe,pe,ped,ped,ik,en,gik,ken,0.4444444444444444,0.45454545454545453,9,11
+symtom,~et; pl. ~ ,symtom (ett symptom),symtoms (ett symptoms),symtomet (symptomet),symtomets (symptomets),symtom (symptom),symtoms (symptoms),symtomen (symptomen),symtomens (symptomens),ett,sy,sy,sym,sym,om,et,tom,met,0.25,0.3,20,20
+ledning,~en ~ar ,ledning,lednings,ledningen,ledningens,ledningar,ledningars,ledningarna,ledningarnas,en,le,le,led,led,ng,en,ing,gen,0.2857142857142857,0.3333333333333333,7,9
+institut·ion,~en ~er ,institution,institutions,institutionen,institutionens,institutioner,institutioners,institutionerna,institutionernas,en,in,in,ins,ins,on,en,ion,nen,0.45454545454545453,0.46153846153846156,11,13
+jubilar,~en ~er ,jubilar,jubilars,jubilaren,jubilarens,jubilarer,jubilarers,jubilarerna,jubilarernas,en,ju,ju,jub,jub,ar,en,lar,ren,0.42857142857142855,0.4444444444444444,7,9
+samhälle,~t ~n ,samhälle,samhälles,samhället,samhällets,samhällen,samhällens,samhällena,samhällenas,ett,sa,sa,sam,sam,le,et,lle,let,0.375,0.3333333333333333,8,9
+vanföreställning,~en ~ar ,vanföreställning,vanföreställnings,vanföreställningen,vanföreställningens,vanföreställningar,vanföreställningars,vanföreställningarna,vanföreställningarnas,en,va,va,van,van,ng,en,ing,gen,0.3125,0.3333333333333333,16,18
+frågeställning,~en ~ar ,frågeställning,frågeställnings,frågeställningen,frågeställningens,frågeställningar,frågeställningars,frågeställningarna,frågeställningarnas,en,fr,fr,frå,frå,ng,en,ing,gen,0.2857142857142857,0.3125,14,16
+samhälle,~t ~n ,samhälle,samhälles,samhället,samhällets,samhällen,samhällens,samhällena,samhällenas,ett,sa,sa,sam,sam,le,et,lle,let,0.375,0.3333333333333333,8,9
+kontakt,~en ~er ,kontakt,kontakts,kontakten,kontaktens,kontakter,kontakters,kontakterna,kontakternas,en,ko,ko,kon,kon,kt,en,akt,ten,0.2857142857142857,0.3333333333333333,7,9
+förskollärare,~n; pl. ~,förskollärare,förskollärares,förskolläraren,förskollärarens,förskollärare,förskollärares,förskollärarna,förskollärarnas,en,fö,fö,för,för,re,en,are,ren,0.38461538461538464,0.35714285714285715,13,14
+förnuft,~et ,förnuft,förnufts,förnuftet,förnuftets,NOP,NOP,NOP,NOP,ett,fö,fö,för,för,ft,et,uft,tet,0.2857142857142857,0.3333333333333333,7,9
+kam,~men ~mar ,kam,kams,kammen,kammens,kammar,kammars,kammarna,kammarnas,en,ka,ka,kam,kam,am,en,kam,men,0.3333333333333333,0.3333333333333333,3,6
+resvirke,~t ,resvirke,resvirkes,resvirket,resvirkets,NOP,NOP,NOP,NOP,ett,re,re,res,res,ke,et,rke,ket,0.375,0.3333333333333333,8,9
+lov,~en ~ar ,lov,lovs,loven,lovens,lovar,lovars,lovarna,lovarnas,en,lo,lo,lov,lov,ov,en,lov,ven,0.3333333333333333,0.4,3,5
+lov,~et ,lov,lovs,lovet,lovets,lov,lovs,loven,lovens,ett,lo,lo,lov,lov,ov,et,lov,vet,0.3333333333333333,0.4,3,5
+huvudbry,~et ,huvudbry,huvudbrys,huvudbryet,huvudbryets,NOP,NOP,NOP,NOP,ett,hu,hu,huv,huv,ry,et,bry,yet,0.375,0.4,8,10
+särart,~en ~er ,särart,särarts,särarten,särartens,särarter,särarters,särarterna,särarternas,en,sä,sä,sär,sär,rt,en,art,ten,0.3333333333333333,0.375,6,8
+köp,~et; pl. ~ ,köp,köps,köpet,köpets,köp,köps,köpen,köpens,ett,kö,kö,köp,köp,öp,et,köp,pet,0.3333333333333333,0.4,3,5
+uraktlåtenhet,~en ,uraktlåtenhet,uraktlåtenhets,uraktlåtenheten,uraktlåtenhetens,NOP,NOP,NOP,NOP,en,ur,ur,ura,ura,et,en,het,ten,0.38461538461538464,0.4,13,15
+moral,~en ~er ,moral,morals,moralen,moralens,moraler,moralers,moralerna,moralernas,en,mo,mo,mor,mor,al,en,ral,len,0.4,0.42857142857142855,5,7
+sjö,~n ~ar ,sjö,sjös,sjön,sjöns,sjöar,sjöars,sjöarna,sjöarnas,en,sj,sj,sjö,sjö,jö,ön,sjö,jön,0.3333333333333333,0.25,3,4
+skäl,~et; pl. ~ ,skäl,skäls,skälet,skälets,skäl,skäls,skälen,skälens,ett,sk,sk,skä,skä,äl,et,käl,let,0.25,0.3333333333333333,4,6
+anförande,~t ~n ,anförande,anförandes,anförandet,anförandets,anföranden,anförandens,anförandena,anförandenas,ett,an,an,anf,anf,de,et,nde,det,0.4444444444444444,0.4,9,10
+particip,~et; pl. ~ ,particip,particips,participet,participets,particip,particips,participen,participens,ett,pa,pa,par,par,ip,et,cip,pet,0.375,0.4,8,10
+nästa,~n ,nästa,nästas,nästan,nästans,NOP,NOP,NOP,NOP,en,nä,nä,näs,näs,ta,an,sta,tan,0.4,0.3333333333333333,5,6
+neger,~n negrer ,neger,negers,negern,negerns,negrer,negrers,negrerna,negrernas,en,ne,ne,neg,neg,er,rn,ger,ern,0.4,0.3333333333333333,5,6
+bok,~en böcker ,bok,boks,boken,bokens,böcker,böckers,böckerna,böckernas,en,bo,bo,bok,bok,ok,en,bok,ken,0.3333333333333333,0.4,3,5
+bok,~en ~ar ,bok,boks,boken,bokens,bokar,bokars,bokarna,bokarnas,en,bo,bo,bok,bok,ok,en,bok,ken,0.3333333333333333,0.4,3,5
+gaj,~en ~ar ,gaj,gajs,gajen,gajens,gajar,gajars,gajarna,gajarnas,en,ga,ga,gaj,gaj,aj,en,gaj,jen,0.3333333333333333,0.4,3,5
+framtid,~en ~er ,framtid,framtids,framtiden,framtidens,framtider,framtiders,framtiderna,framtidernas,en,fr,fr,fra,fra,id,en,tid,den,0.2857142857142857,0.3333333333333333,7,9
+lingvist,~en ~er ,lingvist,lingvists,lingvisten,lingvistens,lingvister,lingvisters,lingvisterna,lingvisternas,en,li,li,lin,lin,st,en,ist,ten,0.25,0.3,8,10
+bro,~n ~ar ,bro,bros,bron,brons,broar,broars,broarna,broarnas,en,br,br,bro,bro,ro,on,bro,ron,0.3333333333333333,0.25,3,4
+hjälpverb,~et; pl. ~ ,hjälpverb,hjälpverbs,hjälpverbet,hjälpverbets,hjälpverb,hjälpverbs,hjälpverben,hjälpverbens,ett,hj,hj,hjä,hjä,rb,et,erb,bet,0.2222222222222222,0.2727272727272727,9,11
+stämma,~n stämmor ,stämma,stämmas,stämman,stämmans,stämmor,stämmors,stämmorna,stämmornas,en,st,st,stä,stä,ma,an,mma,man,0.3333333333333333,0.2857142857142857,6,7
+lidelse,~n ~r ,lidelse,lidelses,lidelsen,lidelsens,lidelser,lidelsers,lidelserna,lidelsernas,en,li,li,lid,lid,se,en,lse,sen,0.42857142857142855,0.375,7,8
+diagnos,~en ~er ,diagnos,diagnos,diagnosen,diagnosens,diagnoser,diagnosers,diagnoserna,diagnosernas,en,di,di,dia,dia,os,en,nos,sen,0.42857142857142855,0.4444444444444444,7,9
+terapi,~n ~er ,terapi,terapis,terapin,terapins,terapier,terapiers,terapierna,terapiernas,en,te,te,ter,ter,pi,in,api,pin,0.5,0.42857142857142855,6,7
+sång,~en ~er ,sång,sångs,sången,sångens,sånger,sångers,sångerna,sångernas,en,så,så,sån,sån,ng,en,ång,gen,0.25,0.3333333333333333,4,6
+team,~et; pl. ~ ,team,teams,teamet,teamets,team,teams,teamen,teamens,ett,te,te,tea,tea,am,et,eam,met,0.5,0.5,4,6
+administrat·ion,~en ~er ,administration,administrations,administrationen,administrationens,administrationer,administrationers,administrationerna,administrationernas,en,ad,ad,adm,adm,on,en,ion,nen,0.42857142857142855,0.4375,14,16
+intressent,~en ~er ,intressent,intressents,intressenten,intressentens,intressenter,intressenters,intressenterna,intressenternas,en,in,in,int,int,nt,en,ent,ten,0.3,0.3333333333333333,10,12
+räknedosa,~n ?dosor ,räknedosa,räknedosas,räknedosan,räknedosans,räknedosor,räknedosors,räknedosorna,räknedosornas,en,rä,rä,räk,räk,sa,an,osa,san,0.4444444444444444,0.4,9,10
+tafs,~en ~ar ,tafs,tafs,tafsen,tafsens,tafsar,tafsars,tafsarna,tafsarnas,en,ta,ta,taf,taf,fs,en,afs,sen,0.25,0.3333333333333333,4,6
+förtrytelse,~n ,förtrytelse,förtrytelses,förtrytelsen,förtrytelsens,NOP,NOP,NOP,NOP,en,fö,fö,för,för,se,en,lse,sen,0.36363636363636365,0.3333333333333333,11,12
+mamma,~n mammor ,mamma,mammas,mamman,mammans,mammor,mammors,mammorna,mammornas,en,ma,ma,mam,mam,ma,an,mma,man,0.4,0.3333333333333333,5,6
+besked,~et; pl. ~ ,besked,beskeds,beskedet,beskedets,besked,beskeds,beskeden,beskedens,ett,be,be,bes,bes,ed,et,ked,det,0.3333333333333333,0.375,6,8
+mus,~en möss ,mus,mus,musen,musens,möss,möss,mössen,mössens,en,mu,mu,mus,mus,us,en,mus,sen,0.3333333333333333,0.4,3,5
+kollis·ion,~en ~er ,kollision,kollisions,kollisionen,kollisionens,kollisioner,kollisioners,kollisionerna,kollisionernas,en,ko,ko,kol,kol,on,en,ion,nen,0.4444444444444444,0.45454545454545453,9,11
+medarbetare,~n; pl. ~,medarbetare,medarbetares,medarbetaren,medarbetarens,medarbetare,medarbetares,medarbetarna,medarbetarnas,en,me,me,med,med,re,en,are,ren,0.45454545454545453,0.4166666666666667,11,12
+vakuum,~et; pl. ~ ,vakuum,vakuums,vakuumet,vakuumets,vakuum,vakuums,vakuumen,vakuumens,ett,va,va,vak,vak,um,et,uum,met,0.5,0.5,6,8
+lekt·ion,~en ~er ,lektion,lektions,lektionen,lektionens,lektioner,lektioners,lektionerna,lektionernas,en,le,le,lek,lek,on,en,ion,nen,0.42857142857142855,0.4444444444444444,7,9
+fenomen,~et; pl. ~ ,fenomen,fenomens,fenomenet,fenomenets,fenomen,fenomens,fenomenen,fenomenens,ett,fe,fe,fen,fen,en,et,men,net,0.42857142857142855,0.4444444444444444,7,9
+snö,~n [snön´] ,snö,snös,snön,snöns,NOP,NOP,NOP,NOP,en,sn,sn,snö,snö,nö,ön,snö,nön,0.3333333333333333,0.25,3,4
+box,~en ~ar ,box,box,boxen,boxens,boxar,boxars,boxarna,boxarnas,en,bo,bo,box,box,ox,en,box,xen,0.3333333333333333,0.4,3,5
+ord,~et; pl. ~ ,ord,ords,ordet,ordets,ord,ords,orden,ordens,ett,or,or,ord,ord,rd,et,ord,det,0.3333333333333333,0.4,3,5
+mutta,~n muttor ,mutta,muttas,muttan,muttans,muttor,muttors,muttorna,muttornas,en,mu,mu,mut,mut,ta,an,tta,tan,0.4,0.3333333333333333,5,6
+stol,~en ~ar ,stol,stols,stolen,stolens,stolar,stolars,stolarna,stolarnas,en,st,st,sto,sto,ol,en,tol,len,0.25,0.3333333333333333,4,6
+skäll,~et ,skäll,skälls,skället,skällets,NOP,NOP,NOP,NOP,ett,sk,sk,skä,skä,ll,et,äll,let,0.2,0.2857142857142857,5,7
+manuskript,~et; pl. ~ ,manuskript,manuskripts,manuskriptet,manuskriptets,manuskript,manuskripts,manuskripten,manuskriptens,ett,ma,ma,man,man,pt,et,ipt,tet,0.3,0.3333333333333333,10,12
+grund,~en ~er ,grund,grunds,grunden,grundens,grunder,grunders,grunderna,grundernas,en,gr,gr,gru,gru,nd,en,und,den,0.2,0.2857142857142857,5,7
+grund,~et; pl. ~ ,grund,grunds,grundet,grundets,grund,grunds,grunden,grundens,ett,gr,gr,gru,gru,nd,et,und,det,0.2,0.2857142857142857,5,7
+språkregel,~n ?regler ,språkregel,språkregels,språkregeln,språkregelns,språkregler,språkreglers,språkreglerna,språkreglernas,en,sp,sp,spr,spr,el,ln,gel,eln,0.3,0.2727272727272727,10,11
+mejl,~et; pl. ~ ,mejl,mejls,mejlet,mejlets,mejl,mejls,mejlen,mejlens,ett,me,me,mej,mej,jl,et,ejl,let,0.25,0.3333333333333333,4,6
+mejl,~en ,mejl,mejls,mejlen,mejlens,NOP,NOP,NOP,NOP,en,me,me,mej,mej,jl,en,ejl,len,0.25,0.3333333333333333,4,6
+schema,~t ~n ,schema,schemas,schemat,schemats,scheman,schemans,schemana,schemanas,ett,sc,sc,sch,sch,ma,at,ema,mat,0.3333333333333333,0.2857142857142857,6,7
+särdrag,~et; pl. ~ ,särdrag,särdrags,särdraget,särdragets,särdrag,särdrags,särdragen,särdragens,ett,sä,sä,sär,sär,ag,et,rag,get,0.2857142857142857,0.3333333333333333,7,9
+symbol,~en ~er ,symbol,symbols,symbolen,symbolens,symboler,symbolers,symbolerna,symbolernas,en,sy,sy,sym,sym,ol,en,bol,len,0.3333333333333333,0.375,6,8
+fokus,~et hellre än ~en ,fokus (en fokus),fokus (en fokus),fokuset (fokusen),fokusets (fokusens),NOP,NOP,NOP,NOP,ett,fo,fo,fok,fok,us,en,kus,sen,0.3125,0.35294117647058826,16,17
+levnadsvana,~n ?vanor ,levnadsvana,levnadsvanas,levnadsvanan,levnadsvanans,levnadsvanor,levnadsvanors,levnadsvanorna,levnadsvanornas,en,le,le,lev,lev,na,an,ana,nan,0.36363636363636365,0.3333333333333333,11,12
+handledning,~en ~ar ,handledning,handlednings,handledningen,handledningens,handledningar,handledningars,handledningarna,handledningarnas,en,ha,ha,han,han,ng,en,ing,gen,0.2727272727272727,0.3076923076923077,11,13
+synonym,~en ~er ,synonym,synonyms,synonymen,synonymens,synonymer,synonymers,synonymerna,synonymernas,en,sy,sy,syn,syn,ym,en,nym,men,0.42857142857142855,0.4444444444444444,7,9
+äska,~n äskor ,äska,äskas,äskan,äskans,äskor,äskors,äskorna,äskornas,en,äs,äs,äsk,äsk,ka,an,ska,kan,0.5,0.4,4,5
+täcke,~t ~n ,täcke,täckes,täcket,täckets,täcken,täckens,täckena,täckenas,ett,tä,tä,täc,täc,ke,et,cke,ket,0.4,0.3333333333333333,5,6
+siffra,~n siffror ,siffra,siffras,siffran,siffrans,siffror,siffrors,siffrorna,siffrornas,en,si,si,sif,sif,ra,an,fra,ran,0.3333333333333333,0.2857142857142857,6,7
+sabotage,~t [?et]; pl. ~ ,sabotage,sabotages,sabotaget,sabotagets,sabotage,sabotages,sabotagen,sabotagens,ett,sa,sa,sab,sab,ge,et,age,get,0.5,0.4444444444444444,8,9
+accessoar,~en ~er ,accessoar,accessoars,accessoaren,accessoarens,accessoarer,accessoarers,accessoarerna,accessoarernas,en,ac,ac,acc,acc,ar,en,oar,ren,0.4444444444444444,0.45454545454545453,9,11
+släkt,~en ~er ,släkt,släkts,släkten,släktens,släkter,släkters,släkterna,släkternas,en,sl,sl,slä,slä,kt,en,äkt,ten,0.2,0.2857142857142857,5,7
+uppräkn·ing,~en ~ar ,uppräkning,uppräknings,uppräkningen,uppräkningens,uppräkningar,uppräkningars,uppräkningarna,uppräkningarnas,en,up,up,upp,upp,ng,en,ing,gen,0.3,0.3333333333333333,10,12
+visare,~n; pl. ~,visare,visares,visaren,visarens,visare,visares,visarna,visarnas,en,vi,vi,vis,vis,re,en,are,ren,0.5,0.42857142857142855,6,7
+utläggning,~en ~ar ,utläggning,utläggnings,utläggningen,utläggningens,utläggningar,utläggningars,utläggningarna,utläggningarnas,en,ut,ut,utl,utl,ng,en,ing,gen,0.3,0.3333333333333333,10,12
+kaus,~en ~er ,kaus,kaus,kausen,kausens,kauser,kausers,kauserna,kausernas,en,ka,ka,kau,kau,us,en,aus,sen,0.5,0.5,4,6
+personnummer,?numret; pl. ~,personnummer,personnummers,personnumret,personnumrets,personnummer,personnummers,personnumren,personnumrens,ett,pe,pe,per,per,er,et,mer,ret,0.3333333333333333,0.3333333333333333,12,12
+lapp,~en ~ar ,lapp,lapps,lappen,lappens,lappar,lappars,lapparna,lapparnas,en,la,la,lap,lap,pp,en,app,pen,0.25,0.3333333333333333,4,6
+packe,~n packar ,packe,packes,packen,packens,packar,packars,packarna,packarnas,en,pa,pa,pac,pac,ke,en,cke,ken,0.4,0.3333333333333333,5,6
+kasusböjning,~en ~ar ,kasusböjning,kasusböjnings,kasusböjningen,kasusböjningens,kasusböjningar,kasusböjningars,kasusböjningarna,kasusböjningarnas,en,ka,ka,kas,kas,ng,en,ing,gen,0.3333333333333333,0.35714285714285715,12,14
+gemen,~en ~er ,gemen,gemens,gemenen,gemenens,gemener,gemeners,gemenerna,gemenernas,en,ge,ge,gem,gem,en,en,men,nen,0.4,0.42857142857142855,5,7
+ösa,~n ösor ,ösa,ösas,ösan,ösans,ösor,ösors,ösorna,ösornas,en,ös,ös,ösa,ösa,sa,an,ösa,san,0.6666666666666666,0.5,3,4
+sms,sms:et; pl. ~ ,sms,sms,sms:et,sms:ets,sms,sms,sms:en,sms:ens,ett,sm,sm,sms,sms,ms,et,sms,:et,0.0,0.16666666666666666,3,6
+fastighet,~en ~er ,fastighet,fastighets,fastigheten,fastighetens,fastigheter,fastigheters,fastigheterna,fastigheternas,en,fa,fa,fas,fas,et,en,het,ten,0.3333333333333333,0.36363636363636365,9,11
+ordform,~en ~er ,ordform,ordforms,ordformen,ordformens,ordformer,ordformers,ordformerna,ordformernas,en,or,or,ord,ord,rm,en,orm,men,0.2857142857142857,0.3333333333333333,7,9
+foto,~t ~n ,foto,fotos,fotot,fotots,foton,fotons,fotona,fotonas,ett,fo,fo,fot,fot,to,ot,oto,tot,0.5,0.4,4,5
+referenspunkt,~en ~er ,referenspunkt,referenspunkts,referenspunkten,referenspunktens,referenspunkter,referenspunkters,referenspunkterna,referenspunkternas,en,re,re,ref,ref,kt,en,nkt,ten,0.3076923076923077,0.3333333333333333,13,15
+presentat·ion,~en ~er ,presentation,presentations,presentationen,presentationens,presentationer,presentationers,presentationerna,presentationernas,en,pr,pr,pre,pre,on,en,ion,nen,0.4166666666666667,0.42857142857142855,12,14
+morfologi,~n ,morfologi,morfologis,morfologin,morfologins,NOP,NOP,NOP,NOP,en,mo,mo,mor,mor,gi,in,ogi,gin,0.4444444444444444,0.4,9,10
+kommun,~en ~er ,kommun,kommuns,kommunen,kommunens,kommuner,kommuners,kommunerna,kommunernas,en,ko,ko,kom,kom,un,en,mun,nen,0.3333333333333333,0.375,6,8
+ar,~et el. ~en; pl. ~ ,ar (en ar),ars (en ars),aret (aren),arets (arens),ar,ars,aren,arens,ett,ar,ar,ar ,are,ar,en, ar,ren,0.3,0.36363636363636365,10,11
+slice,~n [?en]; pl. slicar ,slice,slices,slicen,slicens,slicar,slicars,slicarna,slicarnas,en,sl,sl,sli,sli,ce,en,ice,cen,0.4,0.3333333333333333,5,6
+yl,~et; pl. ~ ,yl,yls,ylet,ylets,yl,yls,ylen,ylens,ett,yl,yl,yl,yle,yl,et,yl,let,0.5,0.5,2,4
+ansökan,best. ~; i pl. används ansökningar ,ansökan,ansökans,ansökan,ansökans,ansökningar,ansökningars,ansökningarna,ansökningarnas,en,an,an,ans,ans,an,an,kan,kan,0.42857142857142855,0.42857142857142855,7,7
+instrument,~et; pl. ~ ,instrument,instruments,instrumentet,instrumentets,instrument,instruments,instrumenten,instrumentens,ett,in,in,ins,ins,nt,et,ent,tet,0.3,0.3333333333333333,10,12
+stödord,~et; pl. ~ ,stödord,stödords,stödordet,stödordets,stödord,stödords,stödorden,stödordens,ett,st,st,stö,stö,rd,et,ord,det,0.2857142857142857,0.3333333333333333,7,9
+krav,~et; pl. ~ ,krav,kravs,kravet,kravets,krav,kravs,kraven,kravens,ett,kr,kr,kra,kra,av,et,rav,vet,0.25,0.3333333333333333,4,6
+real,~en ~er ,real,reals,realen,realens,realer,realers,realerna,realernas,en,re,re,rea,rea,al,en,eal,len,0.5,0.5,4,6
+nummer,numret; pl. ~,nummer,nummers,numret,numrets,nummer,nummers,numren,numrens,ett,nu,nu,num,num,er,et,mer,ret,0.3333333333333333,0.3333333333333333,6,6
+traggel,tragglet ,traggel,traggels,tragglet,tragglets,NOP,NOP,NOP,NOP,ett,tr,tr,tra,tra,el,et,gel,let,0.2857142857142857,0.25,7,8
+moster,~n mostrar ,moster,mosters,mostern,mosterns,mostrar,mostrars,mostrarna,mostrarnas,en,mo,mo,mos,mos,er,rn,ter,ern,0.3333333333333333,0.2857142857142857,6,7
+utdrag,~et; pl. ~ ,utdrag,utdrags,utdraget,utdragets,utdrag,utdrags,utdragen,utdragens,ett,ut,ut,utd,utd,ag,et,rag,get,0.3333333333333333,0.375,6,8
+skolgrammatik,~en ~er ,skolgrammatik,skolgrammatiks,skolgrammatiken,skolgrammatikens,skolgrammatiker,skolgrammatikers,skolgrammatikerna,skolgrammatikernas,en,sk,sk,sko,sko,ik,en,tik,ken,0.3076923076923077,0.3333333333333333,13,15
+funkt·ionär,~en ~er ,funktionär,funktionärs,funktionären,funktionärens,funktionärer,funktionärers,funktionärerna,funktionärernas,en,fu,fu,fun,fun,är,en,när,ren,0.4,0.4166666666666667,10,12
+uttryck,~et; pl. ~ ,uttryck,uttrycks,uttrycket,uttryckets,uttryck,uttrycks,uttrycken,uttryckens,ett,ut,ut,utt,utt,ck,et,yck,ket,0.2857142857142857,0.3333333333333333,7,9
+område,~t ~n ,område,områdes,området,områdets,områden,områdens,områdena,områdenas,ett,om,om,omr,omr,de,et,åde,det,0.5,0.42857142857142855,6,7
+själ,~en ~ar ,själ,själs,själen,själens,själar,själars,själarna,själarnas,en,sj,sj,sjä,sjä,äl,en,jäl,len,0.25,0.3333333333333333,4,6
+frihet,~en ~er ,frihet,frihets,friheten,frihetens,friheter,friheters,friheterna,friheternas,en,fr,fr,fri,fri,et,en,het,ten,0.3333333333333333,0.375,6,8
+so,~n; i pl. används suggor ,so,sos,son,sons,NOP,NOP,NOP,NOP,en,so,so,so,son,so,on,so,son,0.5,0.3333333333333333,2,3
+språk,~et; pl. ~ ,språk,språks,språket,språkets,språk,språks,språken,språkens,ett,sp,sp,spr,spr,åk,et,råk,ket,0.2,0.2857142857142857,5,7
+musiker,~n; pl. ~ ,musiker,musikers,musikern,musikerns,musiker,musikers,musikerna,musikernas,en,mu,mu,mus,mus,er,rn,ker,ern,0.42857142857142855,0.375,7,8
+plattityd,~en ~er ,plattityd,plattityds,plattityden,plattitydens,plattityder,plattityders,plattityderna,plattitydernas,en,pl,pl,pla,pla,yd,en,tyd,den,0.3333333333333333,0.36363636363636365,9,11
+färg,~en ~er ,färg,färgs,färgen,färgens,färger,färgers,färgerna,färgernas,en,fä,fä,fär,fär,rg,en,ärg,gen,0.25,0.3333333333333333,4,6
+bergochdalbana,~n ?banor ,bergochdalbana (en berg-och-dalbana),bergochdalbanas (en berg-och-dalbanas),bergochdalbanan (berg-och-dalbanan),bergochdalbanans (berg-och-dalbanans),bergochdalbanor (berg-och-dalbanor),bergochdalbanors (berg-och-dalbanors),bergochdalbanorna (berg-och-dalbanorna),bergochdalbanornas (berg-och-dalbanornas),en,be,be,ber,ber,na,an,ana,nan,0.3055555555555556,0.2857142857142857,36,35
+lexikon,~et; pl. ~  ,lexikon,lexikons,lexikonet,lexikonets,lexikon,lexikons,lexikonen,lexikonens,ett,le,le,lex,lex,on,et,kon,net,0.42857142857142855,0.4444444444444444,7,9
+resiliens,~en ,resiliens,resiliens,resiliensen,resiliensens,NOP,NOP,NOP,NOP,en,re,re,res,res,ns,en,ens,sen,0.4444444444444444,0.45454545454545453,9,11
+grammatikregel,~n ?regler ,grammatikregel,grammatikregels,grammatikregeln,grammatikregelns,grammatikregler,grammatikreglers,grammatikreglerna,grammatikreglernas,en,gr,gr,gra,gra,el,ln,gel,eln,0.35714285714285715,0.3333333333333333,14,15
+ona,~n onor ,ona,onas,onan,onans,onor,onors,onorna,onornas,en,on,on,ona,ona,na,an,ona,nan,0.6666666666666666,0.5,3,4
+podcast,~en; pl. ~er hellre än ~s ,podcast,podcasts,podcasten,podcastens,podcaster (podcasts),podcasters (podcasts),podcasterna,podcasternas,en,po,po,pod,pod,st,en,ast,ten,0.2857142857142857,0.3333333333333333,7,9
+hantverk,~et; pl. ~ ,hantverk,hantverks,hantverket,hantverkets,hantverk,hantverks,hantverken,hantverkens,ett,ha,ha,han,han,rk,et,erk,ket,0.25,0.3,8,10
+order,~n; pl. ~ el. ordrar ,order,orders,ordern,orderns,order (ordrar),orders (ordrars),orderna (ordrarna),ordernas (ordrarnas),en,or,or,ord,ord,er,rn,der,ern,0.4,0.3333333333333333,5,6
+demarkat·ionslinje,~n ~r ,demarkationslinje,demarkationslinjes,demarkationslinjen,demarkationslinjens,demarkationslinjer,demarkationslinjers,demarkationslinjerna,demarkationslinjernas,en,de,de,dem,dem,je,en,nje,jen,0.4117647058823529,0.3888888888888889,17,18
+rättighet,~en ~er ,rättighet,rättighets,rättigheten,rättighetens,rättigheter,rättigheters,rättigheterna,rättigheternas,en,rä,rä,rät,rät,et,en,het,ten,0.3333333333333333,0.36363636363636365,9,11
+mål,~et; pl. ~ ,mål,måls,målet,målets,mål,måls,målen,målens,ett,må,må,mål,mål,ål,et,mål,let,0.3333333333333333,0.4,3,5
+symtom,~et; pl. ~ ,symtom (ett symptom),symtoms (ett symptoms),symtomet (symptomet),symtomets (symptomets),symtom (symptom),symtoms (symptoms),symtomen (symptomen),symtomens (symptomens),ett,sy,sy,sym,sym,om,et,tom,met,0.25,0.3,20,20
+bön,~en ~er ,bön,böns,bönen,bönens,böner,böners,bönerna,bönernas,en,bö,bö,bön,bön,ön,en,bön,nen,0.3333333333333333,0.4,3,5
+uppdrag,~et; pl. ~ ,uppdrag,uppdrags,uppdraget,uppdragets,uppdrag,uppdrags,uppdragen,uppdragens,ett,up,up,upp,upp,ag,et,rag,get,0.2857142857142857,0.3333333333333333,7,9
+stöd,~et; pl. ~ ,stöd,stöds,stödet,stödets,stöd,stöds,stöden,stödens,ett,st,st,stö,stö,öd,et,töd,det,0.25,0.3333333333333333,4,6
+klammer,~n klamrar ,klammer,klammers,klammern,klammerns,klamrar,klamrars,klamrarna,klamrarnas,en,kl,kl,kla,kla,er,rn,mer,ern,0.2857142857142857,0.25,7,8
+sorg,~en ~er ,sorg,sorgs,sorgen,sorgens,sorger,sorgers,sorgerna,sorgernas,en,so,so,sor,sor,rg,en,org,gen,0.25,0.3333333333333333,4,6
+materiel,~en ,materiel,materiels,materielen,materielens,NOP,NOP,NOP,NOP,en,ma,ma,mat,mat,el,en,iel,len,0.5,0.5,8,10
+arbete,~t ~n ,arbete,arbetes,arbetet,arbetets,arbeten,arbetens,arbetena,arbetenas,ett,ar,ar,arb,arb,te,et,ete,tet,0.5,0.42857142857142855,6,7
+standard,~en ~er ,standard,standards,standarden,standardens,standarder,standarders,standarderna,standardernas,en,st,st,sta,sta,rd,en,ard,den,0.25,0.3,8,10
+höst,~en ~ar ,höst,hösts,hösten,höstens,höstar,höstars,höstarna,höstarnas,en,hö,hö,hös,hös,st,en,öst,ten,0.25,0.3333333333333333,4,6
+student,~en ~er ,student,students,studenten,studentens,studenter,studenters,studenterna,studenternas,en,st,st,stu,stu,nt,en,ent,ten,0.2857142857142857,0.3333333333333333,7,9
+strategi,~n ~er ,strategi,strategis,strategin,strategins,strategier,strategiers,strategierna,strategiernas,en,st,st,str,str,gi,in,egi,gin,0.375,0.3333333333333333,8,9
+band,~et; pl. ~ ,band,bands,bandet,bandets,band,bands,banden,bandens,ett,ba,ba,ban,ban,nd,et,and,det,0.25,0.3333333333333333,4,6
+respons,~en ~er ,respons,respons,responsen,responsens,responser,responsers,responserna,responsernas,en,re,re,res,res,ns,en,ons,sen,0.2857142857142857,0.3333333333333333,7,9
+grammatik,~en ~er ,grammatik,grammatiks,grammatiken,grammatikens,grammatiker,grammatikers,grammatikerna,grammatikernas,en,gr,gr,gra,gra,ik,en,tik,ken,0.3333333333333333,0.36363636363636365,9,11
+konjunktiv,~en ~er ,konjunktiv,konjunktivs,konjunktiven,konjunktivens,konjunktiver,konjunktivers,konjunktiverna,konjunktivernas,en,ko,ko,kon,kon,iv,en,tiv,ven,0.3,0.3333333333333333,10,12
+kränkning,~en ~ar ,kränkning,kränknings,kränkningen,kränkningens,kränkningar,kränkningars,kränkningarna,kränkningarnas,en,kr,kr,krä,krä,ng,en,ing,gen,0.2222222222222222,0.2727272727272727,9,11
+tak,~et; pl. ~ ,tak,taks,taket,takets,tak,taks,taken,takens,ett,ta,ta,tak,tak,ak,et,tak,ket,0.3333333333333333,0.4,3,5
+säsong,~en ~er ,säsong,säsongs,säsongen,säsongens,säsonger,säsongers,säsongerna,säsongernas,en,sä,sä,säs,säs,ng,en,ong,gen,0.3333333333333333,0.375,6,8
+period,~en ~er ,period,periods,perioden,periodens,perioder,perioders,perioderna,periodernas,en,pe,pe,per,per,od,en,iod,den,0.5,0.5,6,8
+organ,~et; pl. ~ ,organ,organs,organet,organets,organ,organs,organen,organens,ett,or,or,org,org,an,et,gan,net,0.4,0.42857142857142855,5,7
+dom,~en ~ar ,dom,doms,domen,domens,domar,domars,domarna,domarnas,en,do,do,dom,dom,om,en,dom,men,0.3333333333333333,0.4,3,5
+dom,~en ~er ,dom,doms,domen,domens,domer,domers,domerna,domernas,en,do,do,dom,dom,om,en,dom,men,0.3333333333333333,0.4,3,5
+såg,~en ~ar ,såg,sågs,sågen,sågens,sågar,sågars,sågarna,sågarnas,en,så,så,såg,såg,åg,en,såg,gen,0.3333333333333333,0.4,3,5
+huvudbok,~en ?böcker ,huvudbok,huvudboks,huvudboken,huvudbokens,huvudböcker,huvudböckers,huvudböckerna,huvudböckernas,en,hu,hu,huv,huv,ok,en,bok,ken,0.375,0.4,8,10
+våg,~en ~or ,våg,vågs,vågen,vågens,vågor,vågors,vågorna,vågornas,en,vå,vå,våg,våg,åg,en,våg,gen,0.3333333333333333,0.4,3,5
+våg,~en ~ar ,våg,vågs,vågen,vågens,vågar,vågars,vågarna,vågarnas,en,vå,vå,våg,våg,åg,en,våg,gen,0.3333333333333333,0.4,3,5
+påstående,~t ~n ,påstående,påståendes,påståendet,påståendets,påståenden,påståendens,påståendena,påståendenas,ett,på,på,pås,pås,de,et,nde,det,0.4444444444444444,0.4,9,10
+exempel,exemplet; pl. ~,exempel,exempels,exemplet,exemplets,exempel,exempels,exemplen,exemplens,ett,ex,ex,exe,exe,el,et,pel,let,0.42857142857142855,0.375,7,8
+massaker,~n massakrer ,massaker,massakers,massakern,massakerns,massakrer,massakrers,massakrerna,massakrernas,en,ma,ma,mas,mas,er,rn,ker,ern,0.375,0.3333333333333333,8,9
+minne,~t ~n ,minne,minnes,minnet,minnets,minnen,minnens,minnena,minnenas,ett,mi,mi,min,min,ne,et,nne,net,0.4,0.3333333333333333,5,6
+order,~n; pl. ~ el. ordrar ,order,orders,ordern,orderns,order (ordrar),orders (ordrars),orderna (ordrarna),ordernas (ordrarnas),en,or,or,ord,ord,er,rn,der,ern,0.4,0.3333333333333333,5,6
+skulle,~n skullar ,skulle,skulles,skullen,skullens,skullar,skullars,skullarna,skullarnas,en,sk,sk,sku,sku,le,en,lle,len,0.3333333333333333,0.2857142857142857,6,7
+huvud,~et; pl. ~en,huvud,huvuds,huvudet,huvudets,huvuden,huvudens,huvudena,huvudenas,ett,hu,hu,huv,huv,ud,et,vud,det,0.4,0.42857142857142855,5,7
+kampanj,~en ~er ,kampanj,kampanjs,kampanjen,kampanjens,kampanjer,kampanjers,kampanjerna,kampanjernas,en,ka,ka,kam,kam,nj,en,anj,jen,0.2857142857142857,0.3333333333333333,7,9
+grepp,~et; pl. ~ ,grepp,grepps,greppet,greppets,grepp,grepps,greppen,greppens,ett,gr,gr,gre,gre,pp,et,epp,pet,0.2,0.2857142857142857,5,7
+vård,~en ~ar ,vård,vårds,vården,vårdens,vårdar,vårdars,vårdarna,vårdarnas,en,vå,vå,vår,vår,rd,en,ård,den,0.25,0.3333333333333333,4,6
+sadelstad,~en ,sadelstad,sadelstads,sadelstaden,sadelstadens,NOP,NOP,NOP,NOP,en,sa,sa,sad,sad,ad,en,tad,den,0.3333333333333333,0.36363636363636365,9,11
+hear·ing,~en ~ar ,hearing,hearings,hearingen,hearingens,hearingar,hearingars,hearingarna,hearingarnas,en,he,he,hea,hea,ng,en,ing,gen,0.42857142857142855,0.4444444444444444,7,9
+hedersknyffel,~n ?knyfflar ,hedersknyffel,hedersknyffels,hedersknyffeln,hedersknyffelns,hedersknyfflar,hedersknyfflars,hedersknyfflarna,hedersknyfflarnas,en,he,he,hed,hed,el,ln,fel,eln,0.3076923076923077,0.2857142857142857,13,14
+demokrati,~n ~er ,demokrati,demokratis,demokratin,demokratins,demokratier,demokratiers,demokratierna,demokratiernas,en,de,de,dem,dem,ti,in,ati,tin,0.4444444444444444,0.4,9,10
+länd,~en ~er ,länd,länds,länden,ländens,länder,länders,länderna,ländernas,en,lä,lä,län,län,nd,en,änd,den,0.25,0.3333333333333333,4,6
+kritik,~en ,kritik,kritiks,kritiken,kritikens,NOP,NOP,NOP,NOP,en,kr,kr,kri,kri,ik,en,tik,ken,0.3333333333333333,0.375,6,8
+studieresa,~n ?resor ,studieresa,studieresas,studieresan,studieresans,studieresor,studieresors,studieresorna,studieresornas,en,st,st,stu,stu,sa,an,esa,san,0.5,0.45454545454545453,10,11
+stadium,stadiet stadier ,stadium,stadiums,stadiet,stadiets,stadier,stadiers,stadierna,stadiernas,ett,st,st,sta,sta,um,et,ium,iet,0.42857142857142855,0.42857142857142855,7,7
+huvudgata,~n ?gator ,huvudgata,huvudgatas,huvudgatan,huvudgatans,huvudgator,huvudgators,huvudgatorna,huvudgatornas,en,hu,hu,huv,huv,ta,an,ata,tan,0.4444444444444444,0.4,9,10
+scenario,~t; pl. scenarier el. ~n ,scenario,scenarios,scenariot,scenariots,scenarier (scenarion),scenariers (scenarions),scenarierna (scenariona),scenariernas (scenarionas),ett,sc,sc,sce,sce,io,ot,rio,iot,0.5,0.4444444444444444,8,9
+service,~n [?isen] ,service,services,servicen,servicens,NOP,NOP,NOP,NOP,en,se,se,ser,ser,ce,en,ice,cen,0.42857142857142855,0.375,7,8
+lunch,~en ~er ,lunch,lunchs,lunchen,lunchens,luncher,lunchers,luncherna,lunchernas,en,lu,lu,lun,lun,ch,en,nch,hen,0.2,0.2857142857142857,5,7
+bord,~et; pl. ~ ,bord,bords,bordet,bordets,bord,bords,borden,bordens,ett,bo,bo,bor,bor,rd,et,ord,det,0.25,0.3333333333333333,4,6
+kulör,~en ~er ,kulör,kulörs,kulören,kulörens,kulörer,kulörers,kulörerna,kulörernas,en,ku,ku,kul,kul,ör,en,lör,ren,0.4,0.42857142857142855,5,7
+senior,~en ~er ,senior,seniors,senioren,seniorens,seniorer,seniorers,seniorerna,seniorernas,en,se,se,sen,sen,or,en,ior,ren,0.5,0.5,6,8
+skog,~en ~ar ,skog,skogs,skogen,skogens,skogar,skogars,skogarna,skogarnas,en,sk,sk,sko,sko,og,en,kog,gen,0.25,0.3333333333333333,4,6
+steg,~et; pl. ~ ,steg,stegs,steget,stegets,steg,stegs,stegen,stegens,ett,st,st,ste,ste,eg,et,teg,get,0.25,0.3333333333333333,4,6
+studio,~n ~r ,studio,studios,studion,studions,studior,studiors,studiorna,studiornas,en,st,st,stu,stu,io,on,dio,ion,0.5,0.42857142857142855,6,7
+toa,~n toor ,toa,toas,toan,toans,toor,toors,toorna,toornas,en,to,to,toa,toa,oa,an,toa,oan,0.6666666666666666,0.5,3,4
+vred,~et; pl. ~ ,vred,vreds,vredet,vredets,vred,vreds,vreden,vredens,ett,vr,vr,vre,vre,ed,et,red,det,0.25,0.3333333333333333,4,6
+nummer,numret; pl. ~,nummer,nummers,numret,numrets,nummer,nummers,numren,numrens,ett,nu,nu,num,num,er,et,mer,ret,0.3333333333333333,0.3333333333333333,6,6
+sordin,~en ~er ,sordin,sordins,sordinen,sordinens,sordiner,sordiners,sordinerna,sordinernas,en,so,so,sor,sor,in,en,din,nen,0.3333333333333333,0.375,6,8
+huvudsak,~en ~er ,huvudsak,huvudsaks,huvudsaken,huvudsakens,huvudsaker,huvudsakers,huvudsakerna,huvudsakernas,en,hu,hu,huv,huv,ak,en,sak,ken,0.375,0.4,8,10
+evidens,~en ,evidens,evidens,evidensen,evidensens,NOP,NOP,NOP,NOP,en,ev,ev,evi,evi,ns,en,ens,sen,0.42857142857142855,0.4444444444444444,7,9
+blankett,~en ~er ,blankett,blanketts,blanketten,blankettens,blanketter,blanketters,blanketterna,blanketternas,en,bl,bl,bla,bla,tt,en,ett,ten,0.25,0.3,8,10
+fallos,~en ~ar ,fallos,fallos,fallosen,fallosens,fallosar,fallosars,fallosarna,fallosarnas,en,fa,fa,fal,fal,os,en,los,sen,0.3333333333333333,0.375,6,8
+identitet,~en ~er ,identitet,identitets,identiteten,identitetens,identiteter,identiteters,identiteterna,identiteternas,en,id,id,ide,ide,et,en,tet,ten,0.4444444444444444,0.45454545454545453,9,11
+centrum,~et; pl. ~ hellre än centra,centrum,centrums,centrumet,centrumets,centrum (centra),centrums (centras),centrumen (centra),centrumens (centras),ett,ce,ce,cen,cen,um,et,rum,met,0.2857142857142857,0.3333333333333333,7,9
+kompendium,kompendiet kompendier ,kompendium,kompendiums,kompendiet,kompendiets,kompendier,kompendiers,kompendierna,kompendiernas,ett,ko,ko,kom,kom,um,et,ium,iet,0.4,0.4,10,10
+spa,~t el. ~et; pl. ~n ,spa,spas,spat (spaet),spats (spaets),span,spans,spana,spanas,ett,sp,sp,spa,spa,pa,et,spa,aet,0.3333333333333333,0.25,3,12
+skälva,~n ,skälva,skälvas,skälvan,skälvans,NOP,NOP,NOP,NOP,en,sk,sk,skä,skä,va,an,lva,van,0.3333333333333333,0.2857142857142857,6,7
+sena,~n senor ,sena,senas,senan,senans,senor,senors,senorna,senornas,en,se,se,sen,sen,na,an,ena,nan,0.5,0.4,4,5
+pris,~et; pl. ~ el. ~er ,pris,pris,priset,prisets,pris (priser),pris (prisers),prisen (priserna),prisens (prisernas),ett,pr,pr,pri,pri,is,et,ris,set,0.25,0.3333333333333333,4,6
+pris,~et ~er ,pris,pris,priset,prisets,priser,prisers,priserna,prisernas,ett,pr,pr,pri,pri,is,et,ris,set,0.25,0.3333333333333333,4,6
+pris,~et ,pris,pris,priset,prisets,NOP,NOP,NOP,NOP,ett,pr,pr,pri,pri,is,et,ris,set,0.25,0.3333333333333333,4,6
+pris,~en ~er ,pris,pris,prisen,prisens,priser,prisers,priserna,prisernas,en,pr,pr,pri,pri,is,en,ris,sen,0.25,0.3333333333333333,4,6
+pris,~en ~ar ,pris,pris,prisen,prisens,prisar,prisars,prisarna,prisarnas,en,pr,pr,pri,pri,is,en,ris,sen,0.25,0.3333333333333333,4,6
+gitarr,~en ~er ,gitarr,gitarrs,gitarren,gitarrens,gitarrer,gitarrers,gitarrerna,gitarrernas,en,gi,gi,git,git,rr,en,arr,ren,0.3333333333333333,0.375,6,8
+poäng,~en hellre än ~et; pl. ~ ,poäng (ett poäng),poängs (ett poängs),poängen (poänget),poängens (poängets),poäng,poängs,poängen,poängens,en,po,po,poä,poä,ng,et,äng,get,0.29411764705882354,0.35294117647058826,17,17
+poäng,~en ~er ,poäng,poängs,poängen,poängens,poänger,poängers,poängerna,poängernas,en,po,po,poä,poä,ng,en,äng,gen,0.4,0.42857142857142855,5,7
+gluntsång,~en ~er ,gluntsång,gluntsångs,gluntsången,gluntsångens,gluntsånger,gluntsångers,gluntsångerna,gluntsångernas,en,gl,gl,glu,glu,ng,en,ång,gen,0.2222222222222222,0.2727272727272727,9,11
+mil,~en; pl. ~ ,mil,mils,milen,milens,mil,mils,milen,milens,en,mi,mi,mil,mil,il,en,mil,len,0.3333333333333333,0.4,3,5
+kredd,~en ,kredd (en cred),kredds (en creds),kredden (creden),kreddens (credens),NOP,NOP,NOP,NOP,en,kr,kr,kre,kre,ed,en,red,den,0.2,0.25,15,16
+omsorg,~en ~er ,omsorg,omsorgs,omsorgen,omsorgens,omsorger,omsorgers,omsorgerna,omsorgernas,en,om,om,oms,oms,rg,en,org,gen,0.3333333333333333,0.375,6,8
+kontrakt,~et; pl. ~ ,kontrakt,kontrakts,kontraktet,kontraktets,kontrakt,kontrakts,kontrakten,kontraktens,ett,ko,ko,kon,kon,kt,et,akt,tet,0.25,0.3,8,10
+synonym,~en ~er ,synonym,synonyms,synonymen,synonymens,synonymer,synonymers,synonymerna,synonymernas,en,sy,sy,syn,syn,ym,en,nym,men,0.42857142857142855,0.4444444444444444,7,9
+argument,~et; pl. ~ ,argument,arguments,argumentet,argumentets,argument,arguments,argumenten,argumentens,ett,ar,ar,arg,arg,nt,et,ent,tet,0.375,0.4,8,10
+motivat·ion,~en ~er ,motivation,motivations,motivationen,motivationens,motivationer,motivationers,motivationerna,motivationernas,en,mo,mo,mot,mot,on,en,ion,nen,0.5,0.5,10,12
+selot,~en ~er ,selot (en zelot),selots (en zelots),seloten (zeloten),selotens (zelotens),seloter (zeloter),seloters (zeloters),seloterna (zeloterna),seloternas (zeloternas),en,se,se,sel,sel,ot,en,lot,ten,0.3125,0.35294117647058826,16,17
+testamente,~t ~n ,testamente,testamentes,testamentet,testamentets,testamenten,testamentens,testamentena,testamentenas,ett,te,te,tes,tes,te,et,nte,tet,0.4,0.36363636363636365,10,11
+kund,~en ~er ,kund,kunds,kunden,kundens,kunder,kunders,kunderna,kundernas,en,ku,ku,kun,kun,nd,en,und,den,0.25,0.3333333333333333,4,6
+quiz,~et; pl. ~ ,quiz,quiz,quizet,quizets,quiz,quiz,quizen,quizens,ett,qu,qu,qui,qui,iz,et,uiz,zet,0.5,0.5,4,6
+konkret·ion,~en ~er ,konkretion,konkretions,konkretionen,konkretionens,konkretioner,konkretioners,konkretionerna,konkretionernas,en,ko,ko,kon,kon,on,en,ion,nen,0.4,0.4166666666666667,10,12
+komma,~t ~n ,komma,kommas,kommat,kommats,komman,kommans,kommana,kommanas,ett,ko,ko,kom,kom,ma,at,mma,mat,0.4,0.3333333333333333,5,6
+morbror,?brodern el. ?brorn; pl. ?bröder ,morbror (en morbroder),morbrors (en morbroders),morbrodern (morbrorn),morbroderns (morbrorns),morbröder,morbröders,morbröderna,morbrödernas,en,mo,mo,mor,mor,er,rn,der,orn,0.2727272727272727,0.23809523809523808,22,21
+vaccin,~et; pl. ~er hellre än ~ ,vaccin,vaccins,vaccinet,vaccinets,vacciner (vaccin),vacciners (vaccins),vaccinerna (vaccinen),vaccinernas (vaccinens),ett,va,va,vac,vac,in,et,cin,net,0.3333333333333333,0.375,6,8
+tematik,~en ,tematik,tematiks,tematiken,tematikens,NOP,NOP,NOP,NOP,en,te,te,tem,tem,ik,en,tik,ken,0.42857142857142855,0.4444444444444444,7,9
+kemi,~n ,kemi,kemis,kemin,kemins,NOP,NOP,NOP,NOP,en,ke,ke,kem,kem,mi,in,emi,min,0.5,0.4,4,5
+input,~en ,input,inputs,inputen,inputens,NOP,NOP,NOP,NOP,en,in,in,inp,inp,ut,en,put,ten,0.4,0.42857142857142855,5,7
+slå,~n ~ar ,slå,slås,slån,slåns,slåar,slåars,slåarna,slåarnas,en,sl,sl,slå,slå,lå,ån,slå,lån,0.3333333333333333,0.25,3,4
+slå,~n ~r ,slå,slås,slån,slåns,slår,slårs,slårna,slårnas,en,sl,sl,slå,slå,lå,ån,slå,lån,0.3333333333333333,0.25,3,4
+roman,~en ~er ,roman,romans,romanen,romanens,romaner,romaners,romanerna,romanernas,en,ro,ro,rom,rom,an,en,man,nen,0.4,0.42857142857142855,5,7
+händelse,~n ~r ,händelse,händelses,händelsen,händelsens,händelser,händelsers,händelserna,händelsernas,en,hä,hä,hän,hän,se,en,lse,sen,0.375,0.3333333333333333,8,9
+rättstavning,~en ~ar ,rättstavning,rättstavnings,rättstavningen,rättstavningens,rättstavningar,rättstavningars,rättstavningarna,rättstavningarnas,en,rä,rä,rät,rät,ng,en,ing,gen,0.25,0.2857142857142857,12,14
+subaltern,~en ~er ,subaltern,subalterns,subalternen,subalternens,subalterner,subalterners,subalternerna,subalternernas,en,su,su,sub,sub,rn,en,ern,nen,0.3333333333333333,0.36363636363636365,9,11
+transformat·ion,~en ~er ,transformation,transformations,transformationen,transformationens,transformationer,transformationers,transformationerna,transformationernas,en,tr,tr,tra,tra,on,en,ion,nen,0.35714285714285715,0.375,14,16
+tåga,~n tågor ,tåga,tågas,tågan,tågans,tågor,tågors,tågorna,tågornas,en,tå,tå,tåg,tåg,ga,an,åga,gan,0.5,0.4,4,5
+gods,~et; pl. ~ ,gods,gods,godset,godsets,gods,gods,godsen,godsens,ett,go,go,god,god,ds,et,ods,set,0.25,0.3333333333333333,4,6
+beslut,~et; pl. ~ ,beslut,besluts,beslutet,beslutets,beslut,besluts,besluten,beslutens,ett,be,be,bes,bes,ut,et,lut,tet,0.3333333333333333,0.375,6,8
+genitiv,~en ~er ,genitiv,genitivs,genitiven,genitivens,genitiver,genitivers,genitiverna,genitivernas,en,ge,ge,gen,gen,iv,en,tiv,ven,0.42857142857142855,0.4444444444444444,7,9
+officer,~en; som pl. anv. officerare,officer,officers,officeren,officerens,officerare,officerares,officerarna,officerarnas,en,of,of,off,off,er,en,cer,ren,0.42857142857142855,0.4444444444444444,7,9
+frågesats,~en ~er ,frågesats,frågesats,frågesatsen,frågesatsens,frågesatser,frågesatsers,frågesatserna,frågesatsernas,en,fr,fr,frå,frå,ts,en,ats,sen,0.3333333333333333,0.36363636363636365,9,11
+kontinuitet,~en ,kontinuitet,kontinuitets,kontinuiteten,kontinuitetens,NOP,NOP,NOP,NOP,en,ko,ko,kon,kon,et,en,tet,ten,0.45454545454545453,0.46153846153846156,11,13
+resa,~n resor ,resa,resas,resan,resans,resor,resors,resorna,resornas,en,re,re,res,res,sa,an,esa,san,0.5,0.4,4,5
+diva,~n divor ,diva,divas,divan,divans,divor,divors,divorna,divornas,en,di,di,div,div,va,an,iva,van,0.5,0.4,4,5
+tesaurus,~en ~ar ,tesaurus,tesaurus,tesaurusen,tesaurusens,tesaurusar,tesaurusars,tesaurusarna,tesaurusarnas,en,te,te,tes,tes,us,en,rus,sen,0.5,0.5,8,10
+specialklass,~en ~er ,specialklass,specialklass,specialklassen,specialklassens,specialklasser,specialklassers,specialklasserna,specialklassernas,en,sp,sp,spe,spe,ss,en,ass,sen,0.3333333333333333,0.35714285714285715,12,14
+bräsch,~en ~er ,bräsch,bräschs,bräschen,bräschens,bräscher,bräschers,bräscherna,bräschernas,en,br,br,brä,brä,ch,en,sch,hen,0.16666666666666666,0.25,6,8
+sadel,~n sadlar ,sadel,sadels,sadeln,sadelns,sadlar,sadlars,sadlarna,sadlarnas,en,sa,sa,sad,sad,el,ln,del,eln,0.4,0.3333333333333333,5,6
+bilaga,~n ?lagor ,bilaga,bilagas,bilagan,bilagans,bilagor,bilagors,bilagorna,bilagornas,en,bi,bi,bil,bil,ga,an,aga,gan,0.5,0.42857142857142855,6,7
+offert,~en ~er ,offert,offerts,offerten,offertens,offerter,offerters,offerterna,offerternas,en,of,of,off,off,rt,en,ert,ten,0.3333333333333333,0.375,6,8
+attsats,~en ~er ,attsats,attsats,attsatsen,attsatsens,attsatser,attsatsers,attsatserna,attsatsernas,en,at,at,att,att,ts,en,ats,sen,0.2857142857142857,0.3333333333333333,7,9
+register,registret; pl. ~,register,registers,registret,registrets,register,registers,registren,registrens,ett,re,re,reg,reg,er,et,ter,ret,0.375,0.3333333333333333,8,9
+gammalsvenska,~n ,gammalsvenska,gammalsvenskas,gammalsvenskan,gammalsvenskans,NOP,NOP,NOP,NOP,en,ga,ga,gam,gam,ka,an,ska,kan,0.3076923076923077,0.2857142857142857,13,14
+isjaktsegl·ing,~en ,isjaktsegling (en isjaktssegling),isjaktseglings (en isjaktsseglings),isjaktseglingen (isjaktsseglingen),isjaktseglingens (isjaktsseglingens),NOP,NOP,NOP,NOP,en,is,is,isj,isj,ng,en,ing,gen,0.2727272727272727,0.29411764705882354,33,34
+sed,~en ~er ,sed,seds,seden,sedens,seder,seders,sederna,sedernas,en,se,se,sed,sed,ed,en,sed,den,0.3333333333333333,0.4,3,5
+etsning,~en ~ar ,etsning,etsnings,etsningen,etsningens,etsningar,etsningars,etsningarna,etsningarnas,en,et,et,ets,ets,ng,en,ing,gen,0.2857142857142857,0.3333333333333333,7,9
+upplevelse,~n ~r ,upplevelse,upplevelses,upplevelsen,upplevelsens,upplevelser,upplevelsers,upplevelserna,upplevelsernas,en,up,up,upp,upp,se,en,lse,sen,0.4,0.36363636363636365,10,11
+ortnamn,~et; pl. ~ ,ortnamn (ett ortsnamn),ortnamns (ett ortsnamns),ortnamnet (ortsnamnet),ortnamnets (ortsnamnets),ortnamn (ortsnamn),ortnamns (ortsnamns),ortnamnen (ortsnamnen),ortnamnens (ortsnamnens),ett,or,or,ort,ort,mn,et,amn,net,0.22727272727272727,0.2727272727272727,22,22
+avseende,~t ~n ,avseende,avseendes,avseendet,avseendets,avseenden,avseendens,avseendena,avseendenas,ett,av,av,avs,avs,de,et,nde,det,0.5,0.4444444444444444,8,9
+egenskap,~en ~er ,egenskap,egenskaps,egenskapen,egenskapens,egenskaper,egenskapers,egenskaperna,egenskapernas,en,eg,eg,ege,ege,ap,en,kap,pen,0.375,0.4,8,10
+vers,~en ~er ,vers,vers,versen,versens,NOP,NOP,NOP,NOP,en,ve,ve,ver,ver,rs,en,ers,sen,0.25,0.3333333333333333,4,6
+komma,~t ~n ,komma,kommas,kommat,kommats,komman,kommans,kommana,kommanas,ett,ko,ko,kom,kom,ma,at,mma,mat,0.4,0.3333333333333333,5,6
+taxonomi,~n ,taxonomi,taxonomis,taxonomin,taxonomins,NOP,NOP,NOP,NOP,en,ta,ta,tax,tax,mi,in,omi,min,0.5,0.4444444444444444,8,9
+flertal,~et ,flertal,flertals,flertalet,flertalets,NOP,NOP,NOP,NOP,ett,fl,fl,fle,fle,al,et,tal,let,0.2857142857142857,0.3333333333333333,7,9
+rutin,~en ~er ,rutin,rutins,rutinen,rutinens,rutiner,rutiners,rutinerna,rutinernas,en,ru,ru,rut,rut,in,en,tin,nen,0.4,0.42857142857142855,5,7
+shiit,~en ~er ,shiit,shiits,shiiten,shiitens,shiiter,shiiters,shiiterna,shiiternas,en,sh,sh,shi,shi,it,en,iit,ten,0.4,0.42857142857142855,5,7
+sångstil,~en ~ar ,sångstil,sångstils,sångstilen,sångstilens,sångstilar,sångstilars,sångstilarna,sångstilarnas,en,så,så,sån,sån,il,en,til,len,0.25,0.3,8,10
+huvudsats,~en ~er ,huvudsats,huvudsats,huvudsatsen,huvudsatsens,huvudsatser,huvudsatsers,huvudsatserna,huvudsatsernas,en,hu,hu,huv,huv,ts,en,ats,sen,0.3333333333333333,0.36363636363636365,9,11
+summa,~n summor ,summa,summas,summan,summans,summor,summors,summorna,summornas,en,su,su,sum,sum,ma,an,mma,man,0.4,0.3333333333333333,5,6
+possessivpronomen,~et; pl. ~ el. ?pronomina,possessivpronomen,possessivpronomens,possessivpronomenet,possessivpronomenets,possessivpronomen (possessivpronomina),possessivpronomens (possessivpronominas),possessivpronomenen (possessivpronomina),possessivpronomenens (possessivpronominas),ett,po,po,pos,pos,en,et,men,net,0.35294117647058826,0.3684210526315789,17,19
+morfem,~et; pl. ~ ,morfem,morfems,morfemet,morfemets,morfem,morfems,morfemen,morfemens,ett,mo,mo,mor,mor,em,et,fem,met,0.3333333333333333,0.375,6,8
+design,~en ~er ,design,designs,designen,designens,designer,designers,designerna,designernas,en,de,de,des,des,gn,en,ign,nen,0.3333333333333333,0.375,6,8
+förkortning,~en ~ar ,förkortning,förkortnings,förkortningen,förkortningens,förkortningar,förkortningars,förkortningarna,förkortningarnas,en,fö,fö,för,för,ng,en,ing,gen,0.2727272727272727,0.3076923076923077,11,13
+sovande,~t ,sovande,sovandes,sovandet,sovandets,NOP,NOP,NOP,NOP,ett,so,so,sov,sov,de,et,nde,det,0.42857142857142855,0.375,7,8
+jord,~en ~ar ,jord,jords,jorden,jordens,jordar,jordars,jordarna,jordarnas,en,jo,jo,jor,jor,rd,en,ord,den,0.25,0.3333333333333333,4,6
+viktighet,~en ~er ,viktighet,viktighets,viktigheten,viktighetens,viktigheter,viktigheters,viktigheterna,viktigheternas,en,vi,vi,vik,vik,et,en,het,ten,0.3333333333333333,0.36363636363636365,9,11
+ordförståelse,~n ,ordförståelse,ordförståelses,ordförståelsen,ordförståelsens,NOP,NOP,NOP,NOP,en,or,or,ord,ord,se,en,lse,sen,0.38461538461538464,0.35714285714285715,13,14
+förskrivning,~en ~ar ,förskrivning,förskrivnings,förskrivningen,förskrivningens,förskrivningar,förskrivningars,förskrivningarna,förskrivningarnas,en,fö,fö,för,för,ng,en,ing,gen,0.25,0.2857142857142857,12,14
+axiom,~et; pl. ~ ,axiom,axioms,axiomet,axiomets,axiom,axioms,axiomen,axiomens,ett,ax,ax,axi,axi,om,et,iom,met,0.6,0.5714285714285714,5,7
+appendix,~et; pl. ~ ,appendix,appendix,appendixet,appendixets,appendix,appendix,appendixen,appendixens,ett,ap,ap,app,app,ix,et,dix,xet,0.375,0.4,8,10
+språklära,~n ?läror ,språklära,språkläras,språkläran,språklärans,språkläror,språklärors,språklärorna,språklärornas,en,sp,sp,spr,spr,ra,an,ära,ran,0.3333333333333333,0.3,9,10
+klipp,~et; pl. ~ ,klipp,klipps,klippet,klippets,klipp,klipps,klippen,klippens,ett,kl,kl,kli,kli,pp,et,ipp,pet,0.2,0.2857142857142857,5,7
+gudson,~en ?söner ,gudson,gudsons,gudsonen,gudsonens,gudsöner,gudsöners,gudsönerna,gudsönernas,en,gu,gu,gud,gud,on,en,son,nen,0.3333333333333333,0.375,6,8
+senior,~en ~er ,senior,seniors,senioren,seniorens,seniorer,seniorers,seniorerna,seniorernas,en,se,se,sen,sen,or,en,ior,ren,0.5,0.5,6,8
+salva,~n salvor ,salva,salvas,salvan,salvans,salvor,salvors,salvorna,salvornas,en,sa,sa,sal,sal,va,an,lva,van,0.4,0.3333333333333333,5,6
+tvång,~et; pl. ~ ,tvång,tvångs,tvånget,tvångets,tvång,tvångs,tvången,tvångens,ett,tv,tv,två,två,ng,et,ång,get,0.2,0.2857142857142857,5,7
+spridning,~en ~ar ,spridning,spridnings,spridningen,spridningens,spridningar,spridningars,spridningarna,spridningarnas,en,sp,sp,spr,spr,ng,en,ing,gen,0.2222222222222222,0.2727272727272727,9,11
+motsats,~en ~er ,motsats,motsats,motsatsen,motsatsens,motsatser,motsatsers,motsatserna,motsatsernas,en,mo,mo,mot,mot,ts,en,ats,sen,0.2857142857142857,0.3333333333333333,7,9
+hållbarhet,~en ,hållbarhet,hållbarhets,hållbarheten,hållbarhetens,NOP,NOP,NOP,NOP,en,hå,hå,hål,hål,et,en,het,ten,0.3,0.3333333333333333,10,12
+suga,~n sugor ,suga,sugas,sugan,sugans,sugor,sugors,sugorna,sugornas,en,su,su,sug,sug,ga,an,uga,gan,0.5,0.4,4,5
+emissarie,~n ~r ,emissarie,emissaries,emissarien,emissariens,emissarier,emissariers,emissarierna,emissariernas,en,em,em,emi,emi,ie,en,rie,ien,0.5555555555555556,0.5,9,10
+familj,~en ~er ,familj,familjs,familjen,familjens,familjer,familjers,familjerna,familjernas,en,fa,fa,fam,fam,lj,en,ilj,jen,0.3333333333333333,0.375,6,8
+hög,~en ~ar ,hög,högs,högen,högens,högar,högars,högarna,högarnas,en,hö,hö,hög,hög,ög,en,hög,gen,0.3333333333333333,0.4,3,5
+praxis,best. ~ el. ~en ,praxis,praxis,praxis (praxisen),praxis (praxisens),NOP,NOP,NOP,NOP,en,pr,pr,pra,pra,is,en,xis,sen,0.3333333333333333,0.29411764705882354,6,17
+sebu,~n ~er ,sebu (en zebu),sebus (en zebus),sebun (zebun),sebuns (zebuns),sebuer (zebuer),sebuers (zebuers),sebuerna (zebuerna),sebuernas (zebuernas),en,se,se,seb,seb,bu,un,ebu,bun,0.35714285714285715,0.3076923076923077,14,13
+socka,~n sockor ,socka,sockas,sockan,sockans,sockor,sockors,sockorna,sockornas,en,so,so,soc,soc,ka,an,cka,kan,0.4,0.3333333333333333,5,6
+soptunna,~n ?tunnor ,soptunna,soptunnas,soptunnan,soptunnans,soptunnor,soptunnors,soptunnorna,soptunnornas,en,so,so,sop,sop,na,an,nna,nan,0.375,0.3333333333333333,8,9
+förutsättning,~en ~ar ,förutsättning,förutsättnings,förutsättningen,förutsättningens,förutsättningar,förutsättningars,förutsättningarna,förutsättningarnas,en,fö,fö,för,för,ng,en,ing,gen,0.3076923076923077,0.3333333333333333,13,15
+inkomst,~en ~er ,inkomst,inkomsts,inkomsten,inkomstens,inkomster,inkomsters,inkomsterna,inkomsternas,en,in,in,ink,ink,st,en,mst,ten,0.2857142857142857,0.3333333333333333,7,9
+hotell,~et; pl. ~ ,hotell,hotells,hotellet,hotellets,hotell,hotells,hotellen,hotellens,ett,ho,ho,hot,hot,ll,et,ell,let,0.3333333333333333,0.375,6,8
+sess·ion,~en ~er ,session,sessions,sessionen,sessionens,sessioner,sessioners,sessionerna,sessionernas,en,se,se,ses,ses,on,en,ion,nen,0.42857142857142855,0.4444444444444444,7,9
+sociologi,~n ,sociologi,sociologis,sociologin,sociologins,NOP,NOP,NOP,NOP,en,so,so,soc,soc,gi,in,ogi,gin,0.5555555555555556,0.5,9,10
+subjekt,~et; pl. ~ ,subjekt,subjekts,subjektet,subjektets,subjekt,subjekts,subjekten,subjektens,ett,su,su,sub,sub,kt,et,ekt,tet,0.2857142857142857,0.3333333333333333,7,9
+ordlista,~n ?listor ,ordlista,ordlistas,ordlistan,ordlistans,ordlistor,ordlistors,ordlistorna,ordlistornas,en,or,or,ord,ord,ta,an,sta,tan,0.375,0.3333333333333333,8,9
+verb,~et; pl. ~ ,verb,verbs,verbet,verbets,verb,verbs,verben,verbens,ett,ve,ve,ver,ver,rb,et,erb,bet,0.25,0.3333333333333333,4,6
+kontingent,~en ~er ,kontingent,kontingents,kontingenten,kontingentens,kontingenter,kontingenters,kontingenterna,kontingenternas,en,ko,ko,kon,kon,nt,en,ent,ten,0.3,0.3333333333333333,10,12
+upplag,~et; pl. ~ ,upplag,upplags,upplaget,upplagets,upplag,upplags,upplagen,upplagens,ett,up,up,upp,upp,ag,et,lag,get,0.3333333333333333,0.375,6,8
+rapport,~en ~er ,rapport,rapports,rapporten,rapportens,rapporter,rapporters,rapporterna,rapporternas,en,ra,ra,rap,rap,rt,en,ort,ten,0.2857142857142857,0.3333333333333333,7,9
+sak,~en ~er ,sak,saks,saken,sakens,saker,sakers,sakerna,sakernas,en,sa,sa,sak,sak,ak,en,sak,ken,0.3333333333333333,0.4,3,5
+natt,~en nätter ,natt,natts,natten,nattens,nätter,nätters,nätterna,nätternas,en,na,na,nat,nat,tt,en,att,ten,0.25,0.3333333333333333,4,6
+tidsmarkör,~en ~er ,tidsmarkör,tidsmarkörs,tidsmarkören,tidsmarkörens,tidsmarkörer,tidsmarkörers,tidsmarkörerna,tidsmarkörernas,en,ti,ti,tid,tid,ör,en,kör,ren,0.3,0.3333333333333333,10,12
+berså,~n ~er ,berså,bersås,bersån,bersåns,bersåer,bersåers,bersåerna,bersåernas,en,be,be,ber,ber,så,ån,rså,sån,0.4,0.3333333333333333,5,6
+salighet,~en ~er ,salighet,salighets,saligheten,salighetens,saligheter,saligheters,saligheterna,saligheternas,en,sa,sa,sal,sal,et,en,het,ten,0.375,0.4,8,10
+buller,bullret ,buller,bullers,bullret,bullrets,NOP,NOP,NOP,NOP,ett,bu,bu,bul,bul,er,et,ler,ret,0.3333333333333333,0.2857142857142857,6,7
+säd,~en ,säd,säds,säden,sädens,NOP,NOP,NOP,NOP,en,sä,sä,säd,säd,äd,en,säd,den,0.3333333333333333,0.4,3,5
+tub,~en ~er ,tub,tubs,tuben,tubens,tuber,tubers,tuberna,tubernas,en,tu,tu,tub,tub,ub,en,tub,ben,0.3333333333333333,0.4,3,5
+ting,~et; pl. ~ ,ting,tings,tinget,tingets,ting,tings,tingen,tingens,ett,ti,ti,tin,tin,ng,et,ing,get,0.25,0.3333333333333333,4,6
+redovisning,~en ~ar ,redovisning,redovisnings,redovisningen,redovisningens,redovisningar,redovisningars,redovisningarna,redovisningarnas,en,re,re,red,red,ng,en,ing,gen,0.36363636363636365,0.38461538461538464,11,13
+ä,ä:et; pl. ä:n el. ä,ä,ä:s,ä:et,ä:ets,ä:n (ä),ä:ns (ä:s),ä:na,ä:nas,ett,ä,ä:,ä,ä:e,ä,et,ä,:et,1.0,0.5,1,4
+synonymordbok,~en ?ordböcker ,synonymordbok,synonymordboks,synonymordboken,synonymordbokens,synonymordböcker,synonymordböckers,synonymordböckerna,synonymordböckernas,en,sy,sy,syn,syn,ok,en,bok,ken,0.38461538461538464,0.4,13,15
+tidsplan,~en ~er ,tidsplan (en tidplan),tidsplans (en tidplans),tidsplanen (tidplanen),tidsplanens (tidplanens),tidsplaner (tidplaner),tidsplaners (tidplaners),tidsplanerna (tidplanerna),tidsplanernas (tidplanernas),en,ti,ti,tid,tid,an,en,lan,nen,0.23809523809523808,0.2727272727272727,21,22
+tidsplan,~et; pl. ~ ,tidsplan,tidsplans,tidsplanet,tidsplanets,tidsplan,tidsplans,tidsplanen,tidsplanens,ett,ti,ti,tid,tid,an,et,lan,net,0.25,0.3,8,10
+logga,~n loggor ,logga,loggas,loggan,loggans,loggor,loggors,loggorna,loggornas,en,lo,lo,log,log,ga,an,gga,gan,0.4,0.3333333333333333,5,6
+prov,~et; pl. ~ ,prov,provs,provet,provets,prov,provs,proven,provens,ett,pr,pr,pro,pro,ov,et,rov,vet,0.25,0.3333333333333333,4,6
+prov,~et; pl. ~ el. ~er ,prov,provs,provet,provets,prov (prover),provs (provers),proven (proverna),provens (provernas),ett,pr,pr,pro,pro,ov,et,rov,vet,0.25,0.3333333333333333,4,6
+kort,~et; pl. ~ ,kort,korts,kortet,kortets,kort,korts,korten,kortens,ett,ko,ko,kor,kor,rt,et,ort,tet,0.25,0.3333333333333333,4,6
+adress,~en ~er ,adress,adress,adressen,adressens,adresser,adressers,adresserna,adressernas,en,ad,ad,adr,adr,ss,en,ess,sen,0.3333333333333333,0.375,6,8
+böjning,~en ~ar ,böjning,böjnings,böjningen,böjningens,böjningar,böjningars,böjningarna,böjningarnas,en,bö,bö,böj,böj,ng,en,ing,gen,0.2857142857142857,0.3333333333333333,7,9
+morbiditet,~en ~er ,morbiditet,morbiditets,morbiditeten,morbiditetens,morbiditeter,morbiditeters,morbiditeterna,morbiditeternas,en,mo,mo,mor,mor,et,en,tet,ten,0.4,0.4166666666666667,10,12
+mall,~en ~ar ,mall,malls,mallen,mallens,mallar,mallars,mallarna,mallarnas,en,ma,ma,mal,mal,ll,en,all,len,0.25,0.3333333333333333,4,6
+paraply,~et hellre än ~n; pl. ~er hellre än ~n ,paraply (en paraply),paraplys (en paraplys),paraplyet (paraplyn),paraplyets (paraplyns),paraplyer (paraplyn),paraplyers (paraplyns),paraplyerna (paraplyna),paraplyernas (paraplynas),ett,pa,pa,par,par,ly,yn,ply,lyn,0.35,0.35,20,20
+intrång,~et; pl. ~ ,intrång,intrångs,intrånget,intrångets,intrång,intrångs,intrången,intrångens,ett,in,in,int,int,ng,et,ång,get,0.2857142857142857,0.3333333333333333,7,9
+nat·ionalitet,~en ~er ,nationalitet,nationalitets,nationaliteten,nationalitetens,nationaliteter,nationaliteters,nationaliteterna,nationaliteternas,en,na,na,nat,nat,et,en,tet,ten,0.5,0.5,12,14
+kaos,~et ,kaos,kaos,kaoset,kaosets,NOP,NOP,NOP,NOP,ett,ka,ka,kao,kao,os,et,aos,set,0.5,0.5,4,6
+stroke,~n [?en] ,stroke,strokes,stroken,strokens,NOP,NOP,NOP,NOP,en,st,st,str,str,ke,en,oke,ken,0.3333333333333333,0.2857142857142857,6,7
+utmål,~et; pl. ~ ,utmål,utmåls,utmålet,utmålets,utmål,utmåls,utmålen,utmålens,ett,ut,ut,utm,utm,ål,et,mål,let,0.4,0.42857142857142855,5,7
+lista,~n listor ,lista,listas,listan,listans,listor,listors,listorna,listornas,en,li,li,lis,lis,ta,an,sta,tan,0.4,0.3333333333333333,5,6
+göra,~t ,göra,göras,görat,görats,NOP,NOP,NOP,NOP,ett,gö,gö,gör,gör,ra,at,öra,rat,0.5,0.4,4,5
+skalk,~en ~ar ,skalk,skalks,skalken,skalkens,skalkar,skalkars,skalkarna,skalkarnas,en,sk,sk,ska,ska,lk,en,alk,ken,0.2,0.2857142857142857,5,7
+bamse,~n bamsar ,bamse,bamses,bamsen,bamsens,bamsar,bamsars,bamsarna,bamsarnas,en,ba,ba,bam,bam,se,en,mse,sen,0.4,0.3333333333333333,5,6
+individ,~en ~er ,individ,individs,individen,individens,individer,individers,individerna,individernas,en,in,in,ind,ind,id,en,vid,den,0.42857142857142855,0.4444444444444444,7,9
+slav,~en ~ar ,slav,slavs,slaven,slavens,slavar,slavars,slavarna,slavarnas,en,sl,sl,sla,sla,av,en,lav,ven,0.25,0.3333333333333333,4,6
+slav,~en ~er ,slav,slavs,slaven,slavens,slaver,slavers,slaverna,slavernas,en,sl,sl,sla,sla,av,en,lav,ven,0.25,0.3333333333333333,4,6
+sektor,~n ~er [?o´r?] ,sektor,sektors,sektorn,sektorns,sektorer,sektorers,sektorerna,sektorernas,en,se,se,sek,sek,or,rn,tor,orn,0.3333333333333333,0.2857142857142857,6,7
+ordförklar·ing,~en ~ar ,ordförklaring,ordförklarings,ordförklaringen,ordförklaringens,ordförklaringar,ordförklaringars,ordförklaringarna,ordförklaringarnas,en,or,or,ord,ord,ng,en,ing,gen,0.3076923076923077,0.3333333333333333,13,15
+pärlrad,~en ~er ,pärlrad,pärlrads,pärlraden,pärlradens,pärlrader,pärlraders,pärlraderna,pärlradernas,en,pä,pä,pär,pär,ad,en,rad,den,0.2857142857142857,0.3333333333333333,7,9
+genitiv,~en ~er ,genitiv,genitivs,genitiven,genitivens,genitiver,genitivers,genitiverna,genitivernas,en,ge,ge,gen,gen,iv,en,tiv,ven,0.42857142857142855,0.4444444444444444,7,9
+idyll,~en ~er ,idyll,idylls,idyllen,idyllens,idyller,idyllers,idyllerna,idyllernas,en,id,id,idy,idy,ll,en,yll,len,0.4,0.42857142857142855,5,7
+lyrik,~en ,lyrik,lyriks,lyriken,lyrikens,NOP,NOP,NOP,NOP,en,ly,ly,lyr,lyr,ik,en,rik,ken,0.4,0.42857142857142855,5,7
+produkt,~en ~er ,produkt,produkts,produkten,produktens,produkter,produkters,produkterna,produkternas,en,pr,pr,pro,pro,kt,en,ukt,ten,0.2857142857142857,0.3333333333333333,7,9
+lik,~et; pl. ~ ,lik,liks,liket,likets,lik,liks,liken,likens,ett,li,li,lik,lik,ik,et,lik,ket,0.3333333333333333,0.4,3,5
+bragd,~en ~er ,bragd,bragds,bragden,bragdens,bragder,bragders,bragderna,bragdernas,en,br,br,bra,bra,gd,en,agd,den,0.2,0.2857142857142857,5,7
+övning,~en ~ar ,övning,övnings,övningen,övningens,övningar,övningars,övningarna,övningarnas,en,öv,öv,övn,övn,ng,en,ing,gen,0.3333333333333333,0.375,6,8
+epok,~en ~er ,epok,epoks,epoken,epokens,epoker,epokers,epokerna,epokernas,en,ep,ep,epo,epo,ok,en,pok,ken,0.5,0.5,4,6

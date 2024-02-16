@@ -602,14 +602,14 @@ Nod û sê, nod û çar, nod û pênc, nod û şeş, nod û heft, nod û heşt, 
 ແປດສິບສອງ, ແປດສິບສາມ, ແປດສິບສີ່, ແປດສິບຫ້າ, ແປດສິບຫົກ, ແປດສິບເຈັດ, ແປດສິບແປດ, ແປດສິບເກົ້າ, ເກົ້າສິບ, ເກົ້າສິບຫນຶ່ງ, ເກົ້າສິບສອງ,
 ເກົ້າສິບສາມ, ເກົ້າສິບສີ່, ເກົ້າສິບຫ້າ, ເກົ້າສິບຫົກ, ເກົ້າສິບເຈັດ, ເກົ້າສິບແປດ, ເກົ້າສິບເກົ້າ
 {la}
-Nulla, Uno, Duo, Tri, Quatuor, Quinque, Sex, Septem, Octo, Nono, Decem, Undecim, Duodecim, Tredecim, Quatuordecim, Quindecim, Sedecim, Septemdecim, XVIII, XVIIIi, Viginti,
-Viginti unus, viginti duo, viginti tres, viginti quattuor, viginti quinque, viginti sex, viginti septem, viginti octo, viginti novem, triginta, triginta unum, triginta duo;
-Triginta tres, triginta quattuor, triginta quinque, triginta sex, triginta septem, triginta octo, triginta octo, quadraginta, quadraginta unum, quadraginta duo, quadraginta tres, quadraginta quattuor;
-Quadraginta quinque, quadraginta sex, quadraginta septem, quadraginta octo, quadraginta novem, quinquaginta, quinquaginta unum, quinquaginta duo, quinquaginta tria, quinquaginta quattuor, quinquaginta quinque, quinquaginta sex, quinquaginta septem;
-Quinquaginta octo, quinquaginta novem, sexaginta, sexaginta unum, sexaginta duo, sexaginta tres, sexaginta quattuor, sexaginta quinque, sexaginta sex, sexaginta septem, sexaginta octo, sexaginta novem, septuaginta;
-Septuaginta unum, septuaginta duo, septuaginta tres, septuaginta quattuor, septuaginta quinque, septuaginta sex, septuaginta septem, septuaginta octo, septuaginta novem, octoginta, octoginta unum;
-Octoginta duo, octoginta tres, octoginta quattuor, octoginta quinque, octoginta sex, octuaginta septem, octuaginta octo, nonaginta, nonaginta unum, nonaginta duo;
-Nonaginta tres, nonaginta quattuor, nonaginta quinque, nonaginta sex, nonaginta septem, nonaginta octo, nonaginta novem
+Nulla, Uno, Duo, Tri, Quatuor, Quinque, Sex, Septem, Octo, Nono, Decem, Undecim, Duodecim, Tredecim, Quatuordecim,
+Quindecim, Sedecim, Septendecim, Duodeviginti, Undeviginti, Viginti, Viginti unus, Viginti duo, Viginti tres, Viginti quattuor,
+Viginti quinque, Viginti sex, Viginti septem, Viginti octo, Viginti novem, Triginta, Triginta unus, Triginta duo, Triginta tres,
+Triginta quattuor, Triginta quinque, Triginta sex, Triginta septem, Triginta octo, Triginta novem, Quadraginta, Quadraginta unus,
+Quadraginta duo, Quadraginta tres, Quadraginta quattuor, Quadraginta quinque, Quadraginta sex, Quadraginta septem, Quadraginta octo,
+Quadraginta novem, Quinquaginta, Quinquaginta unus, Quinquaginta duo, Quinquaginta tres, Quinquaginta quattuor, Quinquaginta quinque,
+Quinquaginta sex, Quinquaginta septem, Quinquaginta octo, Quinquaginta novem, Sexaginta, Sexaginta unus, Sexaginta duo, Sexaginta tres,
+Sexaginta quattuor, Sexaginta quinque, Sexaginta sex, Sexaginta septem, Sexaginta octo, Sexaginta novem, Septuaginta, Septuaginta unus, Septuaginta duo, Septuaginta tres, Septuaginta quattuor, Septuaginta quinque, Septuaginta sex, Septuaginta septem, Septuaginta octo, Septuaginta novem, Octoginta, Octoginta unus, Octoginta duo, Octoginta tres, Octoginta quattuor, Octoginta quinque, Octoginta sex, Octoginta septem, Octoginta octo, Octoginta novem, Nonaginta, Nonaginta unus, Nonaginta duo, Nonaginta tres, Nonaginta quatuor, Nonaginta quinque, Nonaginta sex, Nonaginta septem, Nonaginta octo, Nonaginta novem
 {lv}
 Nulle, Viens, divi, trīs, četri, pieci, seši, septiņi, astoņi, deviņi, desmit, vienpadsmit, divpadsmit, trīspadsmit, četrpadsmit, piecpadsmit, sešpadsmit, septiņpadsmit, astoņpadsmit, deviņpadsmit, divdesmit,
 Divdesmit viens, Divdesmit divi, Divdesmit trīs, Divdesmit četri, Divdesmit pieci, Divdesmit seši, Divdesmit septiņi, Divdesmit astoņi, Divdesmit deviņi, Trīsdesmit, Trīsdesmit viens, Trīsdesmit divi,

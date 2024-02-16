@@ -1,8 +1,8 @@
-# Ignore files named "example.txt"
+# Ignore files named 
 translator.py
 
-# Ignore all files in the "temp" directory
-temp/*
+# Ignore all files in the directory
+Stage_2/Raw_Data/*
 
 # Ignore all files with a .log extension
 *.log

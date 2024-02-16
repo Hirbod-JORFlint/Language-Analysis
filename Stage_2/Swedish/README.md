@@ -9,7 +9,7 @@ However, there are certain patterns and tendencies that can be observed.
 The primary objective of this project is to find patterns from a dataset containing 91869 Swedish words. The dataset encompass a wide range of words used in various contexts. 
 This could provide valuable insights into the structure and usage of articles, contributing to the broader field of computational linguistics. These insights could be particularly useful for language learning applications, machine translation systems, and linguistic research.
 A long(er!) goal of this project is not just about discovering patterns. It’s about understanding what these patterns mean and interpreting them in the context of the Swedish language.
-<img src="https://github.com/smol-ai/developer/assets/6764957/6af16d37-2494-4722-b3a2-6fc91c005451"></img>
+<img src="https://github.com/Hirbod-JORFlint/Language-Analysis/blob/37354651a50452b4405371818d48e06aa711002f/Stage_2/Swedish/props/Pattern_mining_connections.jpeg"></img>
 
 ### Stats
 statistical patterns in gender assignment of nouns in Swedish can be quite complex and are influenced by several factors(e.g. origins, frequency of usage, ...). 

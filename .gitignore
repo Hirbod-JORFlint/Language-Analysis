@@ -2,7 +2,7 @@
 translator.py
 
 # Ignore all files in the directory
-Stage_2/Raw_Data/*
+/Stage_2/Raw_Data/*
 
 # Ignore all files with a .log extension
 *.log
